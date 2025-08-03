@@ -1,5 +1,5 @@
 {title:10 000 důvodů}
-
+{artist: Matt Redman}
 {key:C}
 {start_of_chorus}
 Chval Ho, [F]ó duše [C]má, [G]ó-ó duše [Am]má, [F]uctívá [C]jméno [G]Tvé

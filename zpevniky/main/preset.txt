@@ -1,5 +1,6 @@
 {title:New Song Title}
 {subtitle:New Song Subtitle}
+{artist: Jmeno Prijmeni}
 {key:C}
 [C]Lyric [G]lyric [D]lyric
 [C]Lyric [G]lyric [D]lyric
