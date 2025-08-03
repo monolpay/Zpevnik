@@ -19,3 +19,10 @@ Jsi [F]štědrý v [C]lásce a [G]mírný v [Am]hněvu
 pro Tvou [F]dobro[C]tu já budu [G]stále [Am]zpívat
 [F]Tisíce [C]důvodů mé [G]srdce [C]má
 {end_of_verse}
+
+{start_of_verse label="3."}
+A až [F]přijde [C]den, kdy má [C]síla zes[Am]lábne
+[F]Budu blíž [C]konci, až [G]přijde můj [Am]čas
+Stejně [F]má duše [C]bude [G]zpívat ti [Am]chválu
+[F]Tisíce [C]let tě chválit [G]napoř[C]ád
+{end_of_verse}
