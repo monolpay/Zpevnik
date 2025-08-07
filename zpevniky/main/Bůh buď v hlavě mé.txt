@@ -1,0 +1,16 @@
+{title: Bůh buď v hlavě mé}
+{artist: ?}
+
+{start_of_verse}
+1. [G]Bůh buď v [Em]hlavě [D]mé a v mém[Em] myšle[D]ní,
+[G]Bůh buď v [Em]hlavě [D]mé a v mém [C]vní[Em]má[D]ní,
+[G]Bůh buď v [Em]rukách [D]mých a v mém[Em] čině[D]ní,
+[C]Bůh buď v nohách [G]mých a [C]v tom, kam [Em]spěcha[D]jí.
+{end_of_verse}
+
+{start_of_verse label="2."}
+2. [G]Bůh buď v [Em]uších [D]mých a v mém[Em] slyše[D]ní,
+[G]Bůh buď v [Em]očích [D]mých a v mém [C]dí[Em]vá[D]ní,
+[G]Bůh buď v [Em]hlavě [D]mé a v mém[Em] mluve[D]ní,
+[C]Bůh střež odchod [G]můj a konec [D]na ze[G]mi.
+{end_of_verse}

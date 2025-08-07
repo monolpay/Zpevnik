@@ -1,0 +1,21 @@
+{title: Adonai Echad}
+{artist: Markéta Satková}
+
+{start_of_verse label="1."}
+1. [Dm]Dnes církev Tvá se [C]před Tebou [G2]sklání
+[B]S básní u [C]trůnu [G2]pokléká
+[Dm]Všemocný Vládce, [C]Tobě [G2]uctívání náleží
+[B]Jsi náš [C]Mesi[G2]áš
+{end_of_verse}
+
+{start_of_chorus}
+R: [F]Hale[C]luja, [Dm]Adonai [B]Echad
+{end_of_chorus}
+
+{start_of_bridge}
+B: [F]Sláva i [G]moc patří [B]našemu Králi Hospodinu
+[F]Nebyl a není [G]nikdo Jemu [D]podobný
+[F]Úcta i [G]čest patří [B]našemu Králi nejvyššímu
+[F]Vládci všech náro[G]dů se mu [A]pokloní
+{end_of_bridge}
+

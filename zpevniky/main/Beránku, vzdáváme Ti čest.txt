@@ -1,0 +1,11 @@
+{title: Beránku, vzdáváme Ti čest}
+{artist: Lydie Votrubcová}
+
+{start_of_verse label="1."}
+1. [Em]Beránku, [D]vzdáváme Ti [Em]čest a [D]slávu,
+[Em]Beránku, [D]vzdáváme Ti [A]dík.
+{end_of_verse}
+
+{start_of_chorus}
+R: Z našich [Em]rtů, z našich [Cmaj7]myslí, z našich [G]rukou přijmi [H7]dík.
+{end_of_chorus}

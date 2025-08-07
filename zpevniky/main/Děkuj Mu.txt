@@ -1,0 +1,16 @@
+{title: Děkuj Mu}
+{artist: ?}
+
+{start_of_verse}
+1.  Děkuj [D]Mu vděčným [A]srdcem svým,
+děkuj [Hm]Mu v čas dob[F#m]rý i zlý,
+děkuj [G]Mu, vždyť Syna [D]svého za nás [C]dal,
+by spasil [A7]nás.
+{end_of_verse}
+
+{start_of_verse}
+2.  [F#m]Ať slabý směle [Hm]řekne,
+že je [Em]silný,
+chudý [A]zas, že bohatst[D]ví má jen díky [F#m]tomu,
+co Pán [C]Ježíš uči[A]nil. Děkuj [D]Mu.
+{end_of_verse}

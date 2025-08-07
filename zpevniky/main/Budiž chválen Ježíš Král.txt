@@ -1,0 +1,30 @@
+{title: Budiž chválen Ježíš Král}
+{artist: ?}
+
+{start_of_chorus}
+R: Budiž [G]chválen Ježíš Král, hale[C]lu[G]ja.
+Budiž [Hm]chválen Ježíš [Am]Král, hale[G][D]lu[G]ja.
+{end_of_chorus}
+
+{start_of_verse label="1."}
+1. V Betlé[G]mě se narodil, hale[C]lu[G]ja,
+Syn Bo[Hm]ží i lidský [Am]byl,  hale[G][D]lu[G]ja.
+{end_of_verse}
+
+{start_of_verse label="2."}
+2. Na Gol[G]gotě umíral, hale[C]lu[G]ja,
+trium[Hm]fálně z hrobu[Am] vstal,  hale[G][D]lu[G]ja.
+{end_of_verse}
+
+{start_of_verse label="3."}
+3. Chce nám [G]hříchy odpustt, hale[C]lu[G]ja,
+vírou [Hm]v něj kdy budem [Am]žít,  hale[G][D]lu[G]ja.
+{end_of_verse}
+
+{start_of_verse label="4."}
+4. Jednou [G]přijde okamžik, hale[C]lu[G]ja,
+kdy mu [Hm]vzdáme v nebi [Am]dík,  hale[G][D]lu[G]ja.
+{end_of_verse}
+
+{start_of_bridge}
+{end_of_bridge}

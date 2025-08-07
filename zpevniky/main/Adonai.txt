@@ -2,7 +2,7 @@
 {artist: Jakub Pípal}
 
 {start_of_verse label="1."}
-[G]Ty jsi král králů, [Em]Ty jsi vítěz vítě[D]zů
+1. [G]Ty jsi král králů, [Em]Ty jsi vítěz vítě[D]zů
 Tebe [C]chválím, Tebe [G]ctím
 
 [G]Ty jsi Pán Pánů, [Em]Ty máš nejvyšší [D]trůn,
@@ -10,16 +10,16 @@ Tebe [C]vzývám, vele[G]bím
 {end_of_verse}
 
 {start_of_bridge}
-[D]Nebe chválu [C]vzdává, andě[Em]lé jása[D]jí,
+B: [D]Nebe chválu [C]vzdává, andě[Em]lé jása[D]jí,
 [Em]Vylej požeh[C]nání, volá[G]me jméno [D]Ježíš!
 {end_of_bridge}
 
 {start_of_chorus}
-[C/G]Immanu[G]el, [Em]halelu[C]ja, [C/G]Ado[G]nai, [Em]Bůh buď osla[C]ven
+R: [C/G]Immanu[G]el, [Em]halelu[C]ja, [C/G]Ado[G]nai, [Em]Bůh buď osla[C]ven
 {end_of_chorus}
 
 {start_of_verse label="2."}
-[G]Ty jsi déšť lásky, [Em]prosím vylej milost [D]svou,
+2. [G]Ty jsi déšť lásky, [Em]prosím vylej milost [D]svou,
 Ať padne [C]na nás s mocí [G]Tvou!
 
 [G]Navštiv nás, Králi, [Em]Duchu svatý naplň [D]nás

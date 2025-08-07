@@ -1,0 +1,21 @@
+{title: Ať srdce mé Tebe vídá}
+{artist: Pal Baloche}
+
+{start_of_verse label="1."}
+1. [E]Ať srdce mé Tebe vídá, ať srdce mé Tebe [E7]zná,
+vidět Tě [A]toužím, vidět Tě [E]toužím.
+{end_of_verse}
+
+{start_of_chorus}
+R: Chci vidět [H]Krále na trůnu,[C#m]
+[A]zářícího ve světle [H]slávy.
+Vylej svou lásku a moc,[C#m]
+když zpívám [A]svatý, svatý, [H]svatý.
+{end_of_chorus}
+
+{start_of_bridge}
+B: [E]Svatý, svatý, svatý,
+[H]svatý, svatý, svatý,
+[A]svatý, svatý, [H]svatý,
+vidět Tě [E]toužím.
+{end_of_bridge}

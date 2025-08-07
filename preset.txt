@@ -4,6 +4,7 @@
 {key:C}
 [C]Lyric [G]lyric [D]lyric
 [C]Lyric [G]lyric [D]lyric
+{comment: Komentar}
 
 {start_of_chorus}
 [C]Refrain [G]refrain [D]refrain

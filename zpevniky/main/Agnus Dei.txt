@@ -2,18 +2,18 @@
 {artist: Michael W. Smith}
 
 {start_of_chorus}
-[G]Hale[C]lu[G]ja, Hale[C]luja, vládne nám všemocný Bůh a [G]král
+R: [G]Hale[C]lu[G]ja, Hale[C]luja, vládne nám všemocný Bůh a [G]král
 {end_of_chorus}
 
 {start_of_verse label="1."}
-[G]Hale[C]luja, [D]sva[G]tý, [D]sva[G]tý
+1. [G]Hale[C]luja, [D]sva[G]tý, [D]sva[G]tý
 svatý [C]Pán [G]Bůh [Em]všemohou[D]cí
 hoden je on [C]sám, be[D]ránek náš [C]Pán
 přijmout [D]chvá[G]lu.
 {end_of_verse}
 
-{start_of_verse label="1."}
-[G]Hale[C]luja, [D]sva[G]tý, [D]sva[G]tý
+{start_of_verse label="2."}
+2. [G]Hale[C]luja, [D]sva[G]tý, [D]sva[G]tý
 svatý [C]Pán [G]Bůh [Em]všemohou[D]cí
 přijmi Pane [C]náš, [D]přijmi Pane [C]náš
 naši [D]chvá[G]lu.

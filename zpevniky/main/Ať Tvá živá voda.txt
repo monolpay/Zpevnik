@@ -1,0 +1,20 @@
+{title: Ať tvá živá voda}
+{artist: Karel Řežábek}
+
+{start_of_verse label="1."}
+1. [C]Ať Tvá živá [F]voda duši [C]mou [G]obmý[C]vá,
+ať Duch Svatý [F]přijde, ať se [C]mnou [G]přebý[C]vá,
+ať vezme každé [F]trápení, jenž [C]svírá [G]mysl [C]mou,
+[Am]vím, že s každou [F]starostí smím [C]jít [G]za Teb[C]ou.
+{end_of_verse}
+
+{start_of_chorus}
+R: Ježí[F]ši, [C]ó Duchu [G]Svatý, [Am]můj [F]Otče [G]nebe[C]ský.
+{end_of_chorus}
+
+{start_of_verse label="2."}
+2. [C]Dej svůj život [F]Pánu, ať ho [C]sám [G]napl[C]ní,
+dovol, ať ťe [F]Ježíš ucho[C]pí [G]do [C]dlaní,
+svobodný a [F]štastný jenom [C]s Ním [G]můžeš [C]být,
+[Am]potom smíš na [F]věky vládnou s [C]Ním [G]v královst[C]ví.
+{end_of_verse}

@@ -1,0 +1,30 @@
+{title: De profundis}
+{artist: Miloš Rejchrt}
+
+{start_of_verse}
+1.  [Em]Temnou, divnou [Hm]mlhou bloudím [C]sem a tam,[C7]
+[Am]černá s bílou [Hm]smíchaly se [Em]spolu.[Hm]
+[Em]Nevidím už, [Hm]co je pravda, [C]co je klam,[C7]
+[Am]nevím, jdu-li [Hm]nahoru či [Em]dolů.[Hm]
+{end_of_verse}
+
+{start_of_chorus}
+R:  [Em]Řekni slovo, řekni slovo, Pane,
+[A]ať pomine tahle šedá tma,
+[C]řekni slovo a zázrak se stane,
+uzdra[G]vena [Am]bude [Hm]duše [Em]má.
+{end_of_chorus}
+
+{start_of_verse}
+2.  [Em]Nerozeznám [Hm]dobře okraj [C]propasti,[C7]
+[Am]nevím, je­‑li [Hm]na krok dosti [Em]místa.[Hm]
+[Em]Strach mám, abych [Hm]neupadl [C]do pasti,[C7]
+[Am]kterou na mne [Hm]pokušení [Em]chystá.[Hm]
+{end_of_verse}
+
+{start_of_verse}
+3.  [Em]Přízrak noční [Hm]sleduje mne [C]potají,[C7]
+[Am]divné hlasy [Hm]otázku mi [Em]kladou,[Hm]
+[Em]divné hlasy [Hm]otázku mi [C]šeptají,[C7]
+[Am]k čemu věrnost, [Hm]nač pohrdat [Em]zradou.[Hm]
+{end_of_verse}

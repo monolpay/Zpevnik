@@ -1,0 +1,38 @@
+{title: Ať požehnán je Bůh}
+{artist: Matt Redman}
+
+{start_of_verse label="1."}
+1. [G]Ať požeh[D]nán je Bůh [Em]tam, kde je zem [C]úrodná,
+[G]tam, kde hojnost [D]přebývá, požehn[Em]án buď Pán.[C]
+[G]Ať požehn[D]án je Bůh [Em]tam, kde je zem [C]nevlídná,
+má [G]duše žízní [D]vyprahlá, požehn[Em]án buď Pán.[C]
+{end_of_verse}
+
+{start_of_bridge}
+B: [G]Vše, co dáváš, [D]ze svých dlaní
+[Em]s díky přijí[C]mám,
+[G]všechno měníš v [D]požehnání,
+[Em]chválu Ti [C]vzdám
+{end_of_bridge}
+
+{start_of_chorus}
+R: Buď požehnané [G]slavné jméno [D]Tvé,
+buď požehna[Em]ný Pán,[C]
+buď požehnané [G]slavné jméno [D]Tvé,
+buď požehnaný [Em]svatý pánů [C]Pán.
+{end_of_chorus}
+
+
+{start_of_verse label="2."}
+2. [G]Ať požehn[D]án je Bůh, když [Em]slunce svítí [C]nad hlavou
+a [G]život zdá se [D]zábavou, požehn[Em]án buď Pán.[C]
+[G]Ať požehn[D]án je Bůh, když [Em]dny jsou plné [C]strádání,
+když [G]žal se skrývá [D]v dávání, požehn[Em]án buď [C]Pán.
+{end_of_verse}
+
+{start_of_bridge}
+B: [G]Dáš a vezmeš [D]sám
+můj [Em]pád i vítězst[C]ví,
+v mém [G]srdci stále [D]zní
+jen [Em]slova žehná[C]ní.
+{end_of_bridge}

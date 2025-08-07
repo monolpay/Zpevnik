@@ -1,0 +1,14 @@
+{title: Bůh je síla má}
+{artist: ?}
+
+{start_of_verse}
+1. [Em]Bůh je síla má [C]i vojska [D]mého,
+[Em]On působí [C]volnou cestu [D]mou,
+[Em]neboť dal mi štít [C]spasení [D]svého
+a [Em]dobrotivost Jeho [C]zvelebila [D]mne.
+{end_of_verse}
+
+{start_of_chorus}
+R: [G]Neboť kdo je Bohem [C]kromě [D]Hospodina
+[Em]a kdo je skálou kromě [C]Boha [D]našeho.
+{end_of_chorus}

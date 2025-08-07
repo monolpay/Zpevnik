@@ -1,0 +1,30 @@
+{title: Blues čekajícího vlaku}
+{artist: }
+
+{start_of_verse label="1."}
+1. Ten vlak už [D]připravenej stojí a je v něm ještě spousta míst,[D7]
+výpravčí [G]po peroně chodí a nemá se k tomu, aby [D]hvízd.
+Zdá se, že [A]čeká ještě na ty, [A7]co zašli do bufíku [D]jíst.[G][D][A]
+{end_of_verse}
+
+{start_of_chorus}
+R: A tak si [D]zpívám [A]dlouhý [D]blues.[G][D][A]
+{end_of_chorus}
+
+{start_of_verse label="2."}
+2. Osobní [D]vlak směr pokoj, štěstí je připraven - už po nádraží zní,
+[D7]však v ampli[G]onech něco chřestí, pro hluk a zmatek nikdo nesly[D]ší.
+Každej si [A]davem cestu klestí a[A7]nebo na lavičce [D]spí.[G][D][A]
+{end_of_verse}
+
+{start_of_verse label="3."}
+3. Jedinej [D]vlak, co jede někam, kam cenu má svý líný kosti hnát,
+[D7]jedinej [G]vlak, co na tě čeká, i když sis popletjízdní [D]řád.
+Jedinej [A]vlak – a já si brkám [A7]v prázdným kupé [D]sám.[G][D][A]
+{end_of_verse}
+
+{start_of_verse label="4."}
+4. Snad mý blues [D]oknem bude slyšet, když ne, tak půjdu na schůdky ho hrát,
+[D7]A mý [G]blues bude křičet a naříkat a [D]řvát.
+A snad se [A]zvedne celej výčep, dřív než [A7]výpravčí odjezd [D]dá.[A][G][D]
+{end_of_verse}

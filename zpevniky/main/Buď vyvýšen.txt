@@ -1,0 +1,31 @@
+{title: Buď vyvýšen}
+{artist: ?}
+
+{start_of_chorus}
+R: Buď vyvý[C]šen, buď vyvýš[Em]en
+Pro Tvou [G]slávu buď vyvýš[D]en
+{end_of_chorus}
+
+{start_of_verse label="1."}
+1. [Em]Ty jsi Pánem všeho času,
+[C]Ty přinášíš lidem spásu,
+[G]Ty jsi důvod proč zpíváme [D]ke Tvé slávě.
+[C]Ať sestoupí hukot z nebe
+[Em]a rození se Země.
+[G]Přidáme se k písni, která [D]zpívá
+{end_of_verse}
+
+{start_of_verse label="2."}
+2. [Em]Ty jsi oheň stravující,
+[C]Ty jsi Otče věčné živý,
+[G]Ty jsi důvod proč žijeme [D]ke Tvé slávě.
+[C]Budeme ta generace
+[Em]která volá Nebe na Zem.
+[G]Přidáme se k písni, která [D]zpívá
+{end_of_verse}
+
+
+{start_of_bridge}
+B: [C]Buď vyvýšen, buď [Em]vyvýšen
+[G]Chvála ať stoupá [D]výš
+{end_of_bridge}

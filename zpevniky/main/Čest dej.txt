@@ -1,0 +1,39 @@
+{title: Čest dej}
+{artist: ?}
+
+{start_of_chorus}
+Ref. [E]Čest dej, jen Pánu Bohu svému dej,
+[E]Čest dej, jen Pánu Bohu svému dej,
+[A]Čest dej, jen Pánu Bohu svému dej,
+[E]Čest dej, jen Pánu Bohu svému dej,
+Pán jen, Pán jen, [A]jen Pán buď [F#m]oslaven, 
+[E]Pán, [A]jen Pán buď osla[E]ven.
+{end_of_chorus}
+
+{start_of_verse}
+1. [E]Přijde k tobě ďábel sám, [A]abys před ním [E]klek!
+Na to dobrou [C#m]radu mám, [F#m]vyzkoušený [H7]lék.
+[E]Moc i slávu, světa říš, [A]vše ti nabíd[Edim]ne,
+[E]ty mu na to [C#m]odpovíš: [F#m]ne, [H7]ne, [E]ne.
+{end_of_verse}
+
+{start_of_verse}
+2. [E]Bez fára a bez vily [A]nemáš úro[E]veň,
+co tě v mládí [C#m]učili, [F#m]na to zapo[H7]meň.
+[E]Celý svět už věří ted' [A]v tele zlace[Edim]né.
+[E]Dáš jim na to [C#m]odpověď: [F#m]ne, [H7]ne, [E]ne.
+{end_of_verse}
+
+{start_of_verse}
+3. [E]Všední den se promění [A]v cestu do [E]ráje,
+marjánkový [C#m]koření [F#m]věc moc dobrá [H7]je.
+[E]Strach a smutek, šed' a tíž [A]z tebe opad[Edim]ne.
+[E]Ty jim na to [C#m]odpovíš: [F#m]ne, [H7]ne, [E]ne.
+{end_of_verse}
+
+{start_of_verse}
+4. [E]Kočku chtěla sežrat myš, [A]dvakrát dvě je[E] pět,
+tak nám to tu [C#m]podepiš, [F#m]otevřeš si [H7]svět.
+[E]Však jsou slova, jak sám víš, [A]proutky čarov[Edim]né.
+[E]Ty jim na to [C#m]odpovíš: [F#m]ne, [H7]ne, [E]ne.
+{end_of_verse}

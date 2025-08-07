@@ -1,0 +1,37 @@
+{title: Ať chvála Bohu je vzdána}
+{artist: Karel Řežábek}
+
+{start_of_chorus}
+R: Ať [Em]chvála Bohu je [D]vzdána,
+ó hale[C]luja, marana[H7]tha.
+{end_of_chorus}
+
+{start_of_verse label="1."}
+1. [Em]Ježíš byl vzkříšen, [D]Ježíš byl vzkříšen,
+[C]Ježíš byl vzkříšen, [H7]haleluja.
+{end_of_verse}
+
+{start_of_verse label="2."}
+2. [Em]Ježíš je živý, [D]Ježíš je živý,
+[C]Ježíš je živý, [H7]haleluja.
+{end_of_verse}
+
+{start_of_verse label="3."}
+3. [Em]Ježíš je pastýř, [D]Ježíš je pastýř,
+[C]Ježíš je pastýř, [H7]haleluja.
+{end_of_verse}
+
+{start_of_verse label="4."}
+4. [Em]Ježíš je věrný, [D]Ježíš je věrný,
+[C]Ježíš je věrný, [H7]haleluja.
+{end_of_verse}
+
+{start_of_verse label="5."}
+5. [Em]Ježíš je tady, [D]Ježíš je tady,
+[C]Ježíš je tady, [H7]haleluja.
+{end_of_verse}
+
+{start_of_verse label="6."}
+6. [Em]Haleluja, [D]haleluja,
+[C]haleluja, [H7]haleluja.
+{end_of_verse}

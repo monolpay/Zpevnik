@@ -1,0 +1,17 @@
+{title: Bůh za mě zápas dokonč}
+{artist: ?}
+
+{start_of_verse}
+1. [Em]Bůh za mě zápas dokončí,
+[Em]slzy mi z tváří otí[C]rá,
+[Em]když hříšná touha umí[C]rá,
+[C]sobectví, pýcha umí[D]rá,
+umírá v slzách poká[Em]ní.
+{end_of_verse}
+
+{start_of_chorus}
+R: Smím si [G]vzít odpuště[D]ní z rukou [C]Tvých,
+poká[G]ní odpuště[D]ní v radost promě[C]ní.
+{end_of_chorus}
+
+

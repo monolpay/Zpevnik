@@ -1,0 +1,15 @@
+{title: Do Tvých starostí}
+{artist: Bohdan Pivoňka}
+
+{start_of_verse}
+1. [D]Do tvých staros[A]tí,
+[Hm]smutků, [F#m]úzkostí
+[G]přišel ten, kdo [D]má tě rád
+a [A]z nich tě vypros[D]tí.
+{end_of_verse}
+
+{start_of_verse}
+2. [D]Pánů [A]Pán, [Hm]králů [F#m]Král
+[G]byl nám [D]bez rozdílu
+[A]všechněm zvěsto[D]ván.
+{end_of_verse}

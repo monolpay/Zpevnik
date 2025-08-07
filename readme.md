@@ -1,6 +1,7 @@
 Format chordPro - dokumentace: https://www.chordpro.org/chordpro/home/
 
 Pro inspiraci muzete nahlednout do preset.txt
+Vše co je potřeba pro základní chválu můžte zkopírovat z newSong
 Asi tak
 
 Program SongSheet generator - https://tenbyten.com/software/songsgen/download.php

@@ -1,0 +1,44 @@
+{title: Divné to věci dnes}
+{artist: ?}
+
+{start_of_chorus}
+R:  [G]Divné to [C]věci dnes [G]dějou se v údolí,
+[D7]dějou se v údolí, [G]dějou se v údolí.
+Divné to [C]věci dnes [G]dějou se v údolí.
+[D7]Tam dole v údo[G]lí.[C][G]
+{end_of_chorus}
+
+{start_of_verse}
+1.  [G]V tom hřbi[C]tovním údolí, kosti [G]suché zbělely,
+v tom hřbi[D7]tovním údolí.  
+Mrtvé [C]kosti bez duší nic a [G]nikdo nevzruší,
+mrtvé [D7]kosti bez du[G]ší.[C][G]  
+{end_of_verse}
+
+{start_of_verse}
+2.  [G]Posel[C] Boží pospíchá, aby [G]volal do ticha,
+posel [D7]Boží pospíchá.  
+Mocným [C]hlasem pronese, kosti [G]líne vzbuďte se,
+mocným [D7]hlasem prone[G]se.[C][G] 
+{end_of_verse}
+
+{start_of_verse}
+3.  [G]Žebro [C]čelist rameno, loket [G]kotník koleno,
+žebro [D7]čelist rameno.  
+Už si [C]běží naproti, chrastí [G]to a rachotí,
+už si [D7]běží napro[G]ti.[C][G] 
+{end_of_verse}
+
+{start_of_verse}
+4.  [G]Už to [C]masem obrůstá od pa[G]ty až po ústa,
+už to [D7]masem obrůstá.  
+A ten [C]tam je mrtvý klid, srdce [G]zase začlo být
+a ten [D7]tam je mrtvý [G]klid.[C][G]  
+{end_of_verse}
+
+{start_of_verse}
+5.  [G]Když duch [C]Boží zavěje, vstane [G]z mrtvých naděje,
+když duch [D7]Boží zavěje.  
+I v tom [C]našem údolí, probu[G]ďí se mrtvoly,
+i v tom [D7]našem údo[G]lí.[C][G]
+{end_of_verse}

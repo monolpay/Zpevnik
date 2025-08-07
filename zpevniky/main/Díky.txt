@@ -1,0 +1,44 @@
+{title: Díky}
+{artist: Martin Gotthard Schneider, Miroslav Heryán}
+
+{start_of_verse}
+1.  [C]Díky [Am]za toto [Dm]krásné [G7]ráno,
+[C]díky [Am]za každý [Dm]nový [G7]den.
+[C]Díky [C7]za to, co [F]už je [Fm]za mnou
+[C]jako [Dm]těž[G]ký [C]sen.[A7]
+{end_of_verse}
+
+{start_of_verse}
+2.  [D]Díky [Hm]za všechny [Em]věrné [A7]druhy,
+[D]díky, [Hm]ó, Pane, [Em]za tvůj [A7]lid.
+[D]Díky, [D7]že všechny [G]křivdy, [Gm]dluhy
+[D]mohu [Em]od[A7]pus[D]tit.[H7]
+{end_of_verse}
+
+{start_of_verse}
+3.  [E]Díky [C#m]za moje [F#m]praco[H7]viště,
+[E]díky [C#m]za každý [F#m]drobný [H7]zdar.
+[E]Díky [E7]za všechno [A]krásné, [Am]čisté,
+[E]dík za [F#M]hud[H7]by [E]dar.[C7]
+{end_of_verse}
+
+{start_of_verse}
+4.  [F]Díky [Dm]za to, co [Gm]zarmou[C7]tilo,
+[F]díky [Dm]za to, co [Gm]potě[C7]ší.
+[F]Díky, [F7]že vedeš [B]mě, má [Bm]sílo,
+[F]cestou [Gm]nej[C7]lep[F]ší.[D7]
+{end_of_verse}
+
+{start_of_verse}
+5.  [G]Díky, [Em]že smím tvé [Am]slovo [D7]chválit,
+[G]díky, [Em]že Ducha [Am]dáš mi [D7]též.
+[G]Díky, [G7]že nablíz[C]ku i [Cm]v dáli
+[G]lidi [Am]mi[D7]lu[G]ješ.[E7]
+{end_of_verse}
+
+{start_of_verse}
+6.  [A]Díky, [F#m]že jsi všem [Hm]přines’ [E7]spásu,
+[A]díky, [F#m]toho se [Hm]přidr[E7]žím.
+[A]Díky, [A7]že věřím [D]tvému [dm]hlasu,
+[A]že Ti [Hm]pat[E7]řit [A]smím.
+{end_of_verse}

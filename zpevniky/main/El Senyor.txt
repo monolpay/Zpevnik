@@ -1,0 +1,18 @@
+{title: El Senyor}
+{artist: }
+
+{start_of_verse}
+Každý [F]den Pán mi sílu [B]dá[C]vá,
+písní [F]mou je [Dm]můj [C]Pán.
+On se stal mým [A]spase[Dm]ním,
+když [C]kráčím [F]s Ním, nemus[B]ím [C]se bát,
+když [Am]kráčím s [Dm]Ním, nemus[B]ím [C]se [F]bát
+{end_of_verse}
+
+{comment: Original}
+El Senyor és la meva força,
+el Senyor el meu cant.
+Ell m´ha_es-tat la salvació.
+En ell confio i no tinc por,
+en ell confio i no tinc por
+

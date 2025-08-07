@@ -1,0 +1,21 @@
+{title: Dokonáno jest}
+{artist: }
+
+{start_of_verse}
+1.  [Am]Odpustit hřích [G]zastavit lavinu,
+[F]porazit [E]smrt,
+[Am]přišel jsi Ty, [G]Beránek bez viny
+[F]vykoupit [E]svět.
+{end_of_verse}
+
+{start_of_chorus}
+R:  [Am]Dokonáno [F]jest! 3x
+A[E]men.
+{end_of_chorus}
+
+{start_of_verse}
+2.  [Am]Podstoupit kříž [G]zaplatit za vinu,
+[F]vytrpět [E]trest,
+[Am]přišel jsi Ty [G]vyhlásit zajatým
+[F]radostnou [E]zvěst.
+{end_of_verse}

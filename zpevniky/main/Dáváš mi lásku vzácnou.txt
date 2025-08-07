@@ -1,0 +1,9 @@
+{title: Dáváš mi lásku vzácnou}
+{artist: ?}
+
+{start_of_verse}
+1. [G]Dáváš mi [Hm]lásku [Em]vzácnou, [C]dáváš mi přátelství,
+[G]vždyť mám teď [Hm]touhu [Em]jasnou, [C]jít na Tvé nádvo[D]ří,
+chválit Tvé svaté [G]jméno, [Hm]přebývat v Tvých [Em]hlubinách,
+v srdci mít [C]lásku Tvou, jenom s ní [D]žít.
+{end_of_verse}

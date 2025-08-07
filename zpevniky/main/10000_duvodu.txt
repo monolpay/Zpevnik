@@ -2,26 +2,26 @@
 {artist: Matt Redman}
 {key:C}
 {start_of_chorus}
-Chval Ho, [F]ó duše [C]má, [G]ó-ó duše [Am]má, [F]uctívá [C]jméno [G]Tvé
+R: Chval Ho, [F]ó duše [C]má, [G]ó-ó duše [Am]má, [F]uctívá [C]jméno [G]Tvé
 Ze vší [F]síly [Am]zpívá, [F]du[G]še [Am]má, [F]uctívá [G]jméno [C]Tvé
 {end_of_chorus}
 
 {start_of_verse label="1."}
-Slunce [F]vychá[C]zí, nový [G]den [Am]začíná
+1. Slunce [F]vychá[C]zí, nový [G]den [Am]začíná
 [F]Je čas zpí[C]vat tvou [G]píseň [Am]zas
 Coko[F]liv se může [C]stát a co[G]koliv leží [Am]za mnou
 [F]Já budu [C]zpívat, než zas [G]přijde [C]noc
 {end_of _verse}
 
 {start_of_verse label="2."}
-Jsi [F]štědrý v [C]lásce a [G]mírný v [Am]hněvu
+2. Jsi [F]štědrý v [C]lásce a [G]mírný v [Am]hněvu
 [F]máš velké [C]jméno, jsi [G]laska[Am]vý
 pro Tvou [F]dobro[C]tu já budu [G]stále [Am]zpívat
 [F]Tisíce [C]důvodů mé [G]srdce [C]má
 {end_of_verse}
 
 {start_of_verse label="3."}
-A až [F]přijde [C]den, kdy má [C]síla zes[Am]lábne
+3. A až [F]přijde [C]den, kdy má [C]síla zes[Am]lábne
 [F]Budu blíž [C]konci, až [G]přijde můj [Am]čas
 Stejně [F]má duše [C]bude [G]zpívat ti [Am]chválu
 [F]Tisíce [C]let tě chválit [G]napoř[C]ád

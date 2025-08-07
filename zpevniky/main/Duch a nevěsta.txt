@@ -1,0 +1,16 @@
+{title: Duch a nevěsta}
+{artist: ?}
+
+{start_of_verse}
+1.  Duch a nevěs[Em]ta dí: „Tak jen [Am]pojď“,
+slyšíš-li [D]jej, řekni též: [Em]„ Pojď.“
+A kdo žízeň [C]má, ten ať přijde [Am]též,
+vodu živo[Hm]ta za[H]darmo může [Em]pít.
+{end_of_verse}
+
+{start_of_verse}
+2.  Halelu[Em]ja, tak Pána [Am]chval,
+halelu[D]ja, tak Pána [Em]chval,
+halelu[C]ja, tak Pána [Am]chval,
+halelu[Em]ja, tak [H]Pána svého [Em]chval!
+{end_of_verse}

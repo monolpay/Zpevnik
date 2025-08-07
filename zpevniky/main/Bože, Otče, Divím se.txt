@@ -1,0 +1,15 @@
+{title: Bože, Otče, divím se}
+{artist: ?}
+
+{start_of_verse label="1."}
+1. [Em]Bože, Otče, divím se, jak [D]jen jsem mohl existovat,
+[C]když mé srdce nechápalo [H7]množství lásky Tvé.
+[Em]Teď smím být Tvým vlastním synem,
+[D]dítětem Tvé rodiny,
+[C]nejsem sám, vždyť Ty jsi se mnou, [H7]ó Otče můj.
+{end_of_verse}
+
+{start_of_chorus}
+R: [Em]Zpívám [Am]píseň chvály, [D]zpívám [G]píseň chvály,
+[Em]zpívám [Am]píseň chvály [H7]na věky.
+{end_of_chorus}

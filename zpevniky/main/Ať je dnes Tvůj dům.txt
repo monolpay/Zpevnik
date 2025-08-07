@@ -1,0 +1,14 @@
+{title: Ať je dnes Tvůj dům}
+{artist: Karel Řežábek}
+
+{start_of_verse label="1."}
+1. [G]Ať je dnes Tvůj [C]dům plný [D]slávy Tvé,[C][D]
+[G]ať je dnes Tvůj [C]dům plný [D]chvále[G]ní.
+{end_of_verse}
+
+{start_of_chorus}
+R: [D]Ať Ti Tvůj lid spase[Em]ný vzdává [C]sl[G]á[C]vu,
+[D]ať Ti Tvůj lid s vděčnos[Em]tí zpívá [C]chvá[G]lu [C]svou,
+[D]ať Ti Tvůj lid naslouc[Em]há s uctí[C]v[G]á[C]ním,
+stále [D]víc.
+{end_of_chorus}

@@ -1,0 +1,33 @@
+{title: Byl člověk jako já}
+{artist:Graham Kendrick }
+
+{start_of_verse}
+1. [C]Byl člověk jako já,
+[Am]stál tam, kde stojím já,
+[C]cítil, co cítím já,
+[G]On rozumí.
+
+[C]On křehkost moji zná,
+[Am]žil v těle jako já,
+[C]ďábel ho pokoušel,
+[G]On neprohrál.
+{end_of_verse}
+
+{start_of_chorus}
+R:  [Am]Bůh s [G]námi [Am]je,
+nám [G]blízko [Am]je,
+Bůh s [G]námi [Am]je,
+I[G]mmanu[F]el.[G]
+{end_of_chorus}
+
+{start_of_verse}
+2.  [C]Byl lidmi pohrdán,
+[Am]týrán a popliván,
+[C]blízkými opuštěn,
+[G]On odpouští.
+
+[C]Muž plný bolesti
+[Am]vzal naše nemoci,
+[C]svůj život položil
+[G]za život můj.
+{end_of_verse}

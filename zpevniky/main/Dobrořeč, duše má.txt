@@ -1,0 +1,14 @@
+{title: Dobrořeč, duše má}
+{artist: Daniel Kyzlink}
+
+{start_of_verse}
+1. [G]Dobrořeč duše má [C]Hospodi[D]nu
+a celé [G]nitro mé jeho [C]svatému jmé[D]nu.
+{end_of_verse}
+
+{start_of_chorus}
+R:  A [G]nezapomínej na [C]žádné jeho dobrodi[D]ní,
+On ti [G]všechny tvé [C]nepravosti promí[D]jí,
+ze všech [G]nemocí [C]uzdravuje tělo [D]tvé,
+tebe [G]korunuje svou [C]milostí a slitová[D]ním.
+{end_of_chorus}

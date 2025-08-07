@@ -1,0 +1,34 @@
+{title: Bůh je záštita má}
+{artist: ?}
+
+{start_of_chorus}
+R:  [D7]Bůh je [G]záštita má,
+Bůh je [Am]záš[D7]tita [G]má.
+Bůh je [G7]záštita [C]má,  
+s ním [G]nemu[D7]sím se [G]bát.
+{end_of_chorus}
+
+{start_of_verse}
+1. [G]Nevím, co mi žítřek tají,
+strasti [Am]bez kon[D7]ce se [G]zdají,
+Mraky [G7]cestu zakrý[C]vají,
+ale [G]Bůh je [D7]spása [G]má.
+{end_of_verse}
+
+{start_of_verse}
+2. [G]Každý den od procitnutí
+k nové [Am]honbě [D7]štvát mě [G]nutí,
+nikde [G7]místa k spoči[C]nutí,
+jenom v [G]Bohu [D7]najdu [G]mír.
+{end_of_verse}
+
+{start_of_verse}
+3. [G]Kolem svět se rve a plení
+lidské [Am]vztahy [D7]zlato [G]mění,
+Bože, [G7]dej, ať v poku[C]šení
+vím, že [G]ty se [D7]staráš [G]sám.
+
+
+
+
+
