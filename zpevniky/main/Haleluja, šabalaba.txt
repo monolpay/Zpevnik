@@ -1,0 +1,31 @@
+{title: Haleluja, šabalaba}
+{artist: ?}
+
+{start_of_chorus}
+R:  [E]Haleluja šabalaba [A]labambam,
+[E]haleluja šabalaba [H]labambam,
+[E]haleluja šabalaba [A]labambam,
+[E]amen, [H]a[E]men.
+
+{end_of_chorus}
+
+{start_of_verse}
+1.  [E]On je můj Pán a já [A]mám ho rád,
+[E]On je můj Pán a já [H]mám ho rád,
+[E]On je můj Pán a já [A]mám ho rád,
+[E]amen, [H]a[E]men.
+{end_of_verse}
+
+{start_of_verse}
+2.  [E]Ježíš zemřel a [A]z hrobu vstal,
+[E]Ježíš zemřel a [H]z hrobu vstal,
+[E]Ježíš zemřel a[A] z hrobu vstal,
+[E]amen, [H]a[E]men.
+{end_of_verse}
+
+{start_of_verse}
+3.  [E]On žije v nebi a [A]přijde zas,
+[E]on žije v nebi a [H]přijde zas,
+[E]on žije v nebi a [A]přijde zas,
+[E]amen, [H]a[E]men.
+{end_of_verse}

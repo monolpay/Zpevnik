@@ -1,0 +1,29 @@
+{title: Hosana}
+{artist: Hillsong United, Brooke Fraser}
+
+{start_of_verse}
+1. [D]Už vidím Krále slávy, [Hm]jak se blíží v oblacích,
+celá [Em]zem se chvěje [A]jen. 
+[D]Už vidím jeho lásku, [Hm]která smývá každý hřích,
+celá [Em]zem zpívá [A]jen.
+{end_of_verse}
+
+{start_of_chorus}
+R: Ho[D]sa[G]na, ho[A]sa[Hm]na, ho[G]sana Králi [A]králů.
+{end_of_chorus}
+
+{start_of_verse}
+2. [D]Už vidím nový národ, [Hm]Tvůj lid s vírou povstává,
+jen na Te[Em]be se spolé[A]há.
+[D]Už vidím v srdcích svítá, [Hm]probuzení přichází,
+jsme v modlit[Em]bách na kole[A]nou.  
+{end_of_verse}
+
+{start_of_bridge}
+B: [G]Uzdrav, prosím, srdce [A]mé,
+[D]dej mi zahlédnout nevi[Hm]ditelné,
+[G]ukaž mi jak milo[A]vat Tvou [Hm]láskou.
+[G]Zlom mi srdce pro svůj [A]plán,
+[D]vše, co jsem, co mám, Tobě [Hm]vydávám,
+[G]na cestě do věčnos[a]ti, do slávy [G]Tvé.
+{end_of_bridge}

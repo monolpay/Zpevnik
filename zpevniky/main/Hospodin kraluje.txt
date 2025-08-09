@@ -1,0 +1,14 @@
+{title: Hospodin kraluje}
+{artist: Jiřina Gina Čunková (Markovová)}
+
+{start_of_verse}
+1.  [G]Hospodin [Em]kraluje, [c]oděl se [D]důstojností,
+[G]oděl se [Em]Hospodin, [C]mocí se [D]opásal.
+[G]Pevně je [Em]založen svět, [C]nic s ním [D]neotřese,
+Tvůj [G]trůn pevně [Em]stojí odedáv[C]na Ty jsi [D]od věčnosti.
+{end_of_verse}
+
+{start_of_chorus}
+R:  Zvedají [G]řeky, Hospo[Em]dine, zvedají [C]řeky svůj [D]hlas.
+zvedám i [G]já, Hospo[Em]dine, zvedám i [C]já svůj [D]hlas.
+{end_of_chorus}

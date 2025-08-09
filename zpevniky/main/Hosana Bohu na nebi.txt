@@ -1,0 +1,19 @@
+{title: Hosana Bohu na nebi}
+{artist: Carl Tuttle}
+
+{start_of_verse}
+1.  Ho[G]sana, ho[D]sana, ho[Em]sana Bohu [C]na ne[D]bi.
+Hos[G]ana, ho[D]sana, ho[Em]sana Bohu na [C]ne[D]bi.  
+{end_of_verse}
+
+{start_of_chorus}
+R:  [C]Jméno [D]slavíme [G]Tvé, haleluja,
+[C]chválí [D]Tě srdce [G]mé, haleluja,
+[C]vyvý[D]šen buď, ó [G]Bo[D]že [Em]náš,
+ho[C]sana Bohu [D]na ne[G]bi.
+{end_of_chorus}
+
+{start_of_verse}
+2.  [G]Sláva, [D]sláva, [Em]sláva všech [C]králů [D]Králi.
+[G]Sláva, [D]sláva, [Em]sláva všech [C]králů [D]Králi.
+{end_of_verse}

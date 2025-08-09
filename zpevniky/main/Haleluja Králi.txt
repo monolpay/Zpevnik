@@ -1,0 +1,13 @@
+{title: Haleluja Králi}
+{artist: ?}
+
+{start_of_verse}
+1.  [C]Haleluja, Králi, Ty jsi vzkříšený, už [F]nemusíme [G]umí[C]rat.
+Jednou budem' v nebi po Tvém [F]boku stát a [G]zpívat hosa[C]na, [Am]jé,
+[F]zpívat [G]hosa[C]na.
+{end_of_verse}
+
+{start_of_chorus}
+R:  [C]Halelu[F]ja, [C]halelu[G]ja, [C]halelu[F]ja,
+budem [C]zpívat [G]hosa[C]na.
+{end_of_chorus}

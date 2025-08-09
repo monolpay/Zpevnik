@@ -1,0 +1,32 @@
+{title: Chci nést svůj kříž}
+{artist: Karel Řežábek}
+
+{start_of_chorus}
+R:  Chci nést svůj kříž, Tebe následovat,
+chci nést svůj kříž, tělo ukřižovat,
+chci nést svůj kříž, zemřít žádostem svým.
+{end_of_chorus}
+
+{start_of_verse}
+1.  Zemřít hněvu, dráždění,
+zemřít druhých souzení,
+zemřít bratrů pomlouvá ní.
+{end_of_verse}
+
+{start_of_verse}
+2.  Zemřít všem svým představám,
+zemřít vlastním zásluhám,
+zemřít pýše a sobec tví.
+{end_of_verse}
+
+{start_of_verse}
+3.  Zemřít, Tvojí cestou jít,
+zemřít, a tak zvítězit,
+zemřít, abych Tvůj život žil.
+{end_of_verse}
+
+{start_of_verse}
+4.  Zemřít, Tvojí cestou jít,
+zemřít, a tak zvítězit,
+zemřít, abych Tvůj život žil.
+{end_of_verse}

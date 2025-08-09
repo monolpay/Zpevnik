@@ -1,0 +1,16 @@
+{title: IVK}
+{artist: ?}
+
+{start_of_verse}
+1.  Neskona[E]lé [A]blaho je [E]tam, [A]
+v pravici [E]Tvé [A]já pokoj [E]mám,[A]
+nebeský [C#m]trůn hradem je [A]mým,
+nádherný [E]dům, [A]v něm bydlet [E]smím.[A]
+{end_of_verse}
+
+{start_of_verse}
+Vrcholem [E]štěstí [A]je být s [E]Tebou,[A]
+největší [E]zvěstí, [A]že Ty jsi se [E]mnou,[A]
+a že vina [C#m]má tam zůstá[A]vá [F#m]
+na Golgo[E]tě, [A]miluji [E]Tě.
+{end_of_verse}

@@ -1,0 +1,25 @@
+{title: Haleluja, sláva}
+{artist: Karel Řežábek}
+
+{start_of_chorus}
+R:  [G]Halelu[D]ja, [C]slá[D]va,
+čest i [G]chvála [C]s dobrořeče[D]ním,  
+[G]síla i [D]moc, [C]úcta i [D]dík
+Tobě [C]navěky [D]nále[G]ží.
+{end_of_chorus}
+
+{start_of_verse}
+1.  [Em]Přišel jsi plamenem [D]zažehnout
+knoty [Em]vírou jen doutnají[D]cí,
+změnit [G]pustinu v zahradu [D]rozkvetlou
+v srdcích [C]bez lásky [D]strádají[Em]cích,[Em]
+v srdcích [C]bez lásky [D]strádají[Em]cích.
+{end_of_verse}
+
+{start_of_verse}
+2.  [Em]Svatý se dotýkal [D]nečistých,
+sloužil [Em]Ten, kdo měl být uctí[D]ván
+Král [G]umýval nohy svým [D]poddaným,
+Nevinný [C]za hřích [D]byl potres[Em]tán,[D]
+Nevinný [C]za hřích [D]byl potres[Em]tán.
+{end_of_verse}

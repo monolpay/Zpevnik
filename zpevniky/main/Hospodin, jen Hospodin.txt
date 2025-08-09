@@ -1,0 +1,21 @@
+{title: Hospodin, jen Hospodin}
+{artist: Petr Brůžek}
+
+{start_of_chorus}
+R:  [G]Hospodin, jen [C]Hospodin, je [G]záštita má a [D]píseň má,
+[G]Hospodin, jen [C]Hospodin je [D]spása [G]má. 2x
+Hale[C]lu[G]ja, jásej [D]plesej, Sijó[G]ne,
+hale[C]lu[G]ja, velký [D]Král je vprostřed [G]nás,
+hale[C]lu[G]ja, jeho [D]skutky ohlaš[G]me,
+hale[C]lu[G]ja, svého [D]Pána chvalme [G]dál.
+{end_of_chorus}
+
+{start_of_verse}
+1.  [Am]Nemusím se bát, [C]doufám v Hospo[D]dina, [C]doufám v Hospo[D]dina.
+[Am]Teď už nemám strach, [C]vždyť Bůh je spása [D]má, [C]Bůh je [D]spása má.
+{end_of_verse}
+
+{start_of_verse}
+2.  [Am]Jásot veselí [C]je u pramenů [D]spásy, [C]u pramenů [D]spásy.
+[Am]Pána oslavím, [C]ať to ví celá [D]zem, ať [C]to ví celá [D]zem.
+{end_of_verse}

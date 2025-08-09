@@ -1,0 +1,18 @@
+{title: Chci oslavovat svého Pána}
+{artist: Linda Dunvall}
+
+{start_of_verse}
+1.  [Am]Chci oslavovat [Dm]svého Pána, [E]chci Mu z pívat novou [Am]píseň.[E]
+{end_of_verse}
+
+{start_of_chorus}
+R:  [Am]Chci [F]Ho [G]chvá[C]lit, [Am]chci Mu [E]zpívat novou [Am]píseň. [E]
+{end_of_chorus}
+
+{start_of_bridge}
+B:  [Am]Haleluja, [Dm]haleluja, [E]haleluja, hale[Am]luja![E]
+{end_of_bridge}
+
+
+
+

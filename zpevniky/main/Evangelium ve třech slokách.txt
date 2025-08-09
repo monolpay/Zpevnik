@@ -1,0 +1,34 @@
+{title: Evangelium ve třech slokách}
+{artist: F a K Honzíkovi}
+
+{start_of_verse}
+1.  Nebýval [G]čas jako je [Em]dnes, kaž[C]dý měl tehdy [D]stres
+Vždyť [Am]dodržovat [C]zákon [D]neumí
+Bůh [G]nás však milo[Em]val a [C]proto udě[D]lal,
+že [Am]v lidském těle [C]přisel na Ze[D]mi
+{end_of_verse}
+
+{start_of_chorus}
+R:  To bylo v [G]judském Betlé[Em]mě
+tam v [C]chlévě na se[D]ně, narodil se [C]Král, králů [D]Král
+{end_of_chorus}
+
+{start_of_verse}
+Třicet tři [G]roků s námi [Em]žil, ce[C]lý svět promě[D]nil
+A [Am]ukázal nám [C]stovky [D]zázraků
+Aby svou [G]misi doko[Em]nal, sám [C]se oběto[D]val
+A [Am]na smrt potom [C]šel bez rozpa[D]ků
+{end_of_verse}
+
+{start_of_chorus}
+To bylo v [G]Jeruzalémě
+Na Golgotě nad křížem tam nápis stál: Židovský král
+{end_of_chorus}
+
+{start_of_verse}
+A od té [G]doby každý [Em]den je vchod do [C]nebe otev[D]řen
+I [Am]ty tam můžeš [C]vejít [D]a jsi zván
+Abys moh' [G]vejít do těch [Em]bran, byl Boží [C]Syn ukřižo[D]ván
+Tak [Am]vydej mu svůj [C]život, nebuď [D]sám
+{end_of_verse}
+

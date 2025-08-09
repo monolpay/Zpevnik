@@ -1,0 +1,11 @@
+{title: Haleluja, všichni zpívají}
+{artist: Jiří Obzina}
+
+{start_of_verse}
+1.  [G]Hale[D]luja, [G]všichni [D]zpívají,
+[G]hale[D]luja, [C]ať tady [D]zní,
+[G]vzdejme [D]chválu [G]Bohu [D]našemu,
+[C]ať jeho [G]sláva tento [D]dům napl[G]ní.
+{end_of_verse}
+
+

@@ -1,4 +1,4 @@
-{title: Bůh za mě zápas dokonč}
+{title: Bůh za mě zápas dokončí}
 {artist: ?}
 
 {start_of_verse}

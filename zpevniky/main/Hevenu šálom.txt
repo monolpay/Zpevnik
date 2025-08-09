@@ -1,0 +1,17 @@
+{title: Hevenu šálom}
+{artist: ?}
+
+{start_of_verse}
+Hevenu [Am]šalom alechém,
+hevenu [Dm]šalom alechém,
+hevenu [E]šalom al[Am]echém,
+hevenu [E]šalom, šalom, šalom ale[Am]chém.
+{end_of_verse}
+
+{start_of_verse}
+Neseme [Am]pokoj od Pána.
+Neseme [Dm]pokoj od Pána.
+Neseme [E]pokoj od[Am] Pána.
+Neseme [E]pokoj, pokoj, pokoj od [Am]Pána.
+{end_of_verse}
+

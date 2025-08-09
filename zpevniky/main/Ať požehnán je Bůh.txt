@@ -31,8 +31,6 @@ když [G]žal se skrývá [D]v dávání, požehn[Em]án buď [C]Pán.
 {end_of_verse}
 
 {start_of_bridge}
-B: [G]Dáš a vezmeš [D]sám
-můj [Em]pád i vítězst[C]ví,
-v mém [G]srdci stále [D]zní
-jen [Em]slova žehná[C]ní.
+B: [G]Dáš a vezmeš [D]sám můj [Em]pád i vítězst[C]ví,
+v mém [G]srdci stále [D]zní jen [Em]slova žehná[C]ní.
 {end_of_bridge}

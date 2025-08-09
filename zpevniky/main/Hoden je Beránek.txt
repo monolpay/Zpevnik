@@ -1,0 +1,19 @@
+{title: Hoden je Beránek}
+{artist: Petr Zika}
+
+{start_of_chorus}
+R:  [D]Ho[D2]den je [D4]Berá[D2]nek
+nejvy[D2]šší [D4]chvá[D]ly,
+On nás [A]vykoupil[G]
+svou [D]krví.
+{end_of_chorus}
+
+{start_of_verse}
+1.  Jenom [G]Ty jsi navěky [D]Král,
+jenom [G]Tobě patří [D]sláva, Pane [A]náš.
+{end_of_verse}
+
+{start_of_verse}
+2.  Budeme [G]jásat nad Tvým [D]vítězstvím,
+prapory [G]pozdvihnem ve [D]jménu svého [A]Boha.
+{end_of_verse}

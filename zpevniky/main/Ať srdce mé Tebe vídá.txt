@@ -16,6 +16,5 @@ když zpívám [A]svatý, svatý, [H]svatý.
 {start_of_bridge}
 B: [E]Svatý, svatý, svatý,
 [H]svatý, svatý, svatý,
-[A]svatý, svatý, [H]svatý,
-vidět Tě [E]toužím.
+[A]svatý, svatý, [H]svatý, vidět Tě [E]toužím.
 {end_of_bridge}

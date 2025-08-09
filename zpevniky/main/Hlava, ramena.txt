@@ -1,0 +1,14 @@
+{title: Hlava, ramena}
+{artist: ?}
+
+{start_of_verse}
+[D]Hlava, [A]ramena, [D]kolena, palce,
+[A]kolena, palce, [D]kolena, palce
+Hlava, [A]ramena, [D]kolena, palce [A]chválí Ježí[D]še.
+{end_of_verse}
+
+{start_of_verse}
+[D]Oči, [A]uši, [D]ústa, nosík
+[A]ústa, nosík, [D]ústa, nosík
+Oči, [A]uši, [D]ústa, nosík [A]chválí Ježí[D]še.
+{end_of_verse}

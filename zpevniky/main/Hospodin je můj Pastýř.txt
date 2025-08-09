@@ -1,0 +1,11 @@
+{title: Hospodin je můj Pastýř}
+{artist: ?}
+
+{start_of_verse}
+1.  [F]Hospodin je můj [C]Pastýř, nic [Dm]nepostrá[B]dám.
+{end_of_verse}
+
+{start_of_chorus}
+R:  [F]Má duše [C]Pána vele[Dm]bí, [B](velebí).
+[F]Má duše [C]sPána vele[Dm]bí. [B]Můj [F]Bůh je [C]spása [B]má.[C7]
+{end_of_chorus}

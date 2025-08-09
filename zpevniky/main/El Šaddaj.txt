@@ -1,0 +1,23 @@
+{title: El Šaddaj}
+{artist: ?}
+
+{start_of_chorus}
+R:  [G]El[A]Šad[Dm]daj, El Šad[G]daj, El, Eljo[C]n a Ado[F]naj,
+od vě[B]ků až na vě[E7]ky jméno [Am]tvé se [Dm]nemě[A7]ní.
+[G]El [A]Šad[Dm]daj, El Šad[G]daj, El el[C]jon a Ado[F]naj,
+Ty jsi [B]Bože veli[G]ký El Šad[C]daj.
+{end_of_chorus}
+
+{start_of_verse}
+1.  Vím, že jsi Ho na kříži obětoval za hříchy.
+Milovaný Syn Tvůj nás vysvobodil od smrti.
+Ty jsi Bůh, který vidí klečícího před Tebou,
+z otroků pak svobodné jsou děti Tvé.
+{end_of_verse}
+
+{start_of_verse}
+2.  Dlouhý čas před Ježíšem Spasitel byl zaslíben,
+mnohý ještě netušil, že by On byl Mesiáš.
+Převeliká je moc Tvá, Golgotou nám zjevená,
+ponížením dokázal jsi lásku k nám.
+{end_of_verse}

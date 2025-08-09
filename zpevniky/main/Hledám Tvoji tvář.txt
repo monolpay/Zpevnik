@@ -1,0 +1,21 @@
+{title: Hledám Tvoji tvář}
+{artist: }
+
+{start_of_verse}
+1.  [Em]Hledám [C]Tvoji tvář, Pane [D]můj,
+[Em]hledám [C]Tvoji tvář každý [D]den.
+[Em]Po Tobě [C]touží duše[D] má,
+[Em]oče[C]kávám slovo [D]Tvé.
+{end_of_verse}
+
+{start_of_chorus}
+R:  [Em]Chci jít [C]za Tebou, Ježí[D]ši, cestou [A]Tvou,
+[Em]chci jít [C]za Tebou, Ježí[D]ši.
+[Em]Chci jít [C]za Tebou, Ježí[D]ši, cestou [A]Tvou,
+[Em]chci jít [C]za Tebou, Ježí[D]ši, za [A]Tebou.
+{end_of_chorus}
+
+{start_of_bridge}
+B:  [F#m]Za Tebou, Pane [D]můj, chci [A]jít každý [E]den,
+[F#m]za Tebou, Pane [D]můj, chci [A]jít.[E]
+{end_of_bridge}

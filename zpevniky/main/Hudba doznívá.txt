@@ -1,0 +1,26 @@
+{title: Hudba doznívá}
+{artist: Matt Redman}
+
+{start_of_verse}
+1.  [D]Hudba dozní[A]vá, k Tobě přicház[Em]ím, chci jen Tebe [A]znát.
+[D]Přinést něco [A]snad, co pravou cenu [Em]má, co by Tys měl [A]rád.
+{end_of_verse}
+
+{start_of_bridge}
+B:  [Em]Chci víc než [D]píseň Ti [A]dát, nejen krásná slova.
+[Em]Co víc než [D]sebe Ti [A]dám.
+[Em]Ty zkoumáš [D]hlubiny [A]mé, skryté nic Ti není.
+[Em]Ty vidíš, [D]co v srdci [A]mám.
+{end_of_bridge}
+
+{start_of_chorus}
+R:  [D]Toužím teď do srdce [A]chvály vstoupit,
+kde jsi [Em]jedině [D]Ty, [G]jedině [A]Ty, Ježíši.[D]
+Vyznávám, Pane, vždy [A]nejsem věrný.
+To jsi [Em]jedině [D]Ty, [G]jedině [A]Ty, Ježíši[D]
+{end_of_chorus}
+
+{start_of_verse}
+2. Ty jsi věčný král, kdo jen vyjádří, co Ti náleží ,
+i kdyá slabý jsem, Pane, vše si vem, každý dech je Tvůj.
+{end_of_verse}

@@ -1,0 +1,20 @@
+{title: Haleluja ať zní ze všech úst}
+{artist: Václav Lamr}
+
+{start_of_chorus}
+R:  [C]Halelu[G]ja, ať [F]zní ze všech [G]úst, [C]halelu[G]ja, ať [F]zní k nebe[G]sům.
+[C]Halelu[G]ja, ať [F]Bůh slyší [G]nás, prozpě[C]vuj Sió[G]ne vykou[F]pený, [G]Pán zvítě[C]zil.
+{end_of_chorus}
+
+{start_of_verse}
+1.  [C]On těžký [G]kříž nesl [F]kvůli nám. [C]Na Golgo[G]tě zvítě[F]zil.  
+[C]Bůh odpouš[G]tí za to [F]vítězství hříchy [Dm]tvé, hříchy [G]tvé.
+Tak zpívej:
+{end_of_verse}
+
+
+{start_of_verse}
+2.  [C]Až zazní [G]hlas polnic [F]andělských, [C]Bůh tělo [G]tvé promě[F]ní.  
+[C]Pak zavo[G]láš: "Kde je [F]osten tvůj, smrti [Dm]zlá, smrti [G]zlá!"
+Tak zpívej:
+{end_of_verse}
