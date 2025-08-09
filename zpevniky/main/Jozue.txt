@@ -1,0 +1,41 @@
+{title: Jozue}
+{artist: ?}
+
+{start_of_chorus}
+R:  [Dm]Jozue, ten porazil [F]Jericho, [Gm]Jericho, [A7]Jericho,
+[Dm]Jozue, ten porazil [F]Jericho, dolů [Gm]hradby [A7]padají.[Dm]
+{end_of_chorus}
+
+{start_of_verse}
+1.  Jen si [Dm]mluvte, jak silní lidé v [F]kramflecích,
+jen si [Gm]stavte hradby z elegantních [A7]slov,
+je k [Dm]smíchu tohle vaše [F]lopocení
+při vzpo[Gm]mínce na [A7]Jeri[Dm]cho.[A7]
+{end_of_verse}
+
+{start_of_verse}
+2.  [Dm]Kampak sestro takhle z [F]rána,
+kam [Gm]chvátáš bratře [A7]můj,
+Odlož [Dm]všechna svá dobrá [F]předsevzetí
+a [Gm]troubení [A7]připra[Dm]vuj.[A7]
+Protože [Dm]Hospodin dal tohle město v [F]ruku tvou,
+máš [Gm]šanci, tak se [A7]snaž.
+Rytmus ti [Dm]dirigent udělí [F]rukou svou
+a [Gm]melodii [A7]přece [Dm]znáš.[A7]
+{end_of_verse}
+
+{start_of_verse}
+3.  [Dm]A tak dav se tiše [F]prodírá,
+[Gm]podél hradeb nepříjemnou [A7]houštinou.
+[Dm]Nikdo ani [F]nešpitá, [Gm]pohrdajíc [A7]ozvě[Dm]nou.[A7]
+Avšak [Dm]sedmého dne Jozue [F]rozkaz dal:
+[Gm]"Ať se nikdo se svým hlasem [A7]netají!"
+[Dm]Nikdo se dělat kravál [F]neostýchal, dolů [Gm]hradby [A7]pada[Dm]jí.[A7]
+{end_of_verse}
+
+
+
+
+
+
+

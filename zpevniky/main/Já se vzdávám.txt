@@ -1,0 +1,37 @@
+{title: Já se vzdávám}
+{artist: Matt Crocker}
+
+{start_of_verse}
+1.  [Hm]Jsem tu sám, před Tebou [D]poklekám,
+vše odklád[A]ám, vše odklá[G]dám.
+[Hm]Blízko být, Ježíši [D]víc Tě mít,
+Tebe chci [A]víc, Tebe chci [G]víc.
+Já se [Hm]vzdávám.[D][Em7][G]
+{end_of_verse}
+
+{start_of_verse}
+2.  [Hm]Láskou svou přijď zavlažit [D]duši mou,
+žíznivý [A]jsem, žíznivý [G]jsem.
+[Hm]Otvírám náruč a [D]touhu mám,
+chci slyšet Tvůj [A]hlas, slyšet Tvůj [G]hlas
+{end_of_verse}
+
+{start_of_chorus}
+R:  [G]Já se [Hm]vzdávám,
+já se [D]vzdávám,
+toužím Tě [Em7]více znát,
+toužím Tě [G]více znát.
+{end_of_chorus}
+
+{start_of_bridge}
+B:  [A]Tobě [G]svůj dech [D]dám, ve mně [A]dýchej sám,
+jen cestou [Em7]Tvou, jen cestou [Hm]Tvou chci [A]jít.
+[A]Jako [G]bouře [D]přijď, duši [A]pouta vzít,
+jen cestou [Em7]Tvou, jen cestou [Hm]Tvou chci [A]jít.
+{end_of_bridge}
+
+
+
+
+
+

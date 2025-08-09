@@ -1,0 +1,27 @@
+{title: Jen Ty Pane můj}
+{artist: ?}
+
+{start_of_chorus}
+R:  Jen [Am]Ty, Pane [G]můj, jen [Am]Tys můj štít,
+má [F]sláva, ty mou [G]hlavu pozve[Am]dáš.
+{end_of_chorus}
+
+{start_of_verse}
+1.  [Am]Mnoho je těch, [G]kteří kolem [Am]volají:
+v Bohu [F]žádnou [G]pomoc nenaj[Am]deš.
+{end_of_verse}
+
+{start_of_verse}
+2.  [Am]Volal jsem [G]k Pánu svému [Am]v úzkosti
+a on [F]prosbu [G]moji vysly[Am]šel.
+{end_of_verse}
+
+{start_of_verse}
+3.  [Am]Ty mi dáváš [G]spánek, novou [Am]sílu,
+v novém [F]dni mne [G]znovu podpí[Am]ráš.
+{end_of_verse}
+
+{start_of_verse}
+4.  [Am]Nebudu se [G]bát ani [Am]tisíců
+těch, [F]kdo mě [G]pronásledu[Am]jí.
+{end_of_verse}

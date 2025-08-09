@@ -1,0 +1,28 @@
+{title: Chci zářit}
+{artist: Jedním srdcem}
+
+{start_of_verse}
+1.  [Am]Stačí jedno slovo [G]a úsvit [C]začíná,[F]
+[Am]Záře Slunce, hvězd [G]se Ti [C]nerovná.[F]
+[Am]Temnotu měníš[G] v jasné [C]světlo,[F]
+[Am]Tam, kde jsi Ty, [G]tma nemá [C]místo.[F]
+{end_of_verse}
+
+{start_of_chorus}
+R:  Chci zářit světlem Tvým,
+Nést Tě bloudícím,
+Chci jít tam, kde mě chceš mít.
+{end_of_chorus}
+
+{start_of_verse}
+2.  [Am]Svět kolem mě [G]se ve tmě [C]utápí,[F]
+[Am]Pozornost mou [G]od Tebe [C]odvádí.[F]
+[Am]Ty se neměníš, [G]čekáš [C]na mě.[F]
+[Am]Když k Tobě vykročím, [G]zachrá[C]níš mě.[F]
+{end_of_verse}
+
+{start_of_bridge}
+Tvé [Am]světlo je [F]život,
+To rozsvěcíš [C]jen Ty,
+Do srdce dáš [G]jen Ty.
+{end_of_bridge}

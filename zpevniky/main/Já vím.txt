@@ -1,0 +1,25 @@
+{title: Já vím}
+{artist: MlasK}
+
+{start_of_verse}
+1.  [G]Můj Pán kvůli mně přišel, [Em]nepůsobil jako král.
+On [C]dal vše, co měl, abych [G]já mohl [D]žít.
+[G]Můj Pán dal sám sebe, [Em]prý jsem mu za to stál.
+On [C]dal vše, co měl, abych já mohl [D]žít.
+{end_of_verse}
+
+{start_of_chorus}
+R:  Já [Em]vím, já [C]vím,
+[G]bez Tebe neměl bych [D]nic.
+Já [Em]vím, já [C]vím,
+[G]Tys mi dal všechno, já [D]chci Tebe víc.
+Já [Em]vím, já [C]vím,
+[G]bez Tebe nemůžu [D]žít, nemůžu [C]žít.
+{end_of_chorus}
+
+{start_of_bridge}
+B:  [Em]Haleluja, [D]On je vítěz.
+[G]Ježíš žije, pro něj [C]mé srdce bije.
+[Em]On je Pánem vší země [D]a teď žije ve mně.
+[G]Nic nezastaví [C]slávu Tvou.
+{end_of_bridge}

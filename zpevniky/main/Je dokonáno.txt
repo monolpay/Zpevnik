@@ -1,0 +1,28 @@
+{title: Je dokonáno}
+{artist: Alexandr Flek}
+
+{start_of_verse}
+1.  Je doko[Em]náno, Ježíš je [Am]vítěz,
+[D]satan je poražen, Ježíš [G]zlomil smrti [H7]moc.
+Ježíš je [Em]Pán, ó Halelu[Am]ja,
+Ježíš je [H7]Král, kraluje na vě[Em]ky!
+{end_of_verse}
+
+{start_of_chorus}
+R:  [Em]Ježíš je Pán, [Am]Ježíš je Pán,
+[D]Ježíš je Pán, [G]Ježíš [H7]je Pán,
+[Em]Ježíš je Pán, [Am]Ježíš je Pán,
+[H7]v tomhle náro[Em]dě.
+{end_of_chorus}
+
+{start_of_bridge}
+B:  [Em]Haleluja, [Am]haleluja,
+[D]haleluja, [G]hale[H7]luja,
+[Em]haleluja, [Am]haleluja,
+[H7]sláva [Em]Ježíši!
+{end_of_bridge}
+
+
+
+
+

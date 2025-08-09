@@ -10,3 +10,5 @@ Pro načtení nastavení vyberte soubor nastaveni.reg
 
 Správné abecední pořadí je jiné než máme ve zpěvníku teď
 Nezapomenout IVK manuálně přesouvat na 55. pozici (pokud to jde)
+Chci znát Tvůj hlas je vyškrtnuté - vše >62 má jiné číslo
+Zkontrolujte prosím celou složky před .unfinished soubory (A netiskněte je, nebo je dodělejte :))

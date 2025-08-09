@@ -1,0 +1,51 @@
+{title: Já jdu tam do Boží země}
+{artist: ?}
+
+{start_of_verse}
+1.  [G]Já jdu tam do Boží země, kde vládne jas,  
+[C]já jdu tam do Boží země, [G]kde vládne jas,
+[G]já jdu tam do Boží země, [H7]kde vládne [Em]jas,
+[A7]kde je [D7]navěky [G]mír.[C][G] 
+{end_of_verse}
+
+{start_of_chorus}
+R:  P[G]ane můj, Pane můj, do nebe mne veď,  
+[C]Pane můj, Pane můj, [G]do nebe mne veď,
+[G]Pane můj, Pane můj, [H7]do nebe mne [Em]veď,
+[A7]kde je [D7]navěky [G]mír.[C][G]  
+{end_of_chorus}
+
+{start_of_verse}
+2.  [G]Pán Ježíš mi bude světlem na cestě mé,  
+[C]Pán Ježíš mi bude světlem [G]na cestě mé,
+[G]Pán Ježíš mi bude světlem [H7]na cestě [Em]mé,
+[A7]kde je [D7]navěky [G]mír.[C][G] 
+{end_of_verse}
+
+{start_of_verse}
+3.  [G]Slávou bude korunován, kdo nesl kříž,  
+[C]slávou bude korunován, [G]kdo nesl kříž,
+[G]slávou bude korunován, [H7]kdo nesl [Em]kříž,
+[A7]kde je [D7]navěky [G]mír.[C][G]
+{end_of_verse}
+
+{start_of_verse}
+4.  [G]On přebývá mezi námi, kde vládne jas,  
+[C]On přebývá mezi námi, [G]kde vládne jas,
+[G]On přebývá mezi námi, [H7]kde vládne [Em]jas,
+[A7]kde je [D7]navěky [G]mír.[C][G] 
+{end_of_verse}
+
+{start_of_verse}
+5.  [G]Setře každou slzu z očí, kde vládne jas,  
+[C]Setře každou slzu z očí, [G]kde vládne jas,
+[G]Setře každou slzu z očí, [H7]kde vládne [Em]jas,
+[A7]kde je [D7]navěky [G]mír.[C][G] 
+{end_of_verse}
+
+{start_of_verse}
+6.  [G]Pojď s námí tam do té země, kde vládne jas,  
+[C]Pojď s námí tam do té země, [G]kde vládne jas,
+[G]Pojď s námí tam do té země, [H7]kde vládne [Em]jas,
+[A7]kde je [D7]navěky [G]mír.[C][G] 
+{end_of_verse}

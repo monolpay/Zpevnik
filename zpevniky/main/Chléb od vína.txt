@@ -1,0 +1,35 @@
+{title: Chléb od vína}
+{artist: Mary Kitchen}
+
+{start_of_verse}
+1.  [C#]Chléb od vína připomíná
+[Bm]můj podíl na bezpráví
+[C#]Na smrti Lásky má je vina,
+[Bm]nastal čas na pokání.
+{end_of_verse}
+
+{start_of_verse}
+2.  [C#]Srdce bolí, hruď se svírá,
+[Bm]zavřu oči a vidím,
+[C#]jak za mě na kříži zmírá
+[Bm]Chléb ve víně smočený.
+{end_of_verse}
+
+{start_of_bridge}
+B:  Nádher[F#]ný důkaz [C#]lásky – život [G#]Tvůj
+za mě jsi [F#]dal, já tě [C#]chválím, Pane [G#]můj.
+{end_of_bridge}
+
+{start_of_chorus}
+R:  [C#]Ty jsi sestoupil [F#]blíž ze Své slávy,
+[C#]vzals na sebe [G#]kříž.
+[Bm]Ruce natažené, [F#]do dáli
+[C#]ať jméno Tvé [G#]zní.
+{end_of_chorus}
+
+{start_of_verse}
+[C#]Dlaně děravé se sklání.
+[Bm]milost Tvou z nich smím si brát,
+[C#]v srdci díka ústa chválí,
+[Bm]chci Ti říct, že mám Tě rád.
+{end_of_verse}

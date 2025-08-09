@@ -1,0 +1,9 @@
+{title: Je stále přítomná}
+{artist: ?}
+{comment: kánon}
+{start_of_verse}
+1.  Je [D]stále přítom[A]ná Tvoje [G]slá[D]va,
+radostně zpívá[A]me o Tvém [G]dí[D]le.
+Písnička ať zvo[A]ní kaž[G]dé chví[D]le,
+já Tě chválím Pane [A]můj jak je[G]nom u[D]mím.
+{end_of_verse}

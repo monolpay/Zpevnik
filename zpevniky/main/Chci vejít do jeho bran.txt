@@ -1,0 +1,30 @@
+{title: Chci vejít do jeho bran}
+{artist: }
+
+{start_of_chorus}
+R:  Chci vej[D]ít do Jeho [G]bran
+s vděčným [D]srdcem plným [Hm]chval,
+chtěl bych [D]se svou chválou [G]před Pána [A]přijít.
+Vždyť já [D]vím, dnes je ten [G]den, který [D]On uči[Hm]nil,
+pro[Em]to chci zpívat: [A]Pán mi radost [D]dal. 
+{end_of_chorus}
+
+{start_of_verse}
+1.  Pán mi radost [G]dal, [D]Pán mi radost [Hm]dal.
+pro[G]to chci zpívat, [A]Pán mi radost [D]dal.
+{end_of_verse}
+
+{start_of_verse}
+2.  Pán mi pokoj [G]dal, [D]Pán mi pokoj [Hm]dal.
+pro[G]to chci zpívat, [A]Pán mi pokoj [D]dal.
+{end_of_verse}
+
+{start_of_verse}
+3.  Pán mi lásku [G]dal, [D]Pán mi lásku [Hm]dal.
+pro[G]to chci zpívat, [A]Pán mi lásku [D]dal.
+{end_of_verse}
+
+{start_of_verse}
+4.  Pán mi píseň [G]dal, [D]Pán mi píseň [Hm]dal.
+pro[G]to chci zpívat, [A]Pán mi píseň [D]dal.
+{end_of_verse}

@@ -1,0 +1,19 @@
+{title: Chvála (od MlasK)}
+{artist: MlasK}
+
+{start_of_verse}
+1.  [C]Beránku [F]patří Ti [G]sláva,
+[F]patří Ti [C]sláva i [G]čest,
+[F]Ty jsi [C]Pánem vší [G]země,
+ať [F]jméno Tvé [G]zní do ne[C]bes.
+{end_of_verse}
+
+{start_of_chorus}
+R:  [F]Chvá[C]la, [G]chvá[Am]la, [F]chvá[C]la, ať [G]zní 2x
+[G]ať chvála Ti [C]zní.
+{end_of_chorus}
+
+{start_of_bridge}
+B:  [F]Jen Tebe chválíme, [C]za Tebou kráčíme, [G]dnem i nocí [Am]písně Ti zpíváme.
+[F]Nikdy to nevzdáme, [C]v těžkostech zpíváme [G]dál.
+{end_of_bridge}

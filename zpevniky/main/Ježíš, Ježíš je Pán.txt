@@ -1,0 +1,20 @@
+{title: Ježíš, Ježíš je Pán}
+{artist: Jiří Obzina, Tomáš Jégr}
+
+{start_of_verse}
+1.  [C]Ježíš, [Em]Ježíš je Pán,
+jedi[F]ná[C], jedi[Dm]ná
+[G]cesta k [C]životu, [G]k pravdě, vítěz[Am]ství,
+jedi[F]ná  [C]nadě[G]je.
+{end_of_verse}
+
+{start_of_chorus}
+R:  [F]Kéž na mne sestoupí Tvé [Em]milosrdenství,
+[F]kéž na mne sestoupí i Tvá [Am]spása,
+[F]nikdy nezbavuj má ústa [Em]pravdy,
+já [Dm]dál teď pobě[F]žím jen cestu [G]Tvou.
+{end_of_chorus}
+
+
+
+

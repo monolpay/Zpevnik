@@ -1,0 +1,29 @@
+{title: Immanuel}
+{artist: Jiřina Gina Čunková (Markovová)}
+
+{start_of_verse}
+1.  Se vším, [G]co mám, přicházím [Em]s chválou,
+až před Tvůj [C]trůn, před Tvoji [G]tvář,
+[D]toužím tam [G]stát, nechat se [Em]slávou
+naplnit [C]víc, než dosud [H7]znám.
+{end_of_verse}
+
+{start_of_chorus}
+R:  Připomí[Em]nám si nádherné [C]dílo,
+zázrakem [G]mám výsadu [D7]dát jméno:
+[G]Imanu[D]el, [Em]na stupeň vítě[C]zů,
+[G]Imanu[D]el, Ty jsi [Em]odpověď všech mých [C]dotazů,  
+[G]Imanu[D]el.[Em][C]
+{end_of_chorus}
+
+{start_of_verse}
+2.  Krásné sny [G]mám, že země Ti [Em]zpívá,
+mohutný [C]chór slyším už [G]znít.
+[d]Šťastný ten [G]čas, kdy národ Tě [Em]vzývá,
+jen pod Tvou [C]vládou všechno jde [G]líp!
+{end_of_verse}
+
+
+
+  
+

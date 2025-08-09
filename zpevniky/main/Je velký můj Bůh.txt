@@ -1,0 +1,21 @@
+{title: Je velký můj Bůh}
+{artist: ?}
+
+{start_of_chorus}
+R1:  Je [E]velký náš Bůh, je velký a mocný,
+nic [H]není co neuči[E]nil.
+{end_of_chorus}
+
+{start_of_verse}
+1.  On [E]hory stvořil a řeky všecky a hvězdičky také rozsví[H]til.
+{end_of_verse}
+
+{start_of_chorus}
+R2:  [E]Můj Bůh má mé rád, ta láska je velká,
+On [H]Ježíše dal za můj [E]hřích.
+{end_of_chorus}
+
+{start_of_verse}
+2.  Za [E]mě umíral, z horbu opět vstal
+a přijde si pro mě na [H]zem.
+{end_of_verse}

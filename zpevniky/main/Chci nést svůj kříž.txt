@@ -2,31 +2,25 @@
 {artist: Karel Řežábek}
 
 {start_of_chorus}
-R:  Chci nést svůj kříž, Tebe následovat,
-chci nést svůj kříž, tělo ukřižovat,
-chci nést svůj kříž, zemřít žádostem svým.
+R:  [Em]Chci nést svůj kříž, Tebe následovat,
+[C]chci nést svůj kříž, tělo ukřižovat,
+[Am]chci nést svůj [Hm]kříž, zemřít [Em]žádostem svým.
 {end_of_chorus}
 
 {start_of_verse}
-1.  Zemřít hněvu, dráždění,
-zemřít druhých souzení,
-zemřít bratrů pomlouvá ní.
+1.  [Am]Zemřít hněvu, dráždění,
+[Em]zemřít druhých souzení,
+[F]zemřít bratrů pomlouvá[Em]ní.
 {end_of_verse}
 
 {start_of_verse}
-2.  Zemřít všem svým představám,
-zemřít vlastním zásluhám,
-zemřít pýše a sobec tví.
+2.  [Am]Zemřít všem svým představám,
+[Em]zemřít vlastním zásluhám,
+[F]zemřít pýše a sobec [Em]tví.
 {end_of_verse}
 
 {start_of_verse}
-3.  Zemřít, Tvojí cestou jít,
-zemřít, a tak zvítězit,
-zemřít, abych Tvůj život žil.
-{end_of_verse}
-
-{start_of_verse}
-4.  Zemřít, Tvojí cestou jít,
-zemřít, a tak zvítězit,
-zemřít, abych Tvůj život žil.
+3.  [Am]Zemřít, Tvojí cestou jít,
+[Em]zemřít, a tak zvítězit,
+[F]zemřít, abych Tvůj život [Em]žil.
 {end_of_verse}

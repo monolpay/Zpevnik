@@ -1,0 +1,10 @@
+{title: Chvála}
+{artist: }
+
+{start_of_verse}
+1.  [G]Chvá[A]la, [D]chvá[Hm]la, [G]chvála, [A]Tobě [D]Pane.
+{end_of_verse}
+
+{start_of_chorus}
+R:  [D7]Neboť Ty jsi [G]ho[A][D]den, [D7]hoden naší [G]chvá[A][D]ly.
+{end_of_chorus}

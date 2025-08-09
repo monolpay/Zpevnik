@@ -1,0 +1,42 @@
+{title: Chtěl bych být majákem}
+{artist: J. Luhan}
+
+{start_of_verse}
+1.  [Dm]Chtěl bych být majákem, v příboji [Gm]stát,
+[A7]chtěl bych být majákem lodím směr [Dm]dát.
+[F]chtěl bych být [Gm]majákem [C]uprostřed [Am]vln,
+[E7]a bývám [F]sám [Dm]zbloudilý [A7]prám.
+[Dm]Chtěl bych být majákem, [B]ma[A7]já[Dm]kem!
+{end_of_verse}
+
+{start_of_verse}
+2.  [Dm]Chtěl bych i zvonem být, svou písní [Gm]znět,
+[A7]chtěl bych i zvonem být, ať slyší [Dm]svět,
+[F]chtěl bych i [Gm]zvonem být,[C] v bouřlivý [Am]čas,
+[E7]a mívám[F] sám [Dm]nejistý [A7]hlas,
+[Dm]chtěl bych i zvonem být, [B]zvo[A7]nem b[Dm]ýt.
+{end_of_verse}
+
+{start_of_verse}
+3.  [Dm]Chtěl bych být plamenem, když zebe [Gm]chlad,
+[A7]chtěl bych být plamenem, svítit [Dm]a hřát
+[F]chtěl bych být [Gm]plamenem, [C]noc změnit v [Am]den,
+[E7]a bývám [F]sám [Dm][A7]nezapálen,
+[Dm]chtěl bych být plamenem, [B]pla[A7]me[Dm]nem.
+{end_of_verse}
+
+{start_of_verse}
+4.  [Dm]Chtěl bych i mostem být přes dravý [Gm]tok,
+[A7]chtěl bych i mostem být, pro pevný [Dm]krok,
+[F]chtěl bych i [Gm]mostem být,[C] ve službě [Am]všech,
+[E7]a často [F]sám [Dm]hledám svůj [A7]břeh,
+[Dm]chtěl bych i mostem být, [B]mo[A7]stem [Dm]být.
+{end_of_verse}
+
+{start_of_verse}
+5.  [Dm]Ježíš nám majákem, může se [Gm]stát,
+[A7]duši mé zvonem být, píseň mi [Dm]dát,
+[F]sám je mi [Gm]plamenem, [C]noc mění v [Am]den,
+[E7]On je můj [F]Pán,[Dm] není to [A7]sen,
+[Dm]Ježíš je vítězem, [B]ví[A7]tě[Dm]zem.
+{end_of_verse}

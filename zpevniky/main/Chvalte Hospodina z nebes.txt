@@ -1,0 +1,14 @@
+{title: Chvalte Hospodina z nebes}
+{artist: Jiřina Gina Čunková (Markovová)}
+
+{start_of_verse}
+1.  [Em]Chvalte [D]Hospodina z [C]nebes,
+[Em]chvalte ho [D]ve výši[A]nách,
+[Em]chvalte ho [D]všichni Jeho [C]andělé,
+[Em]chvalte ho [D]všechny Jeho [A]zástupy.
+{end_of_verse}
+
+{start_of_chorus}
+R:  Neboť [C]vyvýše[D]né [G]je Jeho [Em]jméno,
+[C]Jeho [D]velebnost je [A]nad nebem a zemí.
+{end_of_chorus}

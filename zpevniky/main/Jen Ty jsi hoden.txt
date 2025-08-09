@@ -1,0 +1,16 @@
+{title: Jen Ty jsi hoden}
+{artist: Jolana Krásná, Lydie Votrubcová}
+
+{start_of_verse}
+1.  Jen Ty jsi [Hm]hoden, jen Ty jsi [D]hoden,
+jen Ty jsi [F#m]hoden uctívání a [A]chválení.
+Jen titley jsi [Hm]hoden, jen Ty jsi [D]hoden,
+jen Ty jsi [F#m]hoden uctívá[Hm]ní.
+{end_of_verse}
+
+{start_of_chorus}
+R:  [Hm]Chvá[F#m]lou ať [Em]naplní se [A]zem,
+[Hm]slá[F#m]vou ať [Em]každý je dotč[A]en.
+Pro spasení,[Hm] vykoupení[F#m]
+ze stínů tmy[Em] jsi [A]Králem mým.[Hm]
+{end_of_chorus}

@@ -1,0 +1,37 @@
+{title: Jak úžasná}
+{artist: Brother William, Pavel Mareš}
+
+{start_of_verse}
+1.  [G]Jak úžas[Em]ná, musí ta [D]láska být,
+[G]co přišla [Em]k nám, [C]o vše se rozdělit
+[G]dát novou [Em]vláhu poušti [C]spále[D]né,
+[G]přiblížit [Em]nám [C]nebe tak [D]vzdále[G]né.[Em][C][D]
+{end_of_verse}
+
+{start_of_verse}
+2.  [G]Svou slávy [Em]říš [C]opustils [D]kvůli nám,
+[G]nemusels [Em]jít, a přece [D]šel jsi sám,
+[G]tvář přátels[Em]kou jsi [C]nikde nevi[D]děl,
+[G]když proklí[Em]nán [C]jsi k popra[D]višti [G]šel.[Em][C][D]
+{end_of_verse}
+
+{start_of_verse}
+3. [G]Tam místo [Em]nás [C]život jsi [D]položil,
+[G]vrátil ses [Em]zas, abys ho [D]rozmnožil.
+[G]vím, abych [Em]já moh věčný [C]život [D]žít,
+[G]musel můj [Em]Pán [C]tou cestou [D]kříže [G]jít.[Em][C][D]
+{end_of_verse}
+
+{start_of_verse}
+4. [G]Třetího [Em]dne [C]jsi slavně [D]z hrobu vstal,
+[G]ve slávě [Em]své jsi berlu Krále vzal.
+[G]Za Tvoji [Em]lásku chci Tě [C]vele[D]bit
+[G]a jméno [Em]Tvé[C] na věky [D]věků [G]ctít.[Em][C][D]
+{end_of_verse}
+
+{start_of_verse}
+5. [G]Halelu[Em]ja [C]zpívají [D]andělé,
+[G]nové pís[Em]ně pějí che[D]rubové,
+[G]serafo[Em]vé se Ti [C]klaně[D]jí,
+[G]chválu Ot[Em]ci [C]v nebesích [D]vzdáva[G]jí.[Em][C][D]
+{end_of_verse}

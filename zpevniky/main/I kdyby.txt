@@ -1,0 +1,20 @@
+{title: I kdyby}
+{artist: F a K Honzíkovi}
+
+{start_of_verse}
+1.  I kdyby [G]fíkovník neroz[Em]kvet, na poli [C]úroda neby[D]la,
+z ohrady [G]zmizel všechen brav a [Em]skot
+a plodnost olivy by selha[D]la
+{end_of_verse}
+
+{start_of_verse}
+2.  I kdyby [G]Země se převrátila[Em] a hory [C]zřítily se do [D]moře,
+i kdyby [G]mě má matka opustila[Em] a všude [C]kolem jen bouře zuři[D]la
+{end_of_verse}
+
+{start_of_chorus}
+Nebudu se [G]bát, budu se rado[G/E]vat, neboť Ty jsi [Am]se mnou.[Am/G]
+Nebudu se [C]bát, jsi pevný silný [C/A]hrad, jsi hradbou nedo[D]bytnou.
+Budu se rado[G]vat, ve svém Bohu já[G/E]sat, neboť Ty jsi [Am]se mnou.[Am/G]
+Ty jsi síla [C]má, Ty jsi spása [D]má, jsi mojí záchra[G]nou.
+{end_of_chorus}

@@ -1,0 +1,29 @@
+{title: Jak úžasný Bůh}
+{artist: Chris Tomlin}
+
+{start_of_verse}
+1.  [G]V slávě nádherný, [Em]Král je důstojný,
+ať jásá celá [C2]zem, ať jásá celá [D2]zem.[D]
+[G]V záři přebývá, [Em]tma se ukrývá
+a noc mění se v [C2]den, noc mění se v [D2]den.[D]
+{end_of_verse}
+
+{start_of_chorus}
+R:  Jak [G]úžasný Bůh, zpívej se mnou,
+[Em]úžasný Bůh, ať každý ví,
+jak [Cmaj7]úžasný [D]je náš [G]Bůh.
+{end_of_chorus}
+
+{start_of_verse}
+2.  [G]Král je odvěký, [Em]čas mu náleží,
+je počátek i [C2]cíl, počátek i [D2]cíl.[D]
+[G]Ve třech svatý Bůh, [Em]Otec, Syn a Duch,
+hle, beránek je [C2]Král, Lev z Judy, mocný [D2]Pán.[D]
+{end_of_verse}
+
+{start_of_bridge}
+B:  [G]Nad jmény jméno zní,
+[Em7]hodné chvále ní
+v mém [Cmaj7]srdci zní:
+jak [D2]úžasný [G]Bůh.
+{end_of_bridge}

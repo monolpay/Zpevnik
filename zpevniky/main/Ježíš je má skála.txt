@@ -1,0 +1,33 @@
+{title: Ježíš je má skála}
+{artist: Pavel Kalous}
+
+{start_of_verse}
+1.  [Am]Ježíš je má skála,
+On je [C]moje spasení,
+v Něho [G]doufám,
+On je štítem [Am]mým.
+{end_of_verse}
+
+{start_of_chorus}
+R1:  [Am]Ha[Em]le[C]lu[G]ja, [Am]On je [Em]štítem [Am]mým. 2x
+{end_of_chorus}
+
+{start_of_verse}
+2.  [Am]Ježíš je mým Pánem,
+nikdy [C]mě neopustí,
+On je [G]věrný,
+důvěru mou [Am]má.
+{end_of_verse}
+
+{start_of_chorus}
+R2: [Am]Ha[Em]le[C]lu[G]ja, [Am]důvěru [Em]mou [Am]má. 2x
+{end_of_chorus}
+
+
+
+
+
+
+
+
+

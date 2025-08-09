@@ -1,0 +1,23 @@
+{title: Ježíš, nejkrásnější ze všech jmen}
+{artist: }
+
+{start_of_verse}
+1.  [C]Ježíš, nejkrás[Dm]nější ze všech jmen,
+[G]Ježíš, slyší [C]hlas můj každý den.
+[Am]Ježíš, mne v mém [Dm]pádu pozvedá,
+[G]Ježíš, krásné jméno [C]má.
+{end_of_verse}
+
+{start_of_verse}
+2.  [C]Ježíš, chválu [Dm]vzdává srdce mé,
+[G]Ježíš, stále [C]stejný, včera, dnes.
+[Am]Ježíš, zemřel [Dm]též za hříchy mé,
+[G]Ježíš, nejkrásnější [C]z jmen.
+{end_of_verse}
+
+{start_of_verse}
+3.  [D]Ježíš, přijde [Em]brzy jako král,
+[A]Ježíš, přines [D]lásku na zem k nám.
+[Hm]Ježíš, jemu [Em]chválu zazpívám,
+[A]Ježíš, krásné jméno [D]má.
+{end_of_verse}
