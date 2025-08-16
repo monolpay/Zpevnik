@@ -1,0 +1,12 @@
+{title: Jsme Tvůj lid}
+{artist: Daniel Kyzlink}
+
+{start_of_verse}
+1.   [Em]Jsme Tvůj lid, jsme [D]Tvá nevěsta,[Em][D]
+tak [Em]přijď mezi [D]nás, tak [Em]přijď [D]rozdá[Em]vat.
+{end_of_verse}
+
+{start_of_chorus}
+R: Ať [G]láska [D]Tvá vždy mezi [Am]námi přebý[C]vá
+a [G]pokoj [D]Svůj znovu [Am]vylej mezi [C]nás!
+{end_of_chorus}

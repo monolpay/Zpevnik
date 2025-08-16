@@ -1,0 +1,31 @@
+{title: Ježíš, přítel hříšných}
+{artist: Paul Oakley}
+
+{start_of_verse}
+1.  [A]Je jeden hlas, co [A4]měl by znít,
+[A]je jedna píseň k [A4]zpívání,
+[F#m]je jedno jméno [D]hodné vzývá[E]ní.
+[A]Nad zlato poklad [A4]vzácnější,
+[A]Král na trůnu [A4]nejvyšším,
+[F#m]Jemu chvála [D]celým nebem [E]zní.
+{end_of_verse}
+
+{start_of_chorus}
+R:  Má Jméno [A]Ježíš,[E][D] přítel [A]hříšných,[E][D]
+Ježíš, [A]Ježíš,[E][D] Přítel [F#m]můj.[E][D]
+{end_of_chorus}
+
+{start_of_verse}
+2.  [A]Je pokoj, jenž strach [A4]zahání,
+[A]láska, co roste [A4]dáváním,
+[F#m]naděje, která [D]smrtí nekon[E]čí.
+[A]Bůh, který nám [A4]rozumí,
+[A]přítel, co nikdy [A4]nezradí,
+[F#m]má jediné jméno, [D]v němž je spase[E]ní.
+{end_of_verse}
+
+{start_of_bridge}
+[Hm]Vešel do [E]mého věze[Hm]ní,
+řekl: "Jsi [E]volný, můžeš [Hm]jít.
+[E]Jsi svobodný!"[F#m][E][D]
+{end_of_bridge}

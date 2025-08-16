@@ -1,0 +1,34 @@
+{title: Jsem ti blízko}
+{artist: Karel Řežábek}
+
+{start_of_verse}
+1.  [F#m]Nemusíš se bát, já tě [D]jménem [E]znám, [F#m] 
+[F#m]znám i cestu tvou, [D]vždyť jsem ji [E]před tebou
+prošel [F#m]sám.
+[F#m]Všechnu sílu svou u mně [D]zkoušej [E]brát,[F#m]  
+[F#m]pomůžu ti nést každé tvé [D]břímě,
+[E]pokud mi je [F#m]dáš.
+{end_of_verse}
+
+{start_of_chorus}
+R:  Jsem ti [E]blízko, velmi [D]blízko, [E]blíž, než se zdá.[F#m]
+Věř mi, [E]blízko, velmi [D]blízko k Tobě mám.[F#m]
+{end_of_chorus}
+
+{start_of_verse}
+2.  [F#m]Když se usmíváš i já [D]radost [E]mám,[F#m]  
+[F#m]s Tebou prožívám [D]prohry i [E]vítězství
+ve zkouš[F#m]kách.
+[F#m]I když prohráváš, mám Tě [D]pořád [E]rád,[F#m]  
+[F#m]nemusíš to vzdát, [D]znovu se zvedni
+[E]a pojď se mnou [F#m]dál.
+{end_of_verse}
+
+{start_of_verse}
+3.  [F#m]Všechna zklamání i tvé [D]slzy [E]znám,[F#m]  
+[F#m]já jediný vím [D]o každém [E]zranění,
+které [F#m]máš.
+[F#m]Zvedni oči své, odlož [D]žal i [E]pláč,[F#m]  
+[F#m]vždyť někoho máš, [D]kdo je ti blízko
+[E]a sebe chce ti [F#m]dát.
+{end_of_verse}

@@ -1,0 +1,18 @@
+{title: Jsem moc malý}
+{artist: ?}
+
+{start_of_verse}
+1.  [E]Jsem moc malý, abych byl vojákem,
+[H]jezdil na koni [E]s puškou, bodákem.
+Jsem moc malý, abych byl vojákem, [H]jsem v Boží armá[E]dě.
+Jsem v Boží [H]armá[E]dě, jsem v Boží armá[H]dě.
+[E]Jsem moc malý, abych byl vojákem, [H]jsem v Boží armá[E]dě.
+{end_of_verse}
+
+{start_of_chorus}
+2.  [E]Jsem moc malá, abych se vdávala,
+[H]prala, žehlila, [E]přitom vařila.
+Jsem moc malá, [H]abych se vdávala, jsem v Boží rodi[E]ně.
+Jsem v Boží rodi[H]ně, [E]jsem v Boží rodi[H]ně.
+[E]Jsem moc malá, abych se vdávala, [E]jsem v Boží rodi[H]ně.
+{end_of_chorus}

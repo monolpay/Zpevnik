@@ -1,0 +1,16 @@
+{title: K Pánu ruce pozvedám}
+{artist: ?}
+
+{start_of_verse}
+1.  [C]K Pánu [F]ruce pozve[C]dám,[F]
+[C]on je [F]hoden našich [C]chval.[F]
+[C]S ním vždy [F]zvítě[C]zím nad ne[F]přáteli
+[C]k Pánu [F]ruce pozve[C]dám.[F]
+{end_of_verse}
+
+{start_of_chorus}
+Vždyt [C]Pán žije on [F]je můj pevný [C]hrad
+je skála [F]má a proto vzývám Jeho [G]jméno.
+Vždyt [C]Pán žije on [F]je můj pevný [C]hrad
+je skála [F]má a proto vzývám Jeho [G]jméno.[C]
+{end_of_chorus}

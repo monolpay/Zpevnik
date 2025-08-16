@@ -1,0 +1,56 @@
+{title: Ježíš klepe}
+{artist: ?}
+
+{start_of_chorus}
+R: [C]Ježíš klepe [G]na tvé srdce,
+[F]čeká až mu přijdeš otevřít,
+[C]chce být s tebou, [G]rozumí ti a má tě [F]rád.
+{end_of_chorus}
+
+{start_of_verse}
+1.  [C]Jedna paní [G]měla problém,
+[F]myslela si že o tom nikdo jiný neví,
+[C]avšak je tu jeden, [G]který vidí vše v srdci [F]tvém.
+{end_of_verse}
+
+{start_of_verse}
+2.  [C]Další paní [G]přemýšlela,
+[F]jak veliký dluh za ní asi Ježíš zaplatil,
+[C]došlo jí, že šíleně [G]veli[F]ký.
+{end_of_verse}
+
+{start_of_verse}
+3.  [C]Jeden hříšník [G]litoval vše,
+[F]těsně před smrtí prosil o odpuštění,
+[C]Ježíš se slitoval a řek, že ještě [G]dnes může v nebi[F] být.
+{end_of_verse}
+
+{start_of_verse}
+4.  [C]Člověk boháč [G]přišel k Pánu,
+[F]že by také chtěl v nebi místo mít.
+[C]"Hele, všechno prodej a půjdeš [G]vzhůru za svým pokla[F]dem."
+{end_of_verse}
+
+{start_of_verse}
+5.  [C]Ten muž [G]moudrý, velmi zbožný,
+[F]chodil do kostela, všemu rozuměl,
+[C]ale nový život v srdci [G]jeho mu chy[F]běl.
+{end_of_verse}
+
+{start_of_verse}
+6.  [C]Mladík slepý, Ježíšem [G]uzdravený,
+[F]byl statečný a nebojácný
+[C]a k dílu Páně ve svém [G]životě se přiz[F]nal.
+{end_of_verse}
+
+{start_of_verse}
+7. [C] Prostá žena [G]neváhala,
+[F]poslouchala co říká její Pán,
+[C]za dárek pro Něj dala [G]výplatu celič[F]kou.
+{end_of_verse}
+
+{start_of_verse}
+8.  [C]Když učedník [G]pochyboval,
+[F]že Ježíš opravdu z hrobu vstal,
+[C]On sám v důvěru jeho [G]nevíru promě[F]nil.
+{end_of_verse}
