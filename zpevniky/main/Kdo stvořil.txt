@@ -1,0 +1,39 @@
+{title: Kdo stvořil}
+{artist: ?}
+
+{start_of_verse}
+1.  [G]Kdo [D]stvořil [G]třpytící se hvězdy,
+[C]třpytící se hvězdy, [G]třpytící se hvěždy?
+[D]Kdo [G]stvořil třpytící se hvězdy?
+[C]Náš [D]Otec [G]Bůh!
+{end_of_verse}
+
+{start_of_verse}
+2.  [G]Kdo [D]stvořil [G]vlnící se moře,
+[C]vlnící se moře, [G]vlnící se moře?
+[G]Kdo [G]stvořil vlnící se moře?
+[C]Náš [D]Otec [G]Bůh!
+{end_of_verse}
+
+{start_of_verse}
+3.  [G]Kdo [D]stvořil [G]létající ptáky,
+[C]létající ptáky, [G]létající ptáky?
+[D]Kdo [G]stvořil létající ptáky?
+[C]Náš [D]Otec [G]Bůh!
+{end_of_verse}
+
+{comment: Možno užít chobotnaté slony, píchající ježky,...}
+
+{start_of_verse}
+4.  [G]Kdo [D]stvořil [G]celou naši zemi,
+[C]celou naši zemi, [G]celou naši zemi?
+[D]Kdo [G]stvořil celou naši zemi?
+[C]Náš [D]Otec [G]Bůh!
+{end_of_verse}
+
+{start_of_verse}
+5.  [G]Kdo [D]stvořil [G]tebe a mne taky,
+[C]tebe a mne taky, [G]tebe a mne taky?
+[D]Kdo [G]stvořil tebe a mne taky?
+[C]Náš [D]Otec [G]Bůh!
+{end_of_verse}

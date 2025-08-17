@@ -17,4 +17,5 @@ Protože SongSheet generator dává do obsahu i autory a nejde to vypnot, uděla
 Jak to použít:
 - ve složce projektu spustit python obsah.py
 - napsat název složky s písněmi (zatím máme jen main)
+- zbytek snad pochopíte (když jste programátor)
 To je všechno

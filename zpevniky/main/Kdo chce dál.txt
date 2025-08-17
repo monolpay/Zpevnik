@@ -1,0 +1,26 @@
+{title: Kdo chce dál}
+{artist: ?}
+
+{start_of_chorus}
+R: [D] Kdo chce [Hm]dál, ten [E7]musí [A7]cestou [D]chval. [Hm][Em][A] 2x
+[D]Všechno [Hm]ať zní [G]k Boží [A]chvále, [D]dneska, [Hm]zítra [Em]a tak [A]dále,
+[D]kdo chce [Hm]dál, ten [Em]musí [A7]cestou [D]chval.[Hm][Em][A]
+{end_of_chorus}
+
+{start_of_verse}
+1.  [D]Mindrá[Hm]ky a [Em]křivdy [A]samý, [D]city [Hm]stokrát [Em]převo[A]raný,
+[D]zoufá[Hm]ní nad [G]vlastní [A]pova[D]hou
+[Hm]jsou [Em]slepou [A7]cestou...
+{end_of_verse}
+
+{start_of_verse}
+2.  [D]Výhra[Hm]dy a [Em]připo[A]mínky, [D]utí[Hm]kání [Em]do vzpo[A]mínky,
+[D]rozpa[Hm]ky nad [Em]církví [A]Kristo[D]vou,
+[Hm]jsou [Em]slepou [A7]cestou...
+{end_of_verse}
+
+{start_of_verse}
+3.  [D]Stará[Hm]ní a [Em]různý [A]strachy, [D]dostat [Hm]byt a [Em]sehnat [A]prachy,
+[D]vzdychá[Hm]ní nad [Em]situ[A]ací [D]zlou,
+[Hm]jsou [Em]slepou [A7]cestou..
+{end_of_verse}

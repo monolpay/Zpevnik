@@ -1,0 +1,17 @@
+{title: Kdopak je nám nejdražší}
+{artist: Martin Truhlář, Jaromír Skalák}
+
+{start_of_verse}
+1.  [Dm]Kdopak je nám [C]nejdražší, [Dm]kdo vám s láskou [C]splývá?
+[Dm]Kdo ti smutky [G]zapla[Am]ší, [F]koho mám tak [G]rád?
+[Dm]S kým přichází [C]poznání, [Dm]komu patří [C]sláva?
+[Dm]Kdo slyší tvé [G]volá[Am]ní, kdo [F]věrným zůstá[G]vá?
+{end_of_verse}
+
+{start_of_chorus}
+R:  [F]To jenom [Am]Ježíš může [G]být,
+[F]u něho [Am]v dlaních [G]najdeš [F]klid
+a svou spásu, vždyť [Em]Beránek je Král,
+vítěz [Dm]vítězů, a ty s ním můžeš [G]žít,
+nádherně, [F]věčně žít.
+{end_of_chorus}

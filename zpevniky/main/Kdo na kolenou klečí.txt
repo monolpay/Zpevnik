@@ -1,0 +1,22 @@
+{title: Kdo na kolenou klečí}
+{artist: ?}
+
+{start_of_verse}
+1.  Kdo [Em]na kolenou klečí, [H7]vídá [Em]dál.[D][G][H7]
+Kdo [Em]na kolenou klečí, vídá [Am]dál.[Em]
+{end_of_verse}
+
+{start_of_chorus}
+R:  Život svůj prý kdo ztratí, jen ten ho [Am]zachrá[Em]ní.[C]
+Dlou[Em]hý, [Am]těž[G]ký je [H7]chápá[Em]ní.[A][Em]
+{end_of_chorus}
+
+{start_of_verse}
+2.  [Em]Kdo nedělá moc řečí, [H7]poví [Em]víc.[D][G][H7]
+Kdo [Em]nedělá moc řečí, poví [Am]víc.[Em]
+{end_of_verse}
+
+{start_of_verse}
+3.  Kdo [Em]dává, zpět nežádá, [H7]má dost [Em]sám.[D][G][H7]
+Kdo [Em]dává, zpět nežádá, má dost [Am]sám.[Em]
+{end_of_verse}

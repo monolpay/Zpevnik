@@ -1,0 +1,14 @@
+{title: Kdo je pánem džungle}
+{artist: ?}
+
+{start_of_verse}
+1.  [D]Kdo je pánem džungle? (hu, hu)
+Kdo pánem [A]vody? (bubla, bubla, bubla)
+Kdo je pánem vesmíru?
+A kdo pánem [D]mým?
+
+Povím vám to J-E-Ž-Í-Š!
+On je Pánem [A]mým.
+On je Pánem vesmíru,
+džungle i [D]vody. (bubla, bubla, bubla, žbluňk)
+{end_of_verse}

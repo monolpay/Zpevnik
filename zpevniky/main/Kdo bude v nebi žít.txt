@@ -1,0 +1,37 @@
+{title: Kdo bude v nebi žít}
+{artist: ?}
+
+{start_of_chorus}
+R1:  Kdo bude [E]v nebi žít? Jen Bůh to [H7]ví! 3x 
+Ale [E]já vím, že to bude [H7]fajno[E]vý. 
+{end_of_chorus}
+
+{start_of_verse}
+1. A [E]leckdo se pak podiví, koho to tady v nebi [H7]nevi[E]dí.
+A kdo to tady s náma je, no jak se tenhle dostal [H7]do rá[E]je.
+{end_of_verse}
+
+{start_of_chorus}
+R2:  S kým budu [E]v nebi žít? Jen Bůh to [H7]ví! 3x
+Ale [E]já vím, že to bude [H7]fajno[E]vý.
+{end_of_chorus}
+
+{start_of_verse}
+2.  A [E]naše lidské myšlení, je dobrý jenom tady [H7]na ze[E]mi.
+A na to rozum nestačí, až nás Bůh uchem jehly [H7]protla[E]čí.
+{end_of_verse}
+
+{start_of_chorus}
+R3:  Kdy skončí [E]život můj? Jen Bůh to [H7]ví! 3x
+Ale [E]já vím, že to bude [H7]fajno[E]vý.
+{end_of_chorus}
+
+{start_of_verse}
+3. A [E]zlatý město je můj Pán, a brány z perel jsou tam [H7]doko[E]řán.
+Už se těším řeknu vám, až si to s vámi v nebi [H7]zazpí[E]vám. 
+{end_of_verse}
+
+{start_of_chorus}
+R4:  Kdy už se [E]vrátí Pán? Jen Bůh to [H7]ví! 3x
+Ale [E]já vím, že to bude [H7]fajno[E]vý.
+{end_of_chorus}

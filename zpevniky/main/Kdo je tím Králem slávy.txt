@@ -1,0 +1,28 @@
+{title: Kdo je tím Králem slávy}
+{artist: }
+
+{start_of_verse}
+1.  [C]Kdo je tím Králem slávy, jenž mě [F]láskou provází
+[C]a stále ke mně mluví [F]něžně slovem svým?
+Mé [F]svědomí mi říká: Bez odpuš[Am]tění nelze žít.
+Kdo [G]je tím Králem slávy, [F]jenž mi je nabí[C]zí?
+{end_of_verse}
+
+{start_of_verse}
+2.  [C]Kdo andělů je králem?, Bůh, co [F]žehná pokojem
+a [C]otvírá nám nebe, a [F]krásu, co je v něm.
+Má [F]duše po něm touží, po mi[Am]losti, v pravdě stát.
+Kdo [G]je tím Králem slávy? [F]Lidský syn i Bůh a [C]Pán.
+{end_of_verse}
+
+{start_of_chorus}
+R:  Má jméno [F]Ježíš, drahý [Am]Ježíš,
+mocný [G]Pán, v srdci [F]mém Král. On je Král [C]slávy.
+{end_of_chorus}
+
+{start_of_verse}
+3.  [C]Kdo je tím Králem slávy? Důstoj[F]ností oplývá
+a [C]moudrostí se halí, [F]milostivý Král.
+Je [F]Pánem na nebesích, počátkem [Am]všeho stvoření.
+On [G]je tím Králem slávy, [F]On je pro mě [C]vším.
+{end_of_verse}
