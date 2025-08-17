@@ -59,14 +59,14 @@ for entry in os.listdir(dir+ "/obsah"):
         continue
 if len(folders) != 0:
     print("Byly nalezeny složky: ", folders)
-    print("Přejete si je smazat? (y/n)")
+    print("Přejete si je smazat? (y/N)")
     answer = input()
     if answer.lower() == "y":
         for folder in folders:
             if len(os.listdir(dir + "/obsah/" + folder)) == 0:
                 os.rmdir(dir + "/obsah/" + folder)
             else:
-                print("Složka", folder, "není prázdná, stejně smazat? (y/n)")
+                print("Složka", folder, "není prázdná, stejně smazat? (y/N)")
                 answer = input()
                 if answer.lower() == "y":
                     removeFolder(dir + "/obsah/" + folder)
