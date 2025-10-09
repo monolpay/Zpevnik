@@ -1,0 +1,30 @@
+{title: Kristus kraluje}
+{artist: ?}
+
+{start_of_verse}
+1.  [Em]Kri[D]stus [G]kra[D]lu[Em]je, [Em]nás [D]ob[G]ha[A]ju[D]je
+před tváří [D]Otce, tam, [G]v ne[H7]bes[Em]ích.  
+{end_of_verse}
+
+{start_of_verse}
+2.  [Em]On [D]je [G]sí[D]la [Em]má, [Em]v Něm [D]se [G]u[A]krý[D]vám,
+stále se [D]raduje [G]du[H7]še [Em]má.  
+{end_of_verse}
+
+{start_of_verse}
+3.  [Em]Lé[D]pe [G]zpí[D]va[Em]ti, [Em]v Bo[D]ha [G]dou[A]fa[D]ti,
+než v lidech [D]naději [G]sklá[H7]da[Em]ti.  
+{end_of_verse}
+
+{start_of_verse}
+4.  [Em]Chval[D]me [G]slav[D]né[Em]ho [Em]Krá[D]le [G]věč[A]né[D]ho,
+s písněmi [D]předstupme [G]před [H7]Ně[Em]ho!
+{end_of_verse}
+
+
+
+
+
+
+
+

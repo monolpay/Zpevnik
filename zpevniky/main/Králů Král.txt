@@ -1,0 +1,16 @@
+{title: Králů Král}
+{artist: ?}
+
+{start_of_verse}
+1.  [G]Králů Král [D]nádherný,
+[F]Boží Syn [Am]vzkříše[D]ný,
+[G]pánů Pán, [D]Bůh silný,
+[F]Král a Bůh, [Am]věčný pramen [D]lásky.
+{end_of_verse}
+
+{start_of_chorus}
+R:  [G]Chválím Tě, ó Pane, [D]chválím Tě,
+jen [Am]Ty mne podpíráš, když [C]nemám sílu [D]jít,
+[G]chválím Tě, ó Pane, [D]chválím Tě,
+Tvá [Am]láska [C]k nám je [D]úžas[G]ná.
+{end_of_chorus}

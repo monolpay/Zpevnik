@@ -1,0 +1,27 @@
+{title: Když duch Boží}
+{artist: }
+
+{start_of_verse}
+1.  Když [Dm]Duch Boží mě naplní, jak [Gm]David [A7]zpívat [Dm]chci.
+Jak [Gm]David, jak [Dm]David, [A7]jak David zpívat [Dm]chci.
+{end_of_verse}
+
+{start_of_verse}
+2.  Když [Dm]Duch Boží mě naplní, jak [Gm]David [A7]tleskat [Dm]chci.
+Jak [Gm]David, jak [Dm]David, [A7]jak David tleskat [Dm]chci.
+{end_of_verse}
+
+{start_of_verse}
+3.  Když [Dm]Duch Boží mě naplní, jak [Gm]David [A7]dupat [Dm]chci.
+Jak [Gm]David, jak [Dm]David, [A7]jak David dupat [Dm]chci.
+{end_of_verse}
+
+{start_of_verse}
+4.  Když [Dm]Duch Boží mě naplní, jak [Gm]David [A7]luskat [Dm]chci.
+Jak [Gm]David, jak [Dm]David, [A7]jak David luskat [Dm]chci.
+{end_of_verse}
+
+{start_of_verse}
+5.  Když [Dm]Duch Boží mě naplní, jak [Gm]David [A7]tančit [Dm]chci.
+Jak [Gm]David, jak [Dm]David, [A7]jak David tančit [Dm]chci.
+{end_of_verse}
