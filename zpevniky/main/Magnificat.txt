@@ -1,0 +1,9 @@
+{title: Magnificat}
+{artist: ?}
+
+{start_of_verse}
+1.  [G]Magnifi[C]cat, [D7]magnifi[G]cat,
+[G]magnifi[C]cat anima [D7]mea [G]Dominum,
+[G]Magnifi[C]cat, [D7]magnifi[G]cat,
+[G]magnifi[C]cat anima [D7]me[G]a.
+{end_of_verse}

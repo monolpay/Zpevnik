@@ -1,0 +1,16 @@
+{title: Láska Kristova}
+{artist: ?}
+
+{start_of_chorus}
+R: [C]Láska Kristova je tak nádherná,
+[G]láska Kristova je tak nádherná,
+[C]láska Kristova je tak nádherná,
+láska [G]nádher[C]ná.
+{end_of_chorus}
+
+{start_of_verse}
+1.  [C]Vysoká je, že ji nepřejdeš,
+[G]hluboká je, že jí neprojdeš,
+[C]široká, že jí neunikneš,
+láska [G]nádher[C]ná!
+{end_of_verse}

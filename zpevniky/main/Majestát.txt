@@ -1,0 +1,29 @@
+{title: Majestát}
+{artist: ?}
+
+{start_of_verse}
+1. [Em]Smím [D]tu [C]být, [G]pokořen a doja[C]tý.
+[G]Přikrytý Tvojí milos[D]tí.
+[Em]Smím [D]tu [C]být, [G]svému hříchu svobod[C]ný.
+[G]Přikrytý krví [D]Beránka.
+{end_of_verse}
+
+{start_of_bridge}
+P: [Em]Teď [D]už [G]vím jsem v Tvojí lásce.
+[Em]Já [D]ji [G]smím znát celým srdcem [Am]svým
+Nejvyšší [C]z obětí
+{end_of_bridge}
+
+{start_of_chorus}
+R:  [G]Maje[D]stát, [G]Maje[D]stát.
+Tvoje [G]milost a Tvé slitová[D]ní
+Pozva[Em]ly mě k trůnu Tvojí slá[C]vy.
+{end_of_chorus}
+
+{start_of_verse}
+2. [Em]Smím [D]tu [C]stát, [G]odpustil s mi a tak můžu [C]já
+[G]Odpouštět hned z jitra rá[D]na.
+[Em]Smím [D]tu [C]stát, [G]posvěcený Tvojí slá[C]vou.
+[G]Ve Tvých rukou [D]zůstanu.
+{end_of_verse}
+
