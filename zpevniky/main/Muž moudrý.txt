@@ -1,0 +1,38 @@
+{title: Muž moudrý}
+{artist: ?}
+
+{start_of_verse}
+1. Muž [C]moudrý stavěl dům [G]svůj na skále,
+muž moudrý stavěl [C]dům svůj na skále,
+muž moudrý stavěl [G]dům svůj na skále,
+až přišel velký [C]déšť.
+Déšť [C]padal a voda [G]stoupala
+Déšť padal a voda [C]stoupala
+Déšť padal a voda [G]stoupala
+dům na skále pevně [C]stál
+{end_of_verse}
+
+{start_of_verse}
+2. Muž [C]hloupý stavěl dům [G]svůj na písku,
+muž hloupý stavěl [C]dům svůj na písku,
+muž hloupý stavěl [G]dům svůj na písku,
+až přišel velký [C]déšť.
+Déšť [C]padal a voda [G]stoupala
+Déšť padal a voda [C]stoupala
+Déšť padal a voda [G]stoupala
+dům na písku sebra[C]la.
+{end_of_verse}
+
+{start_of_verse}
+3. Svůj [C]dům postav na [G]Pánu Ježíši,
+svůj dům postav na [C]Pánu Ježíši,
+svůj dům postav na [G]Pánu Ježíši,
+a bude pevně [C]stát.
+{end_of_verse}
+
+{start_of_verse}
+4. Své [C]modlitby my [G]vyšleme tam,
+své požehnání [C]On sešle nám,
+své modlitby my [G]vyšleme tam,
+náš dům bude pevně [C]stát.
+{end_of_verse}

@@ -1,0 +1,23 @@
+{title: Mou cestu v rukou máš}
+{artist: John De Jong}
+
+{start_of_verse}
+1. [C]Mou cestu v [F]rukou máš, [Am]jdu s důvě[G]rou.
+[C]Neselže [F]láska Tvá, [Am]jdu s důvě[G]rou.
+Ať se třeba [F]hory zřítí [Am]do moře, jdu s [G]důvěrou.
+Ať i hvězdy [F]padají a [Am]svět kolem se [G]hroutí.
+{end_of_verse}
+
+{start_of_verse}
+2. [C]Když cestu [F]nevidím, [Am]jdu s důvě[G]rou.
+[C]Vedeš mě [F]slovem svým, [Am]jdu s důvě[G]rou.
+I když musím [F]projít temným [Am]údolím, jdu s [G]důvěrou,
+vím, že zase [F]postavíš mě [Am]pevně na své [G]skále.
+{end_of_verse}
+
+{start_of_chorus}
+R: Každý [C]den novou [F]milost
+z Tvých [Am]dlaní smím si [G]brát.
+Jako [C]strom ve Tvém [F]chrámu
+v pevných [Am]zdech Tvé věrné [G]lásky úkryt [F]mám.[G]
+{end_of_chorus}

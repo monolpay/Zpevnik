@@ -1,0 +1,32 @@
+{title: Moje malé světélko}
+{artist: ?}
+
+{start_of_verse}
+1. [C]Moje malé světélko, chci, aby svítilo,
+[F]moje malé světélko, chci, aby svíti[C]lo,
+svítilo, sví[G]ti[C]lo.
+{end_of_verse}
+
+{start_of_verse}
+2. [C]Nikdo mi ho nezhasne, chci, aby svítilo,
+[F]nikdo mi ho nezhasne, chci, aby svíti[C]lo,
+svítilo, sví[G]ti[C]lo.
+{end_of_verse}
+
+{start_of_verse}
+3. [C]I tady na Royalech, chci aby svítilo,  (dříve besídce)
+[F]I tady na Royalech, chci aby svíti[C]lo,
+svítilo, sví[G]ti[C]lo.
+{end_of_verse}
+
+{start_of_verse}
+4. [C]Také u nás v rodině,
+chci aby svítilo, [F]Také u nás v rodin ,
+chci aby svítilo, svíti[C]lo, svít[G]ti[C]lo.
+{end_of_verse}
+
+{start_of_verse}
+5. [C]Mamince a tátovi,chci aby svítilo,
+[F]Mamince a tátovi, chci aby svíti[C]lo,
+svítilo, svít[G]ti[C]lo.
+{end_of_verse}

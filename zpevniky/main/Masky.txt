@@ -1,1 +1,32 @@
-Masky
+{title: Masky}
+{artist: ?}
+
+{start_of_verse}
+1.  Dí[G]vám se a ví[C]dám se,
+jak před[G]stírám, že [C]já nejsem [G]já.[C]
+Zkou[E]mám se, doví[C]dám se,
+že pod[Em]léhám lids[C]kým předsta[G]vám.[C]
+{end_of_verse}
+
+{start_of_verse}
+2.  U[G]tíkám se, že [C]neznám se
+mi [G]Bůh říká a [C]já se hle[G]dám.[C]
+Tou[Em]žím se na[C]jít se
+a sto[Em]jíce, před [C]sebou říci
+[Am]to jsem [C]já.
+{end_of_verse}
+
+{start_of_chorus}
+R:  [Em]Vnímám, že [C]skrývám svou [G]tvář.
+[Em]Dýchám hůř,[C] než sílu [G]mám.
+[Em]Doufám, že [C]můžu se [G]ptát,
+kdy už [Am]můžu přestat [C]lhát.
+{end_of_chorus}
+
+{start_of_verse}
+Sna[G]žím se, sebe [C]více,
+skrze [G]plíce volat [C]víc, nežli [G]dřív.[C]
+Sly[Em]šíce Boha, [C]vím že,
+ve mě [Em]věří i já v [C]něj
+[Am]čím dál [C]víc.
+{end_of_verse}

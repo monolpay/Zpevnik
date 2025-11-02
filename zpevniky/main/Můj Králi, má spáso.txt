@@ -1,0 +1,24 @@
+{title: Můj Králi, má spáso}
+{artist: Karel Řežábek}
+
+{start_of_verse}
+1. [G]Můj Králi, [D]má spáso, [Em]nikdo ne[D]ní jako [C]Ty, 
+na každý [G]den [C]chválit bych [G]chtěl 
+ten [Em]zázrak mocné [F]lás[C]ky [D]Tvé.
+{end_of_verse}
+
+{start_of_verse}
+2. [G]Můj štíte, [D]má skálo, [Em]u Tebe [D]můžu se [C]skrýt, 
+ať každý [G]dech, [C]všechno, co [G]jsem, 
+[Em]nepřestane [F]chvá[C]lou [D]být. 
+{end_of_verse}
+
+{start_of_chorus}
+R: [G]Hlahol zem [Em]Pánu, se [C]vším,  co je v [D]ní. 
+[G]Králi buď [G]důstojnost, [C]úcta i [D]dík!
+[Em]Hroutí se skály a [C]příboj hřmí,
+to když [D]Tvé [Em]jméno [D]zní.
+[G]O díle [Em]Tvém, Pane, [C]zpívám tak [D]rád, 
+chci [G]vyznat Ti [Em]lásku, chci v [C]ní pevně [D]stát,
+[Em]to, cos mi slíbil, je [C]víc, než kdo [D]může [G]dát.
+{end_of_chorus}

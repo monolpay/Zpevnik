@@ -1,0 +1,17 @@
+{title: Můj Bůh je můj štít}
+{artist: Frank Gallio}
+
+{start_of_verse}
+1. Můj [D]Bůh je můj [C]štít, je mou [G]písní,
+já [D]vím, On mi odpo[C]ví a mocí svého [G]jména vysvobo[D]dí.
+{end_of_verse}
+
+{start_of_chorus}
+R: Chci [C]žít ve [G]stínu křídel [D]Tvých,
+spě[C]chám do [G]stínu křídel [D]Tvých,
+smím [C]žít ve [G]stínu křídel [D]Tvých.
+Teď smím jít v pokoji [C]dál,
+vím, že jsi mi [G]blízko, halelu[D]ja.
+{end_of_chorus}
+
+

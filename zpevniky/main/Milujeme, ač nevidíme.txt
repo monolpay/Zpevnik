@@ -1,0 +1,25 @@
+{title: Milujeme, ač nevidíme}
+{artist: Jiřina Gina Čunková (Markovová)}
+
+{start_of_verse}
+1.  Miluje[C]me, ač nevidí[G]me,
+věříme v [C]Něj a jásá[G]me
+nevýslov[C]nou radostí plnou [G]slávy,
+v něm [F]docházíme [C]cíle víry [G]své.
+{end_of_verse}
+
+{start_of_verse}
+1.  Zlatem a [C]stříbrem on nezapla[G]til,
+pomíji[C]vým nás nekou[G]pil,
+povolal [C]nás do [D]světla [Em7]svého,
+skrze Něj [F]máme přístup [C]do bran nebes[D]kých.
+{end_of_verse}
+
+{start_of_chorus}
+R: Jsme koupeni [C]krví Berán[G]ka
+na místě, [C]zvaném Golgo[G]ta,
+otroky [C]hříchu nemu[Am]síme déle [D]být.
+Na kříži svůj [C]život doko[G]nal,
+třetího [C]dne však z mrtvých [G]vstal,
+otroky [C]hříchu nemu[Am]síme déle [D]být.[G]
+{end_of_chorus}
