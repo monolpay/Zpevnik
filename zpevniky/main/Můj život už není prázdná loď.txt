@@ -1,0 +1,37 @@
+{title: Můj život už není prázdná loď}
+{artist: }
+
+{start_of_chorus}
+R: Můj [D]život už [G]není prázdná [D]loď,
+můj život už není prázdná [A7]loď.
+Ó [D]Pán dnes ke mně nastou[A7]pil,
+můj [D]život už [G]není prázdná [D]loď.
+{end_of_chorus}
+
+{start_of_verse}
+1. Ó [D]nedivte se bratři, že velkou radost [A7]mám,
+můj [D]život už [G]není prázdná [D]loď.
+Je se mnou Pán, tak je mi [A7]fajn,
+můj [D]život už [G]není prázdná [A7]loď.
+Ó [D]Pán dnes ke mně nastou[A7]pil,
+můj [D]život už [G]není prázdná [D]loď.
+{end_of_verse}
+
+{start_of_verse}
+2. Mám [D]kolem sebe věcí, že přes ně nevi[A7]dím,
+můj [D]život už [G]není prázdná [D]loď.
+Teď do vody je na[A7]házím,
+můj [D]život už [G]není prázdná [A7]loď.
+Ó [D]Pán dnes ke mně nastou[A7]pil,
+můj [D]život už [G]není prázdná [D]loď.
+
+{end_of_verse}
+
+{start_of_verse}
+3. On [D]řek mějte se rádi, já amen pravím [A7]vám,
+můj [D]život už [G]není prázdná [D]loď.
+Když lidi v davu potká[A7]vám,
+můj [D]život už [G]není prázdná [A7]loď.
+Ó [D]Pán dnes ke mně nastou[A7]pil,
+můj [D]život už [G]není prázdná [D]loď.
+{end_of_verse}

@@ -1,0 +1,30 @@
+{title: Můj zachránce}
+{artist: Casting Crowns}
+
+{start_of_verse}
+1. [Em]Šel sám vy[G]čerpán na zádech [D]kříž
+to pro můj [Am]hřích zničený [Em]byl.
+Zachránil [G]nás tam na Golgo[D]tě
+od smrti [Am]věčné - tebe i [C]mne.
+{end_of_verse}
+
+{start_of_chorus}
+R: [C]Jak je mi vzácný, Zachránce [D]můj
+vidím, jak [Em]úpěl, když platil můj [C]hřích.
+Trpěl, kr[G]vácel, je mým ob[D]hájcem
+pro Jeho [Em]rány já věčně smím [C]žít.
+{end_of_chorus}
+
+{start_of_verse}
+2. [Em]Krev z rány [G]stéká, Ježíš je [D]můj Pán
+už sílu [Am]ztrácí, k Otci volá:[Em]
+"Neví, co [G]činí! Dej odpuš[D]tění,"
+to jenom [Am]Ježíš mě tak milo[C]val.
+{end_of_verse}
+
+{start_of_verse}
+3. [Em]Jak já ho [G]mám rád, přítel a [D]Pán,
+to budu [A]žít, chválit Ho [Em]chci.
+K zástupu [G]svědků zachráně[D]ných
+potom se [Am]přidám na nebe[C]sích.
+{end_of_verse}
