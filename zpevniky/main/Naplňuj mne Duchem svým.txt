@@ -1,0 +1,18 @@
+{title: Naplňuj mne Duchem svým}
+{artist: }
+
+{start_of_verse}
+1. [C]Naplňuj [Em]mne Duchem [Am]svým,
+[Dm]naplňuj mne Duchem [G]svým,
+[G7]nechci být [C]prázd[E]ný [Am]džbán,
+plň mě Ty, [F]Pane [G]sám.
+{end_of_verse}
+
+{start_of_verse}
+2. [Am]Naplňuj mne Duchem [Em]svým,
+[F]naplňuj mne Duchem [C]svým,
+[Am]prosím Tě, naplň mne, [Dm]ať Duchem [G]přeté[C]kám.
+{end_of_verse}
+
+
+

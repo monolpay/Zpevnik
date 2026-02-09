@@ -1,0 +1,18 @@
+{title: My jsme zde ve jménu Krále Králů}
+{artist: Dalibor Balaka}
+
+{start_of_verse}
+1. My jsme zde ve jménu Krále králů,
+my jsme zde ve jménu Ježíše,
+my jsme zde ve jménu Syna Božího,
+my jsme zde ve jménu Tvém.
+{end_of_verse}
+
+{start_of_chorus}
+R: Ať každá bytost na nebi,
+ať každá bytost na zemi,
+ať každá bytost  podzemí to ví,
+že jsme Tví.
+{end_of_chorus}
+
+

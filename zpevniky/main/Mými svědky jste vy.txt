@@ -1,0 +1,30 @@
+{title: Mými svědky jste vy}
+{artist: }
+
+{start_of_verse}
+1.[D]Protože jsi v očích mých tak [Hm]drahý,
+[D]protože jsi v očích mých tak [F#m]vzácný,
+[Hm]protože jsem si tě zami[G]loval,
+[D]tvým jménem jsem tě povolal.[A]
+{end_of_verse}
+
+{start_of_verse}
+2. [Hm]Vyveď ten lid slepý, ačko[G]li má oči,
+[D]vyveď ten lid hluchý, ačko[A]li má uši,
+[Hm]ať se shromáždí všechny [G]pronárody.
+[D]Neboj se. Já budu [A]s tebou.
+{end_of_verse}
+
+{start_of_chorus}
+R: [G]Mými svědky jste [D]vy
+a můj [A]služebník, jehož jsem si [Hm]vyvolil.
+Tak mě [G]poznáte a uvěříte [D]mi,
+že mými svědky jste [A]vy.
+{end_of_chorus}
+
+{start_of_bridge}
+B:  [A]Toto praví Hospo[G]din:
+"Já [D]jsem, [G]já [D]jsem živý, [Hm]já [F#m]jsem. [G]
+Dříve než byl svět.
+Já [D]jsem, [G]já [D]jsem živý, [Hm]já [F#m]jsem." [G]
+{end_of_bridge}
