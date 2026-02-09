@@ -1,0 +1,19 @@
+{title: Nyní pokloňme se před Králem}
+{artist: Dave Doherty}
+
+{start_of_verse}
+1. [D]Nyní pokloň[G]me se před Krá[D]lem,
+klekně[G]me před na[Em]ším Stvoři[A]telem. 2x
+{end_of_verse}
+
+{start_of_verse}
+2. Vždyť [G]On je [D]náš [Em]Bůh
+a [G]my jsme [D]ovce pastvin [A]Jeho,
+stá[G]dem, jež [A]On sám vo[D]dí,
+[Hm]rukou [G]svou Bůh [A]nás vo[D]dí.
+{end_of_verse}
+
+
+
+
+

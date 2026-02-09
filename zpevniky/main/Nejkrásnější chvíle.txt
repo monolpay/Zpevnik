@@ -1,0 +1,29 @@
+{title: Nejkrásnější chvíle}
+{artist: Pavel Tošovský}
+
+{start_of_verse}
+
+1. Nejkrás[C]nější chvíle vždycky [G]jsou [G7]na kole[C]nou [F][C]
+nejkrásnější chvíle vždycky [G7]jsou na kolenou. [C][C7] 
+{end_of_verse}
+
+{start_of_chorus}
+R: V modlit[F]bách když budeš stát,
+Duch [C]svatý [E]začne [Am]vát.
+Nejkrásnější [C]chvíle vždycky [G]jsou [G7]na kole[C]nou.[F][C]  
+{end_of_chorus}
+
+{start_of_verse}
+2. Sílu [C]odpustit svůj hřích jsem [G]dostal [G7]na kole[C]nou.[F][C]
+Sílu odpustit svůj hřích jsem [G7]dostal na kolenou.[C][C7]
+{end_of_verse}
+
+{start_of_verse}
+3. Sílu [C]začít nově žít jsem [G]dostal [G7]na kole[C]nou.[F][C]
+Sílu začít nově žít jsem [G7]dostal na kolenou.[C][C7]
+{end_of_verse}
+
+{start_of_verse}
+4. Duchem [C]svým mne Ježíš napl[G]nil [G7]na kole[C]nou.[F][C]
+Duchem svým mne Ježíš napl[G7]nil na kolenou.[C][C7]
+{end_of_verse}

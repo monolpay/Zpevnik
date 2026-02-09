@@ -1,0 +1,26 @@
+{title: Právě teď je chválit Pána čas}
+{artist: Bruce Daniel Borneman, Judi Lynne Borneman}
+
+{start_of_verse}
+1. [D]Právě teď je [G]chválit Pána [D]čas,
+být svatyní [G]Jeho svatého [A]Ducha.
+Svou dů[G]věru slož u [D]Něj
+a [G]chválu Bohu [D]vzdej,
+sláva [G]Páně toto [Em]místo [A]naplní.
+{end_of_verse}
+
+{start_of_chorus}
+R: Pána [D]chval, [G]Pána [A]chval! 3x
+Tak Pána svého [D]chval.
+{end_of_chorus}
+
+{start_of_verse}
+2. [D]On přebývá ve [G]chválách svého [D]lidu,
+má rád, když jeho [G]Jméno vzývá[A]me.
+Svou dů[G]věru slož u [D]Něj
+a [G]začni chválit [D]Jej,
+sláva [G]Páně toto [Em]místo [A]naplní.
+{end_of_verse}
+
+
+

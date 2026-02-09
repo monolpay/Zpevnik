@@ -1,0 +1,37 @@
+{title: Není vždu slunce na obloze}
+{artist: Marie Wiesnerová}
+
+{start_of_verse}
+1. [Em]Není vždy slunce na ob[Am]loze,
+[D]nejsou vždy květy rozkvet[G]lé,
+[C]není vždy pokoj, láska v [Am]domě,
+[H7]ne vždy Tě vidím, cítím, [em]Pane.
+{end_of_verse}
+
+{start_of_verse}
+2. [Em]Nemám vždy lásku k lidem, [Am]Bože,
+[D]neotvírám jim vždy své [G]dlaně,
+[C]nedávám Ti vždy srdce [Am]svoje,
+[H7]nedobojoval jsem vždy [Em]boje.
+{end_of_verse}
+
+{start_of_chorus}
+R: [Em]Ale vždy vím, že Ty jsi [Am]se mnou,
+já [D]vím, jak moc mě [G]máš rád,
+to [C]vím, jsi stále [Am]tentýž
+[H7]včera, zítra, [Em]dnes. 
+{end_of_chorus}
+
+{start_of_chorus}
+R2. [Em]Ale vždyť vím, že měníš [Am]srdce,
+já [D]vím, jsi mojí [G]silou,
+to [D]vím, jdu k Tobě [AM]Otče,
+[H7]Tobě patřit [Em]smím.
+{end_of_chorus}
+
+{start_of_bridge}
+B: [Em]Dnes už to vím, Ty jsi ten [Am]vítěz,
+já [D]vím, Golgotský [G]vítěz,
+to [C]vím, jsi Ježíš [Am]Kristus,
+[H7]Tobě nále[Em]žím.
+{end_of_bridge}

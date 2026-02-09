@@ -1,0 +1,34 @@
+{title: Někdo mě vede za ruku}
+{artist: Luděk Rejchrt}
+
+{start_of_verse}
+1. Něk[D]do mě vede [D7]za ruku,
+když [G]bojím se jít tmou.[A7]
+To [D]je ten, [A]který [D]o mně [Hm]ví,
+kte[D]rý je [D7]na mě [Em]laska[A]vý,
+je [D]stále[Hm] [G]na[A7]de [D]mnou.
+{end_of_verse}
+
+{start_of_verse}
+2. Něk[D]do mi dává [D7]denní chléb,
+že [G]nemusím mít hlad.[A7]
+To [D]je ten, [A]který [D]o mně [Hm]ví,
+kte[D]rý je [D7]na mě [Em]laskavý[A]
+a [D]chce [Hm]mi [G]po[A7]má[D]hat.
+{end_of_verse}
+
+{start_of_verse}
+3. Něk[D]do mi dává [D7]sílu též,
+když [G]už jsem una[D]ven.[A7]
+To [D]je ten, [A]který [D]o mně [Hm]ví,
+kte[D]rý je [D7]na mě [Em]laskavý[A]
+ať [D]je [Hm]noc [G]ne[A7]bo [D]den.
+{end_of_verse}
+
+{start_of_verse}
+4. Něk[D]do mě vede [D7]za ruku,
+pro[G]to se nechci [D]bát.[D7]
+To [D]je ten, [A]který [D]o mně [Hm]ví,
+kte[D]rý je [D7]na mě [Em]laskavý[A]
+kte[D]rý [Hm]mě [G]má [A7]tak [D]rád.
+{end_of_verse}
