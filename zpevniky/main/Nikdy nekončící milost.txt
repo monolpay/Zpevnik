@@ -1,0 +1,30 @@
+{title: Nikdy nekončící milost}
+{artist: Honza Kubiš}
+
+{start_of_verse}
+1. Nikdy [G]nekončící milost brány [D]srdcí otvírá,
+nikdy [Am7]nekončící milost odpouš[C]tí a přijímá,
+nikdy [G]nekončící milost nezná [D]strach a zklamání
+před ní [Am7]padá každá touha po [C]vlastním uznání.
+{end_of_verse}
+
+{start_of_chorus}
+R1: Dokud [G]dýchám, usly[D]šíš můj hlas.
+Dokud [Am7]dýchám, [C]nechci ztrácet drahý čas.
+Dokud [G]dýchám, [D]rád se dívám na ten cíl.
+Dokud [Am7]dýchám, že i [C]ve mně Ježíš zvítě[G]zil.
+{end_of_chorus}
+
+{start_of_verse}
+2. Nikdy [G]nekončící milost umí [D]vzít a umí dát,
+nikdy [Am7]nekončící milost mě [C]učí pevně stát,
+nikdy [G]nekončící milost srdci [D]rytmus udává,
+žiju pro ni a ona ve mně [C]svůj domov má.
+{end_of_verse}
+
+{start_of_chorus}
+R2: Dokud [G]dýchám, usly[D]šíš můj hlas.
+Dokud [Am7]dýchám, [C]nechci ztrácet drahý čas.
+Dokud [G]dýchám, [D]rád se dívám na ten cíl.
+Dokud [Am7]dýchám, žes i [C]ve mně Pane zvítěz[G]il.
+{end_of_chorus}

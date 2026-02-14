@@ -1,0 +1,29 @@
+{title: Oceán}
+{artist: Connect Worship Brno}
+
+{start_of_verse}
+1. Když už svět [B]neměl co dát a [Dm]já to chtěl vzdát,
+Tys [F]přišel jak Král, do [C]rukou mě vzal.
+Tvá [B]milost je víc, než [F]dokážu říct,
+až [Dm]na kolenou rozum[C]ím.
+{end_of_verse}
+
+{start_of_bridge}
+B: Tak svým [B]živo[D]tem napl[F]ním Tvůj [C]sen,
+toužím [B]říci [Dm]všem, že jsi tu [F]každý [C]den.
+{end_of_bridge}
+
+{start_of_chorus}
+R: [B]Tvoje lás[F]ka, ona uzdra[Dm]ví a vysvobo[C]dí,
+[B]Tvoje nár[F]uč je to, kde chci [Dm]být a neode[C]jít.
+[B]Budu zpí[F]vat a chválit tě [Dm]dál za všechno, cos [C]dal.
+Proč bych se [B]bál, vždyť se mnou je [F]Král,
+tak [Dm]nekonečný [C]Pán, můj oce[B]án.[F][Dm][C]
+{end_of_chorus}
+
+{start_of_verse}
+2. Do [B]života dal jsi [Dm]radost a vzal jsi
+[F]minulost mou, už [C]nebloudím tmou.
+Tvá [B]milost je víc, než [F]dokážu říct,
+až [Dm]na kolenou rozum[C]ím.
+{end_of_verse}
