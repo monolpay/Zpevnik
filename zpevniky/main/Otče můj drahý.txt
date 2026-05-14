@@ -1,0 +1,20 @@
+{title: Otče můj drahý}
+{artist: Jiřina Čunková}
+
+{start_of_verse}
+1. /: [A]Otče můj [E]drahý, svaté [F#m]je jméno [D]Tvé,
+kéž je [A]zjevná Tvoje [E]sláva na ze[F#m]mi, :/
+[D]můj nejvyš[A]ší.
+{end_of_verse}
+
+{start_of_chorus}
+R: /: Buď vůle [A]Tvá na ne[E]bi, buď vůle [F#m]Tvá na ze[D]mi,
+buď vůle [A]Tvá v životě [E]mém Ježí[F#m]ši, :/
+[D]můj nejvyš[A]ší.
+{end_of_chorus}
+
+{start_of_verse}
+2. /: [A]Ježíš, ó [E]Ježíš, v jeho [F#m]jménu je [D]moc,
+kéž je [A]zjevná jeho [E]sláva na ze[F#m]mi, :/
+[D]můj nejvyš[A]ší.
+{end_of_verse}

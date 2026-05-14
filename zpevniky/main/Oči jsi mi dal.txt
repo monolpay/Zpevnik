@@ -1,0 +1,44 @@
+{title: Oči jsi mi dal}
+{artist: Zdeněk coufal}
+
+{start_of_verse}
+[C]Oči jsi mi [Gm]dal,
+[Dm]vidět neu[G]mím;
+[C]slepých léka[Gm]ři,
+[Dm]smiluj [F]se nade [C]mnou.
+{end_of_verse}
+
+{start_of_verse}
+[C]Uši jsi mi [Gm]dal,
+[Dm]slyšet neu[G]mím;
+[C]hluchých léka[Gm]ři,
+[Dm]smiluj [F]se nade [C]mnou.
+{end_of_verse}
+
+{start_of_verse}
+[C]Ruce jsi mi [Gm]dal,
+[Dm]sloužit neu[G]mím;
+[C]chromých léka[Gm]ři,
+[Dm]smiluj [F]se nade [C]mnou.
+{end_of_verse}
+
+{start_of_verse}
+[C]Ústa jsi mi [Gm]dal,
+[Dm]chválit neu[G]mím;
+[C]němých léka[Gm]ři,
+[Dm]smiluj [F]se nade [C]mnou.
+{end_of_verse}
+
+{start_of_verse}
+[C]Život jsi mi [Gm]dal,
+[Dm]věřit neu[G]mím;
+[C]vládce nad smr[Gm]tí,
+[Dm]smiluj [F]se nade [C]mnou.
+{end_of_verse}
+
+{start_of_verse}
+[C]Bližní jsi mi [Gm]dal,
+[Dm]mít rád neu[G]mím;
+[C]tvůrce zázra[Gm]ků,
+[Dm]smiluj [F]se nade [C]mnou.
+{end_of_verse}
