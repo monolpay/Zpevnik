@@ -1,0 +1,35 @@
+{title: Otče náš nebeský}
+{artist: Karel Řežábek}
+
+{start_of_chorus}
+R: [Em]Otče náš [C]nebeský, [D]posvěť se jméno [Em]Tvé,
+[Em]přijď Tvoje [C]království, [D]buď vůle [Em]Tvá.
+{end_of_chorus}
+
+{start_of_verse}
+1. [D]Tam, kde tvůj lid se [Em]probouzí,
+[D]tam, kde roste tvůj [Em]chrám,
+[C]v srdcích všech dětí [D]Tvých
+ať [Em]vítězí [D]vůle [Em]Tv[D]á, ať [C]vítězí [D]vůle [Em]Tvá!
+{end_of_verse}
+
+{start_of_verse}
+2. [D]Někdy mne zkoušky tak [Em]svírají,
+[D]padám a prohrá[Em]vám,
+[C]řekni, jak vůle Tvá [D]zní?
+[Em]Bojuj až [D]do vítězst[Em]ví,[D] [C]bojuj až [D]do vítězst[Em]ví!
+{end_of_verse}
+
+{start_of_verse}
+3. [D]Pane, můj bratr mne [Em]nemá rád,
+[D]za zády mne pomlou[Em]vá,
+[C]toužím teď vůli Tvou [D]znát.
+[Em]Odpusť mu [D]tak jako [Em]j[D]á, [C]odpusť mu [D]tak jako [Em]já!
+{end_of_verse}
+
+{start_of_verse}
+4. [D]Tam, kde Duch Svatý [Em]přichází,
+[D]dary své rozdá[Em]vá,
+[C]jaká je teď vůle [D]Tvá?
+Co [Em]dal jsem ti, [D]předávej [Em]d[D]ál, co [C]dal jsem ti, [D]předávej [Em]dál.
+{end_of_verse}
