@@ -1,0 +1,29 @@
+{title: Pojď, teď je ten čas}
+{artist: Brian Doerksen}
+
+{start_of_chorus}
+R: [D]Pojď, teď je ten čas Jej [D4]chvál[D]it,
+[A]pojď, své srdce můžeš [Em]Králi [G]dát.
+[D]Pojď, teď je ten čas jej [D4]chvál[D]it,
+[A]pojď, před Králem svým teď [Em]můžeš [G]stát.
+Tak [D]pojď.
+{end_of_chorus}
+
+{start_of_verse}
+1. [G]Jednou každý jazyk vyz[D]ná, že jsi Pán,
+[G]každý jednou se poklo[D]ní,
+[G]slavný poklad navěky [Hm]zůstává těm,
+[Em]kdo Tě miluj[A]í.
+{end_of_verse}
+
+{start_of_verse}
+2. [G]Tobě dávám život svůj, [D]vím, že jsi Pán,
+[G]před Tebou se pokloním [D]rád,
+[G]srdcem, duší i [Hm]sílou svou, vším 
+[Em]chci Tě milov[A]at.
+{end_of_verse}
+
+
+
+
+
