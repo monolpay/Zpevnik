@@ -1,0 +1,17 @@
+{title: Pane můj, Tys ́můj spasitel}
+{artist: Luboš Hotový}
+
+{start_of_verse}
+1. [Em]Pane [D]můj, [Em]Tys můj [D]Spasitel
+[Em]přítel [D]můj, [C]Pán [D]a [Em]Bůh.
+{end_of_verse}
+
+{start_of_chorus}
+R: [Em]Svatá a [C]mocná Tvá [G]krev,[D]
+[Em]svatá [C]omývá každý náš [D]hřích.
+{end_of_chorus}
+
+{start_of_verse}
+2. [Em]Tvá [D]krev [Em]i mě [D]omývá,
+[Em]Tvá [D]krev [C]pro[D]li[Em]tá.
+{end_of_verse}

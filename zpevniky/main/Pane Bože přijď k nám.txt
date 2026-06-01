@@ -1,0 +1,19 @@
+{title: Pane Bože přijď k nám}
+{artist: Michaela Romanská}
+
+{start_of_verse}
+1. [E]Pane, [Am2]Bože, přijď k [E]nám ve své moci a [Am2]slávě
+přebývej mezi [A]námi, navštiv lid [E]svůj.
+[E]Přijď [Am2]Ježíši k [E]nám, Ty jsi hlava své [Am2]církve,
+jsi našim [A]Králem, Ty jsi úhelný [E]kámen.
+{end_of_verse}
+
+{start_of_chorus}
+R: Jsi požehna[C#m]ný Bůh, pevná [Am]skála,
+požehna[C#m]ný na vě[Am]ky,
+požehna[C#m]né je Tvoje [Am]jméno,
+požehna[G#m]ný Syn Otce [Am]svého.
+[E]Pane [Am2]Bože, přijď k [E]nám.
+{end_of_chorus}
+
+

@@ -1,0 +1,28 @@
+{title: Pane, všechno, co by sis přál}
+{artist: Karel Řežábek}
+
+{start_of_verse}
+1. Pane, [D]všechno, co by sis [A]přál, chci ti [G]dát,
+a [D]tam, kde mě chceš [A]mít, chci být i [G]já.
+{end_of_verse}
+
+
+{start_of_chorus}
+R: /: [Em]Otče můj, jenž jsi v [G]nebesích, buď vůle [A]tvá. :/
+{end_of_chorus}
+
+{start_of_verse}
+2. [D]Hlínou hrnčířs[A]kou jsem v ruce [G]Tvé.
+Prosím, [D]změň v podobu [A]svou nitro [G]mé.
+{end_of_verse}
+
+{start_of_bridge}
+B. Po tom [G]toužím, ať srdce [D]Tvé pocho[A]pím,
+ať tvou [G]vůli životem [D]svým napln[A]ím.
+{end_of_bridge}
+
+
+
+
+
+
