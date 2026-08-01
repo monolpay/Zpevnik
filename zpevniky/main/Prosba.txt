@@ -1,0 +1,42 @@
+{title: Prosba  }
+{artist: ?}
+
+{start_of_chorus}
+R: [D]Dej mi, Pane, víru, [G]lásku, [D]sílu,
+dej mi, Pane, naději a [A]pokoru.
+{end_of_chorus}
+
+{start_of_verse}
+1. [D]Takovou víru, [G]která pohne [D]skálou,
+takovou víru, kte[G]rá po vodě [A]jde,
+takovou [D]víru, [G]pevnou a [D]stálou,
+[E]dej mi, Pane, [E7]víru v jméno [A]Tvé. [A7]
+{end_of_verse}
+
+{start_of_verse}
+2. [D]Tu lásku, která [G]život v oběť [D]dává,
+tu lásku, která [G]všechno odpouš[A]tí,
+tu lásku, [D]jež svou [G]silou překo[D]nává
+[E]třeba i [E7]vedro na pouš[A]ti. [A7]
+{end_of_verse}
+
+{start_of_verse}
+3. [D]Chtěl bych mít sílu [G]bojovat [D]se zlem,
+chtěl bych mít sílu u[G]rážky přijí[A]mat,
+chtěl bych mít [D]sílu [G]vytrvat [D]v dobrém
+[E]a pevně [E7]ve své víře [A]stát. [A7]
+{end_of_verse}
+
+{start_of_verse}
+4. [D]Naději, která [G]nikdy neu[D]mírá,
+naději ve tvé [G]milosrdenst[A]ví,
+naději, [D]která [G]pochybnosti [D]stírá,
+[E]naději [E7]v pravdy vítěz[A]ství. [A7]
+{end_of_verse}
+
+{start_of_verse}
+5. [D]Pokoru, která [G]mlčky křivdu [D]přijme,
+pokoru, která [G]chyby uzná[A]vá,
+pokoru, [D]která [G]sebe z chvály [D]vyjme,
+[E]která se [E7]nikdy nehá[A]dá. [A7]
+{end_of_verse}

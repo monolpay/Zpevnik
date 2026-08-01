@@ -1,0 +1,16 @@
+{title: Proč bych neměl vesel být}
+{artist: }
+
+{start_of_verse}
+1.  [C]Proč bych neměl vesel být
+[Am]a proč bych nezpíval?
+[F]Proč bych zachmouřenou tvář měl [G]mít?
+{end_of_verse}
+
+{start_of_chorus}
+R:  Jsem vykou[C]pen, jsem vykoupen,
+toť radost [Am]má, haleluja.
+Pán [F]Ježíš - přítel [G]můj.
+Ó, jaká [C]radost - píseň [Am]chval, píseň chval.
+Pryč je [F]všechen smutek [G]- všechen [C]žal.
+{end_of_chorus}

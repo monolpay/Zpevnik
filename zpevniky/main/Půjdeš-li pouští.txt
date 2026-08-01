@@ -1,0 +1,16 @@
+{title: Půjdeš-li pouští}
+{artist: Jaroslav Svoboda}
+
+{start_of_verse}
+{end_of_verse}
+
+{start_of_chorus}
+{end_of_chorus}
+
+Půjdeš-li pouští, tvou stopu neztratím,
+půjdeš-li vodou,nestrhne tě proud,
+půjdeš-li ohněm, plamen tě nespálí,
+svítím ti na cestu, půjdeš-li tmou.
+
+Ať jdeš kamkoli, kamkoli, kamkoli, já jdu s tebou! 
+Ať jsi kdekoli, kdekoli, kdekoli, já jsem s tebou!

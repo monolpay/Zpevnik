@@ -1,0 +1,17 @@
+{title: Požehnání}
+{artist: }
+
+{start_of_verse}
+1.  Ať [G]Bůh [D]Hospo[Em]din ti [Am]žehná [G]a chrání [D]tě
+Ať [G]Bůh [D]Hospo[Em]din roz[Am]jasní [G]nad tebou svou [D]tvář.
+{end_of_verse}
+
+{start_of_chorus}
+R:  Ať je ti milost[C]iv, [D]ať vede kroky [G]tvé, [Em]
+mocnou rukou [C]svou, [D]ať chrání [G]tě. [D]
+{end_of_chorus}
+
+{start_of_verse}
+2.  Ať [G]Bůh [D]Hospo[Em]din ti [Am]žehná [G]a chrání [D]tě
+Ať [G]Bůh [D]Hospo[Em]din ob[Am]daří t[G]ě svým poko[D]jem.
+{end_of_verse}

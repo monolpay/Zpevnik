@@ -1,0 +1,23 @@
+{title: Potřebuju víc}
+{artist: }
+
+{start_of_verse}
+1.  Potřebuju [G]víc, víc než [Am7]včera, mnohem víc.
+Potřebuju [D]víc, víc než [C]slovy dá se [G]říct.
+[D]Potřebuju [Em]víc, [C]víc než kdy [Am]dřív,
+Tebe [D]Pane víc, Tebe Pane [G]víc.
+{end_of_verse}
+
+{start_of_chorus}
+R:  Víc než vzduch k [C]dýchání,
+víc než píseň [D]k zpívá[Em]ní,
+víc než tep [C]srdeční, víc než coko[G]liv.
+Pane, tak [C]jak jde čas, po boku [D]Tvém chci [Em]stát,
+svůj [Am]starý život [G]nazpátek, si [D]nechci brát.
+{end_of_chorus}
+
+{start_of_bridge}
+B:  Ježíši [C]chválu vzdávám,
+nejvyšší [G]chválu vzdávám,
+Tobě svou [C]chválu vzdávám.[D]
+{end_of_bridge}
