@@ -2,15 +2,15 @@
 {artist: Jaroslav Svoboda}
 
 {start_of_verse}
+1. [Dm]Půjdeš-li pouští, [C]tvou stopu neztratím,
+[Dm]půjdeš-li vodou, [C]nestrhne tě proud,
+[Dm]půjdeš-li ohněm, [C]plamen tě nespálí,
+[Am]svítím ti na cestu, [G]půjdeš-li tmou.
 {end_of_verse}
 
 {start_of_chorus}
+R: Ať jsi [Dm]kdekoli, kdekoli, [C]kdekoli, já jsem s [F]tebou![A]
+Ať jdeš [Dm]kamkoli, kamkoli, [C]kamkoli, já jdu s [F]tebou![A]
 {end_of_chorus}
 
-Půjdeš-li pouští, tvou stopu neztratím,
-půjdeš-li vodou,nestrhne tě proud,
-půjdeš-li ohněm, plamen tě nespálí,
-svítím ti na cestu, půjdeš-li tmou.
 
-Ať jdeš kamkoli, kamkoli, kamkoli, já jdu s tebou! 
-Ať jsi kdekoli, kdekoli, kdekoli, já jsem s tebou!
