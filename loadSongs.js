@@ -2,10 +2,8 @@
         const username = 'monolpay';
         const repo = 'Zpevnik';
         var loc = window.location.pathname;
-        var dir = loc.split("/")[2]
-        console.log(loc)
-        console.log(loc.split("/"))
-        console.log(typeof(dir))
+        //3 funguje na githubu a 2 na localhost
+        var dir = loc.split("/")[3]
         const zpevnik = dir
 
         const apiUrl = `https://api.github.com/repos/${username}/${repo}/contents/zpevniky/${zpevnik}`;
