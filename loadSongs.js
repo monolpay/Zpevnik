@@ -8,7 +8,11 @@
 
         const apiUrl = `https://api.github.com/repos/${username}/${repo}/contents/zpevniky/${zpevnik}`;
 
-        fetch(apiUrl)
+        fetch(apiUrl, {
+    headers: {
+        'Accept': 'application/vnd.github.v3+json',
+        'User-Agent': 'Web-Browser-App' // GitHub toto vyžaduje
+    }})
             .then(response => response.json())
             .then(data => {
                 const listElement = document.getElementById('file-list');
