@@ -31,8 +31,10 @@ for entry in songs:
     while title == "":
         if line.startswith("{title:"):
             title = line
+        elif len(file.readlines()) < 1:
+            title = "{title:"+ entry.split(".")[0]+"}"
         else:
-            file.readline()
+            line = file.readline()
     if not os.path.exists(dir + "/obsah"):
         os.mkdir(dir + "/obsah")
     if not os.path.exists(dir + "/obsah/obsah_" + entry):
@@ -57,6 +59,9 @@ for entry in os.listdir(dir+ "/obsah"):
     if songName not in songs:
         os.remove(dir + "/obsah/" + entry)
         continue
+    # if entry.endswith(".unfinished"):
+    #     newEntry = entry.split(".")[0]+".txt"
+    #     os.rename(os.path.join(dir + "/obsah/", entry), os.path.join(dir + "/obsah/", newEntry))
 if len(folders) != 0:
     print("Byly nalezeny složky: ", folders)
     print("Přejete si je smazat? (y/N)")
