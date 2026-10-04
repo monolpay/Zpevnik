@@ -2,7 +2,7 @@
         const username = 'monolpay';
         const repo = 'Zpevnik';
         var loc = window.location.pathname;
-        var dir = loc.substring(0, loc.lastIndexOf('/'));
+        var dir = loc.substring(0, loc.lastIndexOf('/Zpevnik/'));
         const zpevnik = dir
 
         const apiUrl = `https://api.github.com/repos/${username}/${repo}/contents/${zpevnik}`;
