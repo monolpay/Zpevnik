@@ -1,0 +1,43 @@
+{title: Fíkovník}
+{artist: Bob Fliedr}
+
+{start_of_verse}
+1.  Celej [C]rok jsem u motyky [G7]vohnutej jak [C]paragraf,
+abych sklidil dobrý fíky, [F]dobrý fíky, [Am]žádnej blaf.
+[F]Voko[C]pávám [G]pravidelně [C]fíkovník,
+[F]voče[C]kávám, [D7]až uzraje [G7]první fík,
+[F]vočekávám, [C]až uzraje [G7]první [C]fík![Em]
+
+[Am]A měsíce jdou a [Dm]jdou, [Am]co je s tou mou úro[Dm]dou?  
+[Am]Sousedi už [Dm]sklidi[Am]li, [D7]a mě fíky [G7]zradily...
+[F]Tolik [C]práce, [G7]tolik času, [C]žádnej fík,
+[F]vytrh[C]nout mám [D7]neúrodnej [G7]fíkovník?
+[F]Počkám ještě, [C]snad se vzchopí, [G7]nač ten [C]křik?
+{end_of_verse}
+
+{start_of_verse}
+2.  Druhej rok jsem u motyky...
+{end_of_verse}
+
+{start_of_verse}
+3.  Třetí rok jsem u motyky...
+{end_of_verse}
+
+{comment: Recitativ}
+- Hej vinaři, pojď sem!
+- Ano, pane.
+- Co to vidím na mé vinici za podivný fíkovník? Rodí vůbec, vinaři?
+- Nerodí, pane. Už po tři léta ani fík.
+- A k čemu ho tu, chlape jeden, pořád ještě držíš?
+- Ten fíkovník má, Pane, lidské jméno...
+- Vytrhni ho, vinaři, vždyť jen kazí zem!
+- Dej mu, Pane, ještě šanci, okopám a pohnojím ho
+a když ani pak ovoce nevydá, dám ho klidně porazit...
+- No dobrá, tedy počkáme na příští rok...
+
+{start_of_verse}
+4.  Čtvrtej rok jsem u motyky...
+{end_of_verse}
+
+
+
