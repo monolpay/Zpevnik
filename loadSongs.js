@@ -5,7 +5,7 @@
         var dir = loc.split("/")
         const zpevnik = dir[dir.length()-1]
 
-        const apiUrl = `https://api.github.com/repos/${username}/${repo}/contents/${zpevnik}`;
+        const apiUrl = `https://api.github.com/repos/${username}/${repo}/contents/zpevniky/${zpevnik}`;
 
         fetch(apiUrl)
             .then(response => response.json())
