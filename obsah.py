@@ -24,6 +24,8 @@ for entry in os.listdir(dir):
         songs.append(entry)
 i = 1
 for entry in songs:
+    if entry == "list.html":
+        continue
     title = ""
     if os.path.isfile(dir + "/" + entry):
         file = open(dir + "/" + entry, "rt", encoding="utf-8")
