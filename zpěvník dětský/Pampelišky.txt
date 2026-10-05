@@ -1,0 +1,17 @@
+{title: Pampelišky}
+{artist: ?}
+
+{start_of_verse}
+1. [D]Pam, pam, pampelišky [A]v žlutém kloboučku,
+prý si posedaly [D]ráno na loučku.
+Nakláněly [A]zlaté hlavinky, 
+jsou to malé děti, [A7]velké mamin[D]ky.
+{end_of_verse}
+
+{start_of_verse}
+2. Cink, cink, cinkylinky [A]modré zvonky zas,
+k písni konvalinky [D]přidaly svůj hlas.
+Chceme s nimi s nimi zpívat [A]v jitru zářivém:
+Pán Bůh stvořil lidi, [A7]nebesa i [D]zem.
+{end_of_verse}
+
