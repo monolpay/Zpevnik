@@ -1,0 +1,37 @@
+{title: V zeleném háječku}
+{artist: ?}
+
+{start_of_verse}
+V zeleném háječku seděla kukačka,
+z vysokého smrčku volala na špačka:
+Kuku kuku kukukurukuku kuku
+kuku kuku kukukurukuku
+{end_of_verse}
+
+{start_of_verse}
+Po cestě kráčel šedivý osel,
+žvíkaje bodlák, takto k sobě děl:
+Íá íá íáíáiá íá
+íá íá íáíá íá
+{end_of_verse}
+
+{start_of_verse}
+Po cestě kráčel dlouhonohý čáp,
+do každé louže jedou nohou šláp.
+Klapklap klapklap klapklapklapklapklapklap klapklap
+klapklap klapklap klapklapklapklapklapklap 
+{end_of_verse}
+
+{start_of_verse}
+Na kraji rybníčka seděla rosnička
+a jak stoupal tlak, tak kvákala jen tak
+Kvakvak kvakvak kvakvakvakvakvakvak kvakvak
+kvakvak kvakvak kvakvakvakvakvakvak 
+{end_of_verse}
+
+{start_of_verse}
+Náš Pán Bůh stvořil celou naši zem.
+My za zvířátka pěkně děkujem.
+Amen amen amenamenamen amen
+Amen amen amenamenamen
+{end_of_verse}

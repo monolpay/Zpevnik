@@ -1,0 +1,20 @@
+{title: Budu jako strom}
+{artist: Braňo Letko}
+
+{start_of_chorus}
+R: Budu jako [G]strom, (budu [A7]jako strom)[D]
+stojící u vo[G]dy (u vody [A7]u vody)[D]
+a mojí opo[G]rou (a mojí [A7]oporou)[D]
+je mi živý [G]Pán (živý Pán). [A7]
+{end_of_chorus}
+
+{start_of_verse}
+1. [F#m]A když přijde [Hm]kříž, já [Em]neu[A7]teču [D]pryč.
+[F#m]A když přijde [Hm]kříž, já [Em]neuteču [A7]pryč. Aleee
+{end_of_verse}
+
+{start_of_verse}
+2. [F#m]A po čase [Hm]sucha, já [Em]vím, že[A7] přijde[D]déšť.
+[F#m]A po čase [Hm]sucha, já [Em]vím, že přijde [A7]déšť. Protooo
+{end_of_verse}
+

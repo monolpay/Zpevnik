@@ -1,0 +1,20 @@
+{title: Tvoje láska je}
+{artist: Petr Brůžek}
+
+{start_of_verse}
+1. [A]Pane [Hm]můj, [G]díky Tobě dýchám
+[A]Pro Te[Hm]be tu [G]jsem
+[A]Já [Hm]vím,[G]láskou jsi mě získal
+[A]Teď Ti [Hm]blízko [G]jsem.
+
+[Em]Smutek je [F#m]pryč, [G]štěstím mě stále plníš
+[Em]Učíš [F#m]láskou [G]žít
+{end_of_verse}
+
+{start_of_chorus}
+R: Tvoje [D]láska [Em]je [G]silnější než [A]vítr.
+[D]Vyšší [Em]je [G]nad nejvyšší [A]štít.
+[D]Hlubší [Em]je [G]než dno oce[A]ánů.
+[E]Změnila můj [G]svět.
+{end_of_chorus}
+
