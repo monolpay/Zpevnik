@@ -1,0 +1,11 @@
+{title: Let it rain}
+{artist: Michael W. Smith}
+
+{start_of_verse}
+Let it [Am]rain
+Let it [F]rain
+[C]Open the flood gates of [G/B]heaven
+Let it [Am]rain
+Let it ra[F]in
+[C]Open the flood gates of [G/B]heaven.
+{end_of_verse}
