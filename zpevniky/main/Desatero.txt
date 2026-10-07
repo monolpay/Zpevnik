@@ -1,0 +1,47 @@
+{title: Desatero}
+{artist: Radomír Škaloud}
+
+{start_of_chorus}
+R: [C]Jsem Tvůj Bůh, 
+tak se [G]celým srdcem přimkni ke [F]mně,
+pozorně naslouchej slovům [G]mým
+[C]Jsem Tvůj Bůh,
+já jsem [G]Tě vyvedl z Egyptské [F]země,
+já Tě vykupuju ze Tvých [G]vin.
+Jsem Hospo[C]din.
+{end_of_chorus}
+
+{start_of_verse}
+1. [C]Nebudeš mít jiného [G]Boha mimo mne
+a [F]ničím si mě [G]nezobrazíš.
+[C]Nikomu jinému se nebudeš klanět,
+[F]žárlivě Tě miluji - tak teď to víš!
+{end_of_verse}
+
+{start_of_verse}
+2. [C]Jméno Hospodina, [G]jméno Tvého Boha,
+a [F]bázeň, kterou budí, [G]nezneužiješ.
+[C]Šest dní polně pracuj, [G]sedmý si odpočiň
+[F]ať z té práce nakonec[G] nezblbneš.
+{end_of_verse}
+
+{start_of_verse}
+3. [C]Cti svého otce a [G]také matku svou,
+[F]ať se dobře daří Tobě [G]i dětem Tvým.
+[C]Nezabiješ bližního [G]nožem ani puškou,
+[F]ani ve své mysli, [G]ani srdcem svým.
+{end_of_verse}
+
+{start_of_verse}
+4. [C]Nebudeš pokukovat [G]po cizích holkách,
+[F]sám moc dobře víš, že je to jen past.
+[C]Nevezmeš si nic, co ti [G]nepatří,
+[F]nic, co není Tvé, no prostě [G]nebudeš krást.
+{end_of_verse}
+
+{start_of_verse}
+5. [C]Nevydáš proti bližnímu [G]křivé svědectví,
+[F]tak ochráníš od zmaru[G] svou duši.
+[C]Nebudeš dychtit po tom, co ti [G]nepatří.
+A [F]všechno si to laskavě [G]zapiš za uši.
+{end_of_verse}
