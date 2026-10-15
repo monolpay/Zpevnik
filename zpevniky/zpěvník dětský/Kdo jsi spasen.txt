@@ -1,0 +1,37 @@
+{title: Kdo jsi spasen}
+{artist: ?}
+
+{start_of_verse}
+1. Kdo jsi [D]spasen v Kristu, s námi zatles[A]kej,
+kdo jsi spasen v Kristu, s námi zatles[D]kej,
+kdo jsi [G]spasen, v Kristu žiješ, víru v [A]Pána dokazuješ,
+kdo jsi [A]spasen v Kristu, s námi zatles[D]kej.
+{end_of_verse}
+
+{start_of_verse}
+2. Kdo jsi [D]spasen v Kristu, s námi zadu[A]pej,
+kdo jsi spasen v Kristu, s námi zadu[D]pej,
+kdo jsi [G]spasen, v Kristu žiješ, víru v [A]Pána dokazuješ,
+kdo jsi [A]spasen v Kristu, s námi zadu[D]pej.
+{end_of_verse}
+
+{start_of_verse}
+3. Kdo jsi [D]spasen v Kristu, s námi zamr[A]kej,
+kdo jsi spasen v Kristu, s námi zamr[D]kej,
+kdo jsi [G]spasen, v Kristu žiješ, víru v [A]Pána dokazuješ,
+kdo jsi [A]spasen v Kristu, s námi zamr[D]kej.
+{end_of_verse}
+
+{start_of_verse}
+4. Kdo jsi [D]spasen v Kristu, řekni své á[A]men,
+kdo jsi spasen v Kristu, řekni své á[D]men,
+kdo jsi [G]spasen, v Kristu žiješ, víru v [A]Pána dokazuješ,
+kdo jsi [A]spasen v Kristu, řekni své á[D]men.
+{end_of_verse}
+
+{start_of_verse}
+5. Kdo jsi [D]spasen v Kristu, všechno opa[A]kuj,
+kdo jsi spasen v Kristu, všechno opa[D]kuj,
+kdo jsi [G]spasen, v Kristu žiješ, víru v [A]Pána dokazuješ,
+kdo jsi [A]spasen v Kristu, všechno opa[D]kuj.
+{end_of_verse}

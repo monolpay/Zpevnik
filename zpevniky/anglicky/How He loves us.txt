@@ -1,0 +1,34 @@
+{title: How He loves us}
+{artist: David Crowder}
+
+{start_of_verse}
+[C]He is jealous for me
+[Am7]Love's like a hurricane, I am a tree
+[G]Bending beneath the weight of his wind and [Fmaj7]mercy.
+When [C]all of a sudden,
+I am unaware of these [Am7]afflictions eclipsed by glory,
+And I [G]realize just how beautiful You are,
+And how [Fmaj7]great Your affections are for me.
+{end_of_verse}
+
+{start_of_prechorus}
+[C]Oh, how he loves us [Am7]so,
+Oh, how he [G]loves us,
+How he loves us [Fmaj7]so.
+{end_of_prechorus}
+
+{start_of_chorus}
+Yea he [C]loves us,
+Oh how he [Am7]loves us,
+Oh how he [G]loves us,
+Oh how he [Fmaj7]loves.
+{end_of_chorus}
+
+{start_of_bridge}
+So [C]we are his portion and he is our prize,
+[Am7]Drawn to redemption by the grace in his eyes,
+If [G]grace is an ocean we're all [Fmaj7]sinking.
+So [C]heaven meets earth like an unforeseen kiss,
+And my [Am7]heart turns violently inside of my chest.
+I [G]don't have time to maintain these regrets when I [Fmaj7]think about the way...
+{end_of_bridge}

@@ -1,0 +1,38 @@
+{title: Usnul již celý náš dům}
+{artist: Helena Jarocká}
+
+{start_of_verse}
+1. [D]Usnul již [A7]celý náš [D]dům,
+světýlka v [A7]oknech šla [D]spát.[D7]
+[G]Poplujem v [Em]postýlkách [A]napro[A7]ti [Hm]snům,
+[G6]Pán Ježíš [A7]nás má [D]rád.[D7]
+[G]Poplujem v [Em]postýl[Em7]kách [A]naproti [Hm]snům,
+[Em]Pán Ježíš [A7]nás má [D]rád.[G][G6][D]
+{end_of_verse}
+
+{start_of_verse}
+2. [D]Usnula [A7]celičká [D]zem,
+do trávy [A7]ulehla [D]tma.[D7]
+[G]Aj, nespí, [Em]nedřímá [A]Pán Je[A7]žíš [Hm]jen,
+[G6]své děti v [A7]péči [D]má.[D7]
+[G]Aj, nespí, [Em]nedří[Em7]má [A]Pán Ježíš [Hm]jen,
+[Em]své děti v [A7]péči [D]má.[G][G6][D]
+{end_of_verse}
+
+{start_of_verse}
+3. [D]Kraj už je [A7]zahalen [D]tmou,
+nocí však [A7]proniká [D]zář.[D7]
+[G]Pán Ježíš [Em]je hvězdou [A]tou zá[A7]ři[Hm]vou,
+[G6]co hledí [A7]na tvou [D]tvář.[D7]
+[G]Pán Ježíš [Em]je hvěz[Em7]dou [A]tou záři[Hm]vou,
+[Em]co hledí [A7]na tvou [D]tvář.[G][G6][D]
+{end_of_verse}
+
+{start_of_verse}
+4. [D]Než usneš v [A7]postýlce [D]své,
+než víčka [A7]uzamkneš [D]tmou,[D7]
+[G]modli se k [Em]Tomu, kdo [A]zná srd[A7]ce [Hm]tvé,
+v [G6]Jeho dlaň [A7]vlož Mu [D]svou,[D7]
+[G]modli se k [Em]Tomu, [Em7]kdo [A]zná srdce [Hm]tvé,
+v [Em]Jeho dlaň [A7]vlož Mu [D]svou.[G][G6][D]
+{end_of_verse}

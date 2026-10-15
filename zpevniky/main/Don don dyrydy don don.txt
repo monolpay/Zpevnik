@@ -1,0 +1,23 @@
+{title: Dondon dyrydy dondon}
+{artist: Bob Flídr}
+
+{start_of_chorus}
+R: [C]Dondon dyrydy [F]dondon,
+[C]dondon dyrydy [F]don,
+[C]dondon dyrydy [F]dondon,
+[Dm]dondon dyrydy [G]don.
+{end_of_chorus}
+
+{start_of_verse}
+1. [C]Spí dřevěný [F]vláček, [C]spí kamenný [F]dům,
+[C]už všechny z tvých [F]hraček [Dm]šly naproti [G]snům.
+[C]Spí zvoneček [F]v trávě, [C]spí na věži [F]zvon,
+[C]jen zvoníkům [F]v hlavě [Dm]zní poslední [G]tón.
+{end_of_verse}
+
+{start_of_verse}
+2. [C]Spí na linkách [F]noty, [C]spí houslový [F]klíč,
+[C]spí tričko i [F]boty, [Dm]spí kopací [G]míč.
+[C]Spí židle a [F]stolky, [C]spí kdejaký [F]kluk,
+[C]spí copaté [F]holky, [Dm]tak už ani [G]muk...
+{end_of_verse}

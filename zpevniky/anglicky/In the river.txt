@@ -1,0 +1,40 @@
+{title: In the river}
+{artist: Jesus Culture}
+
+{start_of_verse}
+Intro: [Bb] [Gm] [Dm] [F]
+1.[F]There is a [Bb]river where [Gm]goodness flows
+There is a [Dm]fountain that [F/A]drowns sorrows
+There is an [Bb]ocean [Gm]deeper than fear
+[Dm]The tide is rising, rising
+{end_of_verse}
+
+{start_of_verse}
+2. [F/A]There is a [Bb]current stirring [Gm]deep inside
+It’s over[Dm]flowing from the [F/A]heart of God
+The flood of [Bb]heaven crashing [Gm]over us
+The tide is [Dm]rising, rising [F/A]
+{end_of_verse}
+
+{start_of_chorus}   
+R: [Bb]Bursting, [Gm7]bursting
+[Dm7]up from the ground [F2/A]we feel it now
+[Bb]Bursting, [Gm7]bursting 
+[Dm7]up from the ground [F2/A]we feel it now
+
+[Bb]We come alive in the river [Gm7]
+We come [Dm7]alive in the river [F2/A]
+[Bb]We come alive in the river [Gm7]
+We come [Dm7]alive in the river. [F2/A]
+{end_of_chorus}
+
+{start_of_bridge}
+Bridge: Break open [Bb]prison doors [Gm7]
+Set all the [Dm7]captives free [F/A]
+Spring up a [Bb]well, spring up a [Gm7]well
+spring up the [Dm7]well in me [F/A]
+Nothing can [Bb]stop this joy [Gm7]
+We’re dancing [Dm7]in the streets [F/A]
+Spring up a [Bb]well, spring up a [Gm7]well
+spring up the [Dm7]well in me
+{end_of_bridge}

@@ -1,0 +1,38 @@
+{title: Rescue}
+{artist: Lauren Diagle}
+
+{start_of_verse}
+Intro [Bb] [F] [C] [Dm]
+1.You are not [Bb]hidden [F]
+There’s never been a [C]moment
+You were for[Dm]gotten
+You are not [Bb]hopeless [F]
+Though you have been [C]broken
+Your innocence [Dm]stolen
+{end_of_verse}
+
+{start_of_prechorus}
+I [Bb]hear you whisper [F/A]underneath your[C] breath [Dm]   
+I [Bb]hear your S-O[F/A]-S, your S-O[C]-S   
+{end_of_prechorus}
+
+{start_of_chorus}
+[F]I will [Fsus/G]send out an army
+to [Dm7]find you in the [Bb]middle of the darkest [Dm7]night 
+It’s true [Bb]I will rescue [F]you   
+I will [Fsus/G]never stop marching
+to [Dm7]reach you in the [Bb]middle of the hardest [Dm7]fight
+It’s true [Bb]I will rescue [F]you
+{end_of_chorus}
+
+{start_of_verse}
+2. There is no [Cb]distance [Gb]
+That can not be [Db]covered over and [Ebm]over 
+You're not de[Cb]fenseless [Gb]   
+I’ll be your [Db]shelter, I’ll be your [Ebm]armor 
+{end_of_verse}
+
+{start_of_bridge}
+I [Cb]hear the whisper [Gb/Bb] underneath your [Dbsus]breath [Db]   
+I [Cb]hear you whisper [Gb/Bb] you have nothing [Dbsus]left [Db] 
+{end_of_bridge}

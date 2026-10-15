@@ -1,0 +1,26 @@
+{title: Sluníčko lechtá}
+{artist: ?}
+
+{start_of_verse}
+1. [C]Sluníčko [F]lechtá žabky [C]v kalužích,
+vrabec ten [F]promokl až [C]na kůži,
+žíža[G]la zíva[C]la, prý ten [G]déšť zaspa[C]la.
+{end_of_verse}
+
+{start_of_verse}
+2. [C]Díky, ó [F]Pane Bože, [C]šťasten jsem,
+díky za [F]život, nebe, [C]krásnou zem,
+nechci [G]se kabo[C]nit, vim, že [G]je krásné [C]žít.
+{end_of_verse}
+
+{start_of_verse}
+Pohyby:
+"sluníčko lechtá žabky v kalužích" - skáčeme
+"vrabec ten promokl" - máváme ,křidélky'
+"žížala zívala" - zíváme 2-3x, ruku dáváme před ústa
+"zaspala" - hlavu nakloníme, ruce jako polštářek
+"díky, ó Pane Bože" - máváme rukama nad hlavou
+"díky za život, nebe" - tleskáme
+"nechci se kabonit" - hlavou kýveme ,ne'
+"vím, že je krásné žít" - otočíme se dokola
+{end_of_verse}

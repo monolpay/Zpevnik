@@ -1,0 +1,35 @@
+{title: Den co den}
+{artist: Joel Houston}
+
+{start_of_verse}
+1. [C] Co [G]říct, Pane, [Em]
+jsi to [D]ty, kdo život [C]dá.
+Tvá mo[G]cná záchrana [Em]
+pro mě [D]hodně zname[C]ná.
+Dáváš [G]mi všechno, [Em]
+spolé[D]hám jen na te[C]be.
+Toužím [G]být tím světlem, [Em]
+kterým [D]září jméno [C]Tvé[G]! [Em]
+{end_of_verse}
+
+{start_of_verse}
+2. [C] Den co [G]den, Pane, [Em]
+chci jen [D]na Tvém slovu [C]stát.
+Modlím [G]se k tobě, [Em]
+abych [D]mohl víc tě [C]znát.
+Veď ty [G]sám každý [Em]můj krok toužím [D]po Tvých cestách [C]jít.
+Den co [G]den, Pane, [Em]
+chci Tvým [D]světlem v světě [C]být. [G] [Em] [D]
+{end_of_verse}
+
+{start_of_chorus}
+R: [G] Den co [C]den ať mi [Em]září [D]láska [G]Tvá.
+Den co [C]den ať v Tvé [Em]lásce [D]zůstá[G]vám.
+Den co [C]den ať mi [Em]září [D]láska [G]Tvá! [C] [Em] [D]
+{end_of_chorus}
+
+{start_of_bridge}
+B: Ať [G]ve Tvé [C]lásce [Em]zůstá[D]vám,
+ať [G]ve Tvé [C]lásce [Em]zůstá[D]vám,
+ať [G]ve Tvé [C]lásce [Em]zůstá[D]vám,[G] [Em] [D]
+{end_of_bridge}
