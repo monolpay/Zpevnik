@@ -1,7 +1,7 @@
 {title: Ať požehnán je Bůh}
 {artist: Matt Redman}
 
-{start_of_verse label="1."}
+{start_of_verse }
 1. [G]Ať požeh[D]nán je Bůh [Em]tam, kde je zem [C]úrodná,
 [G]tam, kde hojnost [D]přebývá, požehn[Em]án buď Pán.[C]
 [G]Ať požehn[D]án je Bůh [Em]tam, kde je zem [C]nevlídná,
@@ -23,7 +23,7 @@ buď požehnaný [Em]svatý pánů [C]Pán.
 {end_of_chorus}
 
 
-{start_of_verse label="2."}
+{start_of_verse }
 2. [G]Ať požehn[D]án je Bůh, když [Em]slunce svítí [C]nad hlavou
 a [G]život zdá se [D]zábavou, požehn[Em]án buď Pán.[C]
 [G]Ať požehn[D]án je Bůh, když [Em]dny jsou plné [C]strádání,

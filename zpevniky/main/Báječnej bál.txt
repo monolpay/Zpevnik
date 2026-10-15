@@ -1,7 +1,7 @@
 {title: Báječnej bál}
 {artist: Pavel Dvořáček}
 
-{start_of_verse label="1."}
+{start_of_verse }
 1. Báječnej [A]b[D]á[A]l uspořádal[A][D][A]
 králů [C#m]Král, [F#m]všechny pozval [E]dál.
 Ten největší [A]s[D]á[A]l na to obstaral,[A][D][A]
@@ -10,7 +10,7 @@ Pojďte [A]dál,
 začíná [C#m]bál,[E] bálů bál.[A][D][A][D][A][D][A]
 {end_of_verse}
 
-{start_of_verse label="2."}
+{start_of_verse }
 2. Ó Pane můj, [A][D][A]proč právě dnes?[A][D][A]
 V plánu [C#m]mám [F#m]zrovna jinej [E]ples.
 Ze všech   pozvan[A]ých[D][A] mluvil náhle strach,[A][D][A]
@@ -19,7 +19,7 @@ Když ale ten [A]bál
 byl mimo [C#m]plán[E], mimo [A]plán.[D][A][D][A][D][A]
 {end_of_verse}
 
-{start_of_verse label="3."}
+{start_of_verse }
 3.Král však ten bál[A][D][A] neodvolal,[A][D][A]
 zvát šel [C#m]dál, [F#m]než by kdo [E]čekal.
 Ani žádná [A]mříž,[D][A] ba ani ten [A]hřích[D][A]

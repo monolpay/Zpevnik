@@ -1,7 +1,7 @@
 {title: Ať jsi velký nebo malý}
 {artist: Klaunící}
 
-{start_of_verse label="1."}
+{start_of_verse }
 1. Ať jsi [G]velký nebo [Em]malý [G]nebo akor[Em]át,
 [G]Bůh [C]tě má [Am]rád.
 Ať jsi [C]tlustý nebo [D]hubený [C]nebo akor[D]át,
@@ -10,7 +10,7 @@ On tě miluje, když se [G7]těšíš, tě [C]miluje i když [C7]brečíš,
 tě [Am]miluje když si [Am7]hraješ, tě [D]miluje, i když [D7]spíš.
 {end_of_verse}
 
-{start_of_verse label="2."}
+{start_of_verse }
 2. Je to [G]jedno, jak se [Em]cítíš [G]a jak vypad[Em]áš,
 [Am]Bůh [D]tě má [G]rád, tak vzdej mu [Em]chválu,
 [Am]Bůh [D]tě má [G]rád, tak vzdej mu [Em]chválu,

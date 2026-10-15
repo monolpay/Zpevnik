@@ -1,7 +1,7 @@
 {title: Bože, Otče, divím se}
 {artist: ?}
 
-{start_of_verse label="1."}
+{start_of_verse }
 1. [Em]Bože, Otče, divím se, jak [D]jen jsem mohl existovat,
 [C]když mé srdce nechápalo [H7]množství lásky Tvé.
 [Em]Teď smím být Tvým vlastním synem,

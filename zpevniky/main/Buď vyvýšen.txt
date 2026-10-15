@@ -6,7 +6,7 @@ R: Buď vyvý[C]šen, buď vyvýš[Em]en
 Pro Tvou [G]slávu buď vyvýš[D]en
 {end_of_chorus}
 
-{start_of_verse label="1."}
+{start_of_verse }
 1. [Em]Ty jsi Pánem všeho času,
 [C]Ty přinášíš lidem spásu,
 [G]Ty jsi důvod proč zpíváme [D]ke Tvé slávě.
@@ -15,7 +15,7 @@ Pro Tvou [G]slávu buď vyvýš[D]en
 [G]Přidáme se k písni, která [D]zpívá
 {end_of_verse}
 
-{start_of_verse label="2."}
+{start_of_verse }
 2. [Em]Ty jsi oheň stravující,
 [C]Ty jsi Otče věčné živý,
 [G]Ty jsi důvod proč žijeme [D]ke Tvé slávě.

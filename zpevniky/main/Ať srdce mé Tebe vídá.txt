@@ -1,7 +1,7 @@
 {title: Ať srdce mé Tebe vídá}
 {artist: Pal Baloche}
 
-{start_of_verse label="1."}
+{start_of_verse }
 1. [E]Ať srdce mé Tebe vídá, ať srdce mé Tebe [E7]zná,
 vidět Tě [A]toužím, vidět Tě [E]toužím.
 {end_of_verse}
