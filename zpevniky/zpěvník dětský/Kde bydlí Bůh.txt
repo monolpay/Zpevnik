@@ -1,0 +1,20 @@
+{title: Kde bydlí Bůh}
+{artist: KSP Music}
+
+{start_of_verse}
+[C] Kde bydlí [G]Bůh? [Am] Kde bydlí [F]Bůh?
+[C] A kde přebý[G]vá [Am]Jeho svatý [F]duch?
+{end_of_verse}
+
+{start_of_prechorus}
+[C]Vznáší se v nebe[G]sích? Má domek z papí[Am]ru?
+A nebo na ho[F]rách svůj srub na mí[C]ru?
+Palác se zahra[G]dou s výhledem na mo[Am]ře, kde si klidně [F]žije?
+{end_of_prechorus}
+
+{start_of_chorus}
+Bůh je [C]tam, kde jsi [G]ty,
+nedělá s tím [Am]žádný draho[F]ty.
+Kdo ho pozve [C]dál u toho se zaby[G]dlí
+a chce s ním [F]prožít první [G]poslední.
+{end_of_chorus}

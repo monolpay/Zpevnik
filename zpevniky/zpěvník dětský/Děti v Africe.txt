@@ -19,7 +19,7 @@ mají [F]jedině [G]velbloudy [C]v šatech.
 {end_of_verse}
 
 {start_of_verse}
-[C]Děti [G]na horách jezdí [C]na vleku,
+3. [C]Děti [G]na horách jezdí [C]na vleku,
 volaj [F]na tátu: [G]"Přidej ty [C]šneku!"
 {end_of_verse}
 

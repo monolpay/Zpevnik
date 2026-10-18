@@ -1,0 +1,37 @@
+{title: V zeleném háječku}
+{artist: ?}
+
+{start_of_verse}
+V[C] zeleném háječku se[G]děla kukač[C]ka,
+z vysokého smrčku volala na špa[C]čka:
+Kuku kuku ku[G]ku-kuru-ku[C]ku kuku
+kuku kuku ku[G]ku-kuru-ku[C]ku
+{end_of_verse}
+
+{start_of_verse}
+[C]Po cestě kráčel [G]šedivý o[C]sel,
+žvíkaje bodlák, [G]takto k sobě [C]děl:
+Íá íá í[G]á-íá-i[C]á íá
+íá íá í[G]á-íá í[C]á
+{end_of_verse}
+
+{start_of_verse}
+[C]Po cestě kráčel [G]dlouhonohý [C]čáp,
+do každé louže [G]jedou nohou [C]šláp.
+Klap-klap klap-klap klap-[G]klap-klap-klap-klap-[C]klap klap-klap
+klap-klap klap-klap klap-[G]klap-klap-klap-klap-[C]klap 
+{end_of_verse}
+
+{start_of_verse}
+[C]Na kraji rybníčka seděla rosni[C]čka
+a jak stoupal tlak, tak kvákala jen [C]tak.
+Kva-kvak kva-kvak kva-[G]kva-kva-kva-kva-[C]kvak kva-kvak
+kva-kvak kva-kvak kva-[G]kva-kva-kva-kva-[C]kvak 
+{end_of_verse}
+
+{start_of_verse}
+[C]Náš Pán Bůh stvořil [G]celou naši [C]zem.
+My za zvířátka [G]pěkně děku[C]jem.
+Amen amen a[G]men-amen-a[C]men amen
+Amen amen a[G]men-amen-a[C]men
+{end_of_verse}

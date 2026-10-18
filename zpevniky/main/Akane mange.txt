@@ -9,8 +9,8 @@ Asis man devla [Dm]kai devla kai[E] si amaro [Am]del
 {end_of_verse}
 
 {start_of_chorus}
-Devla devla dev[]la []
-Devla devla dev[]la []
-Devla devla dev[]la []
-Devla devla dev[]la []
+Devla devla dev[Dm]la [G]
+Devla devla [Am]devla
+Devla devla [Dm]devla
+Devla [E]devla devla ku dži[Am]ves
 {end_of_chorus}
