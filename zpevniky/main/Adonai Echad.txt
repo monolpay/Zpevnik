@@ -1,7 +1,7 @@
 {title: Adonai Echad}
 {artist: Markéta Satková}
 
-{start_of_verse label="1."}
+{start_of_verse}
 1. [Dm]Dnes církev Tvá se [C]před Tebou [G2]sklání
 [B]S básní u [C]trůnu [G2]pokléká
 [Dm]Všemocný Vládce, [C]Tobě [G2]uctívání náleží

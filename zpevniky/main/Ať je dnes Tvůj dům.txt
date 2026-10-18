@@ -1,7 +1,7 @@
 {title: Ať je dnes Tvůj dům}
 {artist: Karel Řežábek}
 
-{start_of_verse label="1."}
+{start_of_verse }
 1. [G]Ať je dnes Tvůj [C]dům plný [D]slávy Tvé,[C][D]
 [G]ať je dnes Tvůj [C]dům plný [D]chvále[G]ní.
 {end_of_verse}

@@ -1,7 +1,7 @@
 {title: Adonai}
 {artist: Jakub Pípal}
 
-{start_of_verse label="1."}
+{start_of_verse }
 1. [G]Ty jsi král králů, [Em]Ty jsi vítěz vítě[D]zů
 Tebe [C]chválím, Tebe [G]ctím
 
@@ -18,7 +18,7 @@ B: [D]Nebe chválu [C]vzdává, andě[Em]lé jása[D]jí,
 R: [C/G]Immanu[G]el, [Em]halelu[C]ja, [C/G]Ado[G]nai, [Em]Bůh buď osla[C]ven
 {end_of_chorus}
 
-{start_of_verse label="2."}
+{start_of_verse}
 2. [G]Ty jsi déšť lásky, [Em]prosím vylej milost [D]svou,
 Ať padne [C]na nás s mocí [G]Tvou!
 
