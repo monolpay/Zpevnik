@@ -2,39 +2,39 @@
 {artist: Jesus Culture}
 
 {start_of_verse}
-Intro: [Bb] [Gm] [Dm] [F]
-1.[F]There is a [Bb]river where [Gm]goodness flows
-There is a [Dm]fountain that [F/A]drowns sorrows
-There is an [Bb]ocean [Gm]deeper than fear
-[Dm]The tide is rising, rising
+Intro: [F] [Dm7] [Am] [C/E]
+1.[C2/E]There is a [F]river where [Dm]goodness flows
+There is a [Am]fountain that [C/E]drowns sorrows
+There is an [F]ocean [Dm]deeper than fear
+[Am]The tide is rising, rising [C/E]
 {end_of_verse}
 
 {start_of_verse}
-2. [F/A]There is a [Bb]current stirring [Gm]deep inside
-It’s over[Dm]flowing from the [F/A]heart of God
-The flood of [Bb]heaven crashing [Gm]over us
-The tide is [Dm]rising, rising [F/A]
+2. [C2/E]There is a [F]current stirring [Dm]deep inside
+It’s over[Am]flowing from the [C/E]heart of God
+The flood of [F]heaven crashing [Dm]over us
+The tide is [Am]rising, rising [C/E]
 {end_of_verse}
 
 {start_of_chorus}   
-R: [Bb]Bursting, [Gm7]bursting
-[Dm7]up from the ground [F2/A]we feel it now
-[Bb]Bursting, [Gm7]bursting 
-[Dm7]up from the ground [F2/A]we feel it now
+R: [F]Bursting, [Dm7]bursting
+[Am7]up from the ground [C2/E]we feel it now
+[F]Bursting, [Dm7]bursting 
+[Am7]up from the ground [C2/E]we feel it now
 
-[Bb]We come alive in the river [Gm7]
-We come [Dm7]alive in the river [F2/A]
-[Bb]We come alive in the river [Gm7]
-We come [Dm7]alive in the river. [F2/A]
+[F]We come alive in the river [Dm7]
+We come [Am7]alive in the river [C2/E]
+[F]We come alive in the river [Dm7]
+We come [Am7]alive in the river. [C2/E]
 {end_of_chorus}
 
 {start_of_bridge}
-Bridge: Break open [Bb]prison doors [Gm7]
-Set all the [Dm7]captives free [F/A]
-Spring up a [Bb]well, spring up a [Gm7]well
-spring up the [Dm7]well in me [F/A]
-Nothing can [Bb]stop this joy [Gm7]
-We’re dancing [Dm7]in the streets [F/A]
-Spring up a [Bb]well, spring up a [Gm7]well
-spring up the [Dm7]well in me
+Bridge: Break open [F]prison doors [Dm7]
+Set all the [Am7]captives free [C/E]
+Spring up a [F]well, spring up a [Dm7]well
+spring up the [Am7]well in me [C/E]
+Nothing can [F]stop this joy [Dm7]
+We’re dancing [Am7]in the streets [C/E]
+Spring up a [F]well, spring up a [Dm7]well
+spring up the [Am7]well in me [C/E]
 {end_of_bridge}

@@ -26,13 +26,13 @@ It’s true [Bb]I will rescue [F]you
 {end_of_chorus}
 
 {start_of_verse}
-2. There is no [Cb]distance [Gb]
-That can not be [Db]covered over and [Ebm]over 
-You're not de[Cb]fenseless [Gb]   
-I’ll be your [Db]shelter, I’ll be your [Ebm]armor 
+2. There is no [Bb]distance [F]
+That can not be [C]covered over and [Dm]over 
+You're not de[Bb]fenseless [F]   
+I’ll be your [C]shelter, I’ll be your [Dm]armor 
 {end_of_verse}
 
 {start_of_bridge}
-I [Cb]hear the whisper [Gb/Bb] underneath your [Dbsus]breath [Db]   
-I [Cb]hear you whisper [Gb/Bb] you have nothing [Dbsus]left [Db] 
+I [Bb]hear the whisper [F/A] underneath your [Csus4]breath [C]   
+I [Bb]hear you whisper [F/A] you have nothing [Csus4]left [C] 
 {end_of_bridge}
