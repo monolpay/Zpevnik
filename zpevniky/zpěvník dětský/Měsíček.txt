@@ -1,0 +1,23 @@
+{title: Měsíček}
+{artist: Tim2,2}
+
+{start_of_verse}
+Už [C]měsíček [G]dívá se [C]k nám
+a [F]šeptá, že [C]čas je jít [G]spát
+Dobrou [C]noc, [F]sladce [Am]spi,
+dobrou [F]noc, [G]Bůh tě má [C]rád.
+{end_of_verse}
+
+{start_of_verse}
+Tam [C]hvězdička [G]pomrká[C]vá:
+tak [F]zavři už [C]očička [G]svá!
+Dobrou [C]noc, [F]sladce [Am]spi,
+dobrou [F]noc, [G]Bůh tě má [C]rád.
+{end_of_verse}
+
+{start_of_verse}
+Nech [C]něco si [G]hezkého [C]zdát,
+anděl [F]stráž bude [C]u tebe [G]stát.
+Dobrou [C]noc, [F]sladce [Am]spi,
+dobrou [F]noc, [G]Bůh tě má [C]rád.
+{end_of_verse}

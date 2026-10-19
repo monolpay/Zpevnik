@@ -2,7 +2,7 @@
 {artist: Libor Földesi}
 
 {start_of_verse}
-1.  [C]Děti [G]v Africe nenosí [C]boty,
+1.  [C]Děti [F]v Africe [G]nenosí [C]boty,
 nemaj [F]lavice, [G]neznají [C]noty.
 {end_of_verse}
 
@@ -14,41 +14,41 @@ Ježíše [F]Pána [G]milu[C]jem!
 {end_of_chorus}
 
 {start_of_verse}
-2. [C]Děti [G]v Egyptě nejezdí [C]v autech,
+2. [C]Děti [F]v Egyptě [G]nejezdí [C]v autech,
 mají [F]jedině [G]velbloudy [C]v šatech.
 {end_of_verse}
 
 {start_of_verse}
-3. [C]Děti [G]na horách jezdí [C]na vleku,
+3. [C]Děti [F]na horách [G]jezdí [C]na vleku,
 volaj [F]na tátu: [G]"Přidej ty [C]šneku!"
 {end_of_verse}
 
 {start_of_verse}
-4.  [C]Děti [G]ve Finsku maj zmrzlý [C]nosy,
+4.  [C]Děti [F]ve Finsku [G]maj zmrzlý [C]nosy,
 sáně [F]jim tahaj' [G]sobi a [C]losi.
 {end_of_verse}
 
 {start_of_verse}
-5.  [C]Děti [G]v New Yorku, když mají [C]školu,
+5.  [C]Děti [F]v New Yorku, [G]když mají [C]školu,
 svačí [F]na dvorku [G]sendvič a [C]kolu.
 {end_of_verse}
 
 {start_of_verse}
-6.  [C]Děti [G]v Mexiku maj černý [C]vlasy,
+6.  [C]Děti [G]v Mexiku [G]maj černý [C]vlasy,
 baští [F]papriku [G]a ana[C]nasy.
 {end_of_verse}
 
 {start_of_verse}
-7.  [C]Děti [G]ze Sydney při tělo[C]cviku
+7.  [C]Děti [F]ze Sydney [G]při tělo[C]cviku
 skáčou [F]s klokany [G]v trenkách a [C]triku.
 {end_of_verse}
 
 {start_of_verse}
-8.  [C]Děti [G]v Japonsku maj šikmý [C]oči,
+8.  [C]Děti [F]v Japonsku [G]maj šikmý [C]oči,
 pouští [F]si draky [G]a Tama[C]goči.
 {end_of_verse}
 
 {start_of_verse}
-9.  [C]České [G]dětičky nemají [C]moře,
+9.  [C]České [F]dětičky [G]nemají [C]moře,
 znají [F]slepičky, [G]skáčou po [C]dvoře.
 {end_of_verse}

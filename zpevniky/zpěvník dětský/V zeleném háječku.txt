@@ -2,8 +2,8 @@
 {artist: ?}
 
 {start_of_verse}
-V[C] zeleném háječku se[G]děla kukač[C]ka,
-z vysokého smrčku volala na špa[C]čka:
+[C]V zeleném háječku se[G]děla kukač[C]ka,
+z vysokého smrčku vo[G]lala na špa[C]čka:
 Kuku kuku ku[G]ku-kuru-ku[C]ku kuku
 kuku kuku ku[G]ku-kuru-ku[C]ku
 {end_of_verse}
@@ -23,8 +23,8 @@ klap-klap klap-klap klap-[G]klap-klap-klap-klap-[C]klap
 {end_of_verse}
 
 {start_of_verse}
-[C]Na kraji rybníčka seděla rosni[C]čka
-a jak stoupal tlak, tak kvákala jen [C]tak.
+[C]Na kraji rybníčka se[G]děla rosni[C]čka
+a jak stoupal tlak, tak [G]kvákala jen [C]tak.
 Kva-kvak kva-kvak kva-[G]kva-kva-kva-kva-[C]kvak kva-kvak
 kva-kvak kva-kvak kva-[G]kva-kva-kva-kva-[C]kvak 
 {end_of_verse}
