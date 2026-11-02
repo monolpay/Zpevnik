@@ -1,0 +1,39 @@
+{title: }
+{artist: }
+
+{start_of_verse}
+[Dm][C][F][C][B]
+
+1. [Dm]Voláš jménem: [C]"Vyjdi [F]v bouři,
+po vl[C]nách, když nevi[B]díš."
+[Dm]A já nachá[C]zím Tě [F]v hloubi,
+v mořích [C]vím, kde najdu [B]skrýš.
+{end_of_verse}
+
+{start_of_chorus}
+R: [B]Zavo[F]lám Tě jménem [C]Tvým.
+[B]Moře [F]může stoupat,
+[C]já už se nebo[B]jím.
+Spoči[F]nu v Tvém obje[C]tí,
+já jsem [B]Tvým [C]a Ty jsi [Dm]mým.
+
+M: [Dm][C][F][C][B]
+{end_of_chorus}
+
+{start_of_verse}
+2. [Dm]Tvoje milost [C]přeté[F]kává,
+ruka [C]Tvá je můj [B]štít.
+[Dm]Když se strachem [C]budu [F]bloudit,
+vím, kde [C]smím se uchý[B]lit.
+{end_of_verse}
+
+{start_of_bridge}
+B: [Dm]Kroky mé mi hlídáš,
+[B]když Ti věřím ze všech sil,
+[F]po hladině kráčet smím,
+[C]když Tě uslyším.
+[Dm]Vezmi mě do hlubin,
+[B]dál, než se kdy odvážím,
+[F]tam, kde budu silnějším,
+kde [C]spásu uvidím.
+{end_of_bridge}
