@@ -1,0 +1,24 @@
+{title: Duchu svatý jsi tu vítaný}
+{artist: Godknows}
+
+{start_of_verse}
+1. [C]Nic mě neláká víc než blíže [F]stát,
+nic se nevyrovná tomu, co jsi nám [C]dal
+ve tvé blízko[F]s‍‍ti.
+
+[C]Já poznám a vím, tvá láska je [F]l‍‍ék,
+v ní svobodný jsem a viny zba‍‍[C]ven
+ve tvé blízko[F]s‍‍ti.
+{end_of_verse}
+
+{start_of_chorus}
+R: [C]Duchu Svatý, jsi tu vítaný!
+Přijď, [F]vtáhni nás tam, [Dm]kde vládneš ty.
+Tvoje [C]sláva přichází dnes s touhou k nám,
+zapal [F]láskou k tobě [Dm]naše srdce [C]v nás.
+{end_of_chorus}
+
+{start_of_bridge}
+B: [C]Ať stále víc před tebou bázeň mám.
+[F]Dnes toužím zažívat, jaký [Dm]dobrý Bůh jsi k nám.
+{end_of_bridge}

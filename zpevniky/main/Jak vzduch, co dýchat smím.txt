@@ -1,0 +1,21 @@
+{title: Jak vzduch, co dýchat smím}
+{artist: Tomáš Coufal}
+
+{start_of_verse}
+1. [A]Jak vzduch, co [D]dýchat smím,[A]
+Jak vzduch, co [D]dýchat smím,[A]
+jsi [E]stále [F#m]blízko,[E]
+[D]vždyť Tvůj [F#m]jsem chrám.[E]
+{end_of_verse}
+
+{start_of_verse}
+2. [A]Jak chléb, co [D]sílu dá,[A]
+jak chléb, co [D]sílu dá,[A]
+tak [E]tím, co [F#m]říkáš,[E]
+[D]sytíš [F#m]mne sám.[E]
+{end_of_verse}
+
+{start_of_chorus}
+R: /: A [A]já[E][F#m] [E]po Tobě [D]toužím.[F#m] [E]
+A [A]já[E][F#m] [E]bez Tebe [D]bloudím.[F#m] [Esus4][E] :/[A]
+{end_of_chorus}

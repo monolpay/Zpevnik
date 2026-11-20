@@ -1,0 +1,52 @@
+{title: Good good Father}
+{artist: Chris Tomlin}
+
+{start_of_verse}
+1. [A]I've heard a [A4]thousand [A]stories
+Of what they [Asus]think You're [A]like
+But I've heard the [A4]tender [A]whisper
+Of love in the [A4]dead of [A]night
+And You [D2]tell me [A/C#]that You're pleased
+And that [Bm7]I'm never a[E]lone
+{end_of_verse}
+
+{start_of_chorus}
+R: You're a good, good [D2]Father, 
+It's who You are, [A/C#]
+it's who You are, [Bm7] 
+It's who You [E4]are
+And I'm loved by [D2]You
+It's who I am, [A/C#] 
+it's who I am [Bm7] 
+It's who I [E4]am
+{end_of_chorus}
+
+{start_of_verse}
+2. Oh and [A]I've seen many searching for
+Answers far and wide  
+But I know we're all searching for answers
+only You provide  
+Cause You [D2]know just [A/C#]what we need
+Before [Bm7]we say a [E]word
+{end_of_verse}
+
+{start_of_bridge}
+B: Because You are [D2] perfect 
+In all of Your [F#m7]ways
+You are [Bm7]
+perfect in all of Your [A]ways
+You are [D2] perfect 
+In all of Your [F#m7]ways
+To [E]us
+{end_of_bridge}
+
+{start_of_verse}
+3.  Oh this [A] Love so undeniable
+I, I can hardly speak
+Peace so unexplainable
+I, I can hardly think
+As You [D2]call me, [A/C#]deeper still
+As You [Bm7]call me [A/C#]deeper still 
+As You [D2]call me, [A/C#]deeper still
+Into [Bm7]love, love, [E]love
+{end_of_verse}

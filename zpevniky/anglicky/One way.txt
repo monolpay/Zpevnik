@@ -13,7 +13,7 @@ Intro [C] [Am7] [G] [F]
 {end_of_verse}
 
 {start_of_chorus}
-[C] One way, [G]Jesus
+R: [C] One way, [G]Jesus
 [Am7] You're the only one that [F]I could live for
 [C] One way, [G]Jesus
 [Am7] You're the only one that [Bb]I could live for 
@@ -22,7 +22,7 @@ Intro [C] [Am7] [G] [F]
 {start_of_verse}
 [Am7] [F] [Am7] [F]
 
-[C] You are always, always there
+2. [C] You are always, always there
 [Am7] Every how and every where
 [G] Your grace abounds so deeply within [F]me
 [C] You will never ever change
@@ -31,7 +31,7 @@ Intro [C] [Am7] [G] [F]
 {end_of_verse}
 
 {start_of_bridge}
-[C]You are the way, the [G]truth and the life
+B: [C]You are the way, the [G]truth and the life
 We [Am7]live by faith and [F]not by sight            
 For [Am7]you, we're [G]living all for [F]you
 {end_of_bridge}

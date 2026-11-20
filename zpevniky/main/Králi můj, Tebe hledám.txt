@@ -1,0 +1,23 @@
+{title: Králi můj, Tebe hledám}
+{artist: Karel Řežábek}
+
+{start_of_verse}
+1. [Am7]Králi můj, Tebe [Fmaj7]hledám,
+[G9]v tichosti o slovu Tvém rozjí[C]mám[E7].
+[Am]Jako jelen dychtí po čistých [Fmaj7]vodách,
+[G9]po Tobě, po vodě Tvé žízeň [C]mám[E7].
+{end_of_verse}
+
+{start_of_chorus}
+R: [Fmaj7]Proč se tak[G9] rmoutíš,[Em7] duše[Am]má?
+[Fmaj7]Proč ve mně úzkostně st[G9]énáš[C], duše [E7]má?
+[Fmaj7]Na Boha [G9]čekej,[Em7] duše[Am]má,
+[Fmaj7]opět jen Jemu, své s[G9]páse[C], chválu [E7]vzdám.
+{end_of_chorus}
+
+{start_of_verse}
+2. [Am7]Kéž světlo Tvé, Bože, [Fmaj7]vidím.
+[G9]Když nevím, kudy mám jít, veď mě [C]dál[E7],
+[Am]Až před příbytek Tvůj, kde mě [Fmaj7]čekáš,
+[G9]tam opět radost a mír nalé[C]zám[E7].
+{end_of_verse}

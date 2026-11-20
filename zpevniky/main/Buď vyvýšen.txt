@@ -1,5 +1,5 @@
 {title: Buď vyvýšen}
-{artist: ?}
+{artist: Honzíkovi}
 
 {start_of_chorus}
 R: Buď vyvý[C]šen, buď vyvýš[Em]en

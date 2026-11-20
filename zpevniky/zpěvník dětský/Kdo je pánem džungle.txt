@@ -2,7 +2,7 @@
 {artist: ?}
 
 {start_of_verse}
-1.  [D]Kdo je pánem džungle? (hu, hu)
+[D]Kdo je pánem džungle? (hu, hu)
 Kdo pánem [A]vody? (bubla, bubla, bubla)
 Kdo je pánem vesmíru?
 A kdo pánem [D]mým?

@@ -3,7 +3,7 @@
 
 {start_of_verse}
 Intro [Bb] [F] [C] [Dm]
-1.You are not [Bb]hidden [F]
+1. You are not [Bb]hidden [F]
 There’s never been a [C]moment
 You were for[Dm]gotten
 You are not [Bb]hopeless [F]
@@ -12,12 +12,12 @@ Your innocence [Dm]stolen
 {end_of_verse}
 
 {start_of_prechorus}
-I [Bb]hear you whisper [F/A]underneath your[C] breath [Dm]   
+Pre: I [Bb]hear you whisper [F/A]underneath your[C] breath [Dm]   
 I [Bb]hear your S-O[F/A]-S, your S-O[C]-S   
 {end_of_prechorus}
 
 {start_of_chorus}
-[F]I will [Fsus/G]send out an army
+R: [F]I will [Fsus/G]send out an army
 to [Dm7]find you in the [Bb]middle of the darkest [Dm7]night 
 It’s true [Bb]I will rescue [F]you   
 I will [Fsus/G]never stop marching
@@ -33,6 +33,6 @@ I’ll be your [C]shelter, I’ll be your [Dm]armor
 {end_of_verse}
 
 {start_of_bridge}
-I [Bb]hear the whisper [F/A] underneath your [C4]breath [C]   
+B: I [Bb]hear the whisper [F/A] underneath your [C4]breath [C]   
 I [Bb]hear you whisper [F/A] you have nothing [C4]left [C] 
 {end_of_bridge}

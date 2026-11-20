@@ -2,7 +2,7 @@
 {artist: David Crowder}
 
 {start_of_verse}
-[C]He is jealous for me
+1. [C]He is jealous for me
 [Am7]Love's like a hurricane, I am a tree
 [G]Bending beneath the weight of his wind and [F]mercy.
 When [C]all of a sudden,
@@ -12,20 +12,20 @@ And how [F]great Your affections are for me.
 {end_of_verse}
 
 {start_of_prechorus}
-[C]Oh, how he loves us [Am7]so,
+Pre: [C]Oh, how he loves us [Am7]so,
 Oh, how he [G]loves us,
 How he loves us [F]so.
 {end_of_prechorus}
 
 {start_of_chorus}
-Yea he [C]loves us,
+R: Yea he [C]loves us,
 Oh how he [Am7]loves us,
 Oh how he [G]loves us,
 Oh how he [F]loves.
 {end_of_chorus}
 
 {start_of_bridge}
-So [C]we are his portion and he is our prize,
+B: So [C]we are his portion and he is our prize,
 [Am7]Drawn to redemption by the grace in his eyes,
 If [G]grace is an ocean we're all [F]sinking.
 So [C]heaven meets earth like an unforeseen kiss,

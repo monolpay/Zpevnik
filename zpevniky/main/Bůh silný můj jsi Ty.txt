@@ -1,0 +1,14 @@
+{title: Bůh silný můj jsi Ty}
+{artist: Jitka Najvrtová}
+
+{start_of_verse}
+1. [Em]Bůh silný [D]můj jsi [C]ty, tebe hned v jitře hledám,
+[Em]po tobě [D]žízní duše [C]má i tělo v zemi vypra[Hm]lé,
+abych tě [D]spatřil v slávě [C]tvé, aby tě [D]chválily mé [Em]rty.
+{end_of_verse}
+
+{start_of_verse}
+2. [Em]Abych tě [D]stále vele[C]bil, v tvém jménu ruce pozve[Em]dal,
+abys [D]sytil duši [C]mou a chválila tě ústa má [Hm]má.
+O tobě [D]stále přemý[C]šlím, přilnula [D]k tobě duše [Em]má.
+{end_of_verse}

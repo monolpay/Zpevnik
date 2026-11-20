@@ -1,0 +1,58 @@
+{title: Roztáhni křídla a leť}
+{artist: Bob Fliedr}
+
+{start_of_verse}
+([Hm7]Roztáhni křídla a leť naplno.
+[E7]Roztáhni křídla a leť naplno.)
+
+1. Jó, to se řekne: "roztáhni křídla a leť!"
+-
+Jeden má moc práce,
+druhý málo času,
+třetí rodinné důvody,
+čtvrtý subjektivní potíže,
+pátého píchá pod lopatkou,
+šestý vyletěl od zkoušky
+- docent mu tam zastřihl křidýlka,
+sedmý má už všeho dost.
+Ale pro všechny platí to slovo:
+"Naplno roztáhni křídla a leť!"
+{end_of_verse}
+
+{start_of_chorus}
+[G]Pán [C]zve tě výš a [D]výš,
+[Hm7]zve tě výš a [G]výš,
+[C]zve tě výš a [F]výš!
+[G]S Ním [C]závrať necí[D]tíš,
+[Hm7]závrať ne[G]cítíš,
+[C]závrať ne[F]cítíš.
+{end_of_chorus}
+
+{start_of_verse}
+2. Když ono vysezený hnízdečko
+je vysezený hnízdečko.
+Je v něm pohodlí a bezpečí,
+zázemí a závětří,
+tatínek a maminka,
+zkrátka celá rodinka,
+bedýnka s obrázky,
+v ledničce klobásky
+a v ložnici - vyhřátá postýlka.
+A navzdory všemu slyšíš:
+"Naplno roztáhni křídla a leť!"
+
+{end_of_verse}
+
+{start_of_verse}
+3. Seber svou odvahu, svůj strach,
+svou povahu, své ááách,
+zvedni křídlo pravý,
+zvedni křídlo levý,
+pěkně se nadechni,
+hezky se uvolni,
+máš-li závrať, zavři oči,
+nohy švihnou, hop a skočíš
+do Božího prostoru.
+A pak jen máváš, máváš
+máváš, máváš, máváš, máváš...
+{end_of_verse}

@@ -14,7 +14,7 @@ Because I need to kn[Dm]ow [Bb]
 {end_of_verse}
 
 {start_of_chorus}
-You say I am l[F]oved when I can't feel a t[Am]hing  
+R: You say I am l[F]oved when I can't feel a t[Am]hing  
 You say I am s[Dm]trong when I think I am we[Bb]ak
 You say I am h[F]eld when I am falling s[Am]hort
 And when I don't bel[Dm]ong, oh You say I am Yo[Bb]urs
@@ -23,14 +23,14 @@ What You say [Dm]of me, I be[Bb]lieve
 {end_of_chorus}
 
 {start_of_verse}
-The [F]only thing that matters now
+2. The [F]only thing that matters now
 Is [Am]everything You think of [Dm]me [Bb]   
 In [F]You I find my worth
 In You [Am]I find my identi[Dm]ty [Bb]
 {end_of_verse}
 
 {start_of_bridge}
-[F]Taking all I have and now I'm [Am]laying it 
+B: [F]Taking all I have and now I'm [Am]laying it 
 At Your fe[Dm]et [Bb2] 
 [F]You have every failure, God
 [Am]You'll have every victo[Dm]ry [Bb]
