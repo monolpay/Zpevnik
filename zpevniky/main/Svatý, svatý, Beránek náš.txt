@@ -1,0 +1,30 @@
+{title: Svatý, svatý, Beránek náš}
+{artist: Kari Jobe}
+
+{start_of_verse}
+1. [D]Svatý, svatý [Am]Beránek náš
+[C]jenž byl oběto[G]ván.
+[D]Zpívej Králi [Am]novou píseň,
+[C]v lásce vládne [G]nám.
+{end_of_verse}
+
+{start_of_chorus}
+R: [D]Svatý, svatý, svatý [Am]je Pán Bůh všemohoucí,
+[C]jenž byl a je a přichá[G]zí.
+[D]Se vším, co stvořil, zpívám, [Am]ať Krále oslavím.
+[C]Ty sám jsi vše, co mám, já s [G]úctou Tě chválím.
+{end_of_chorus}
+
+{start_of_verse}
+2. [D]Z duhy šat má, [Am]barvami září,
+[C]před ním jdou blesky, [G]hromy bijí.
+[D]Síla a požehnání, [Am]sláva Ti náleží,
+[C]vždyť jen Ty jediný jsi [G]Král.
+{end_of_verse}
+
+{start_of_verse}
+3. [D]Úžas cítím, [Am]cítím bázeň,
+[C]když jen zazní jméno [G]Tvé.
+[D]Ve jménu Tvém je síla, [Am]dech a živá voda,
+[C]žasnu nad tím tajemst[G]vím!
+{end_of_verse}

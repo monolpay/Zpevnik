@@ -1,0 +1,30 @@
+{title: Pokoj}
+{artist: Alive}
+
+{start_of_verse}
+1. [G] Jsidárcem života a [Em]dárcem pokoje,
+[C]Duchu Svatý přijď a změň ty postoje,
+[G] cove mně jsou a [D]nejsou dobré,
+[C]co ve mně jsou a nejsou dobré.
+{end_of_verse}
+
+{start_of_chorus}
+R: [G] Pokoj,[Em]pokoj mi do srdce [C]dej,
+když padám, prosím, mě podepírej.
+[G] Pokoj,[Em]pokoj mi do srdce [C]dej,
+svou láskou mě objímej.
+{end_of_chorus}
+
+{start_of_verse}
+2. [G] Mésrdce se nechvě[Em]je a neděsí,
+[C]já vím, že stále se mnou jsi,
+[G] nadtemnotou [D]jsi zvítězil,
+[C]nad temnotou jsi zvítězil.
+{end_of_verse}
+
+{start_of_bridge}
+B: [C] Ne,pokoj tohoto svě[D]ta, ale Tvůj. (4x)
+[C]Pokoj vám zanechávám, Pokoj vám [D]dávám.
+[C]Svůj Pokoj vám zanechávám, Pokoj vám [D]dávám.
+[C]Pokoj vám zanechávám, Pokoj vám [D]dávám.
+{end_of_bridge}

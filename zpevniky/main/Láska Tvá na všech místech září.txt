@@ -1,0 +1,18 @@
+{title: Láska Tvá na všech místech září}
+{artist: Graham Kendrick}
+
+{start_of_verse}
+1. [G]Láska [C]Tvá na všech [G]místech [D]září,
+[G]v tmách li[C]dem jako [G]slunce [D]září.
+[C]Ježí[D]ši, celý [Hm]svět jsi [Em]ozářil,
+[C]svobo[D]du vězně[Hm]ným jsi vy[Em]hlásil,
+[C]záříš [D]dál, [C]záříš [D]dál.
+{end_of_verse}
+
+{start_of_chorus}
+R: [G]Zář [D]svou dej [C]nám,
+naplň [Am]zem slávou [D]Otce svého,
+[G]dej [D]oheň [C]svůj, rozně[Am]cuj v nás [F]žár. [D]
+[G]Proud [D]milo[C]sti zapla[Am]ví nás i [D]celý národ,
+[G]dej [D]slovo [C]své, ať nám [Am]sví[D]tí [G]v tmách.
+{end_of_chorus}

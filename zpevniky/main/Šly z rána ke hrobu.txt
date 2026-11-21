@@ -1,0 +1,44 @@
+{title: Šly z rána ke hrobu}
+{artist: Miloš Rejchrt}
+
+{start_of_verse}
+1. [F]Šly zrána [Dm]ke hrobu [Gm]Marie [C7]Magdalena
+[F]a matka [Dm]Jakuba [Gm]a ještě [A7]jedna žena
+[Dm]sobě pro útěchu, [G]mrtvému na památku,
+[G7]šly zrána ke hrobu, [C]dva dny po [C7]Velkém pátku.
+{end_of_verse}
+
+{start_of_verse}
+2. [F]Šly zrána [Dm]ke hrobu, [Gm]sotva se [C7]rozednilo,
+[F]oživit [Dm]vzpomínku, [Gm]pomazat [A7]mrtvé tělo,
+[Dm]balzámem zpomalit [G]zánik a zapomnění,
+[G7]na chvíli podržet, [C]co bylo [C7]a co není.
+{end_of_verse}
+
+{start_of_verse}
+3. [F]Šly zrána [Dm]ke hrobu [Gm]a hrob byl [C7]otevřený,
+[F]tak dovnitř [Dm]vstoupily [Gm]zmíněné [A7]již tři ženy,
+[Dm]kampak se poděl ten, [G]za nejž šly držet smutek?
+[G7]Chtěly mu prokázat [C]poslední [C7]dobrý skutek.
+{end_of_verse}
+
+{start_of_verse}
+4. [F]A když si [Dm]říkaly, [Gm]že to snad [C7]není k víře,
+[F]bázeň na [Dm]ně padla [Gm]jak kdysi [A7]na pastýře.
+[Dm]Dva muži stáli tu, [G]šat sněhobílý měli
+[G7]a světlo svítilo, [C]až oči [C7]přecházely.
+{end_of_verse}
+
+{start_of_verse}
+5. [F]Tu ženy [Dm]poklekly, [Gm]sklonily [C7]tváře k zemi
+[F]a muži [Dm]řekli jim: [Gm]"Zbytečně [A7]mezi těmi,
+[Dm]co v prach se navrací, [G]hledáte Pána svého,
+[G7]hroby jsou pro mrtvé, [C]ale ne [C7]pro živého."
+{end_of_verse}
+
+{start_of_verse}
+6. [F]Vzpomeňte, [Dm]co slíbil [Gm]váš Mistr [C7]Ježíš živý,
+[F]a znovu [Dm]čekejte [Gm]veliké [A7]Boží divy.
+[Dm]K čemu jsou balzámy, [G]hroby a mauzolea,
+[G7]když je teď před vámi [C]svátek vzkří[C7]šení těla.
+{end_of_verse}

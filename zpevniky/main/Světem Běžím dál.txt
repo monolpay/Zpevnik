@@ -1,0 +1,30 @@
+{title: Světem běžím dál}
+{artist: ?}
+
+{start_of_verse}
+1. [F]Světem běžím [G]dál jen s Tebou, [C]věčný Pane [Am]můj,
+[F]na cestu mi [G]svítí slovo [C]Tvé. [C7]
+[F]Pokrm můj, můj [G]nápoj je vždy [C]konat vůli [Am]Tvou,
+[Dm]zbraní mou je [G7]svaté jméno [C]Tvé. [C7]
+{end_of_verse}
+
+{start_of_chorus}
+R: [F]Já nemohu [G]říct, že bys mi [C]někdy něco [Am]vzal,
+[F]vždyť všechno co [G]mám je vlastně [C]Tvé. [C7]
+[F]Já mohu jen [G]říct, že mi [C]dáváš stále [Am]víc,
+neko[Dm]nečné množství [G7]lásky nezměr[C]né. [C7]
+{end_of_chorus}
+
+{start_of_verse}
+2. [F]Šťasten běžím [G]dál, když slunce [C]svítí nad hla[Am]vou,
+[F]s vírou běžím [G]dál, když přijde [C]mrak, [C7]
+[F]kam bych jinam [G]šel, když znám teď [C]cestu za te[Am]bou,
+[Dm]v lásce Tvé jsem [G7]svobodný jak [C]pták. [C7]
+{end_of_verse}
+
+{start_of_verse}
+3. [F]A tak běžím [G]dál jen s Tebou, [C]věčný Pane [Am]můj,
+[F]na cestu mi [G]svítí slovo [C]Tvé, [C7]
+[F]srdce chválí, [G]ústa slaví [C]Tebe, Pane [Am]můj,
+[Dm]s Tebou život [G7]nikdy nezšed[C]ne. [C7]
+{end_of_verse}

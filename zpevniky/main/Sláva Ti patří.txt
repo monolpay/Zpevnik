@@ -1,0 +1,37 @@
+{title: Sláva Ti patří}
+{artist: Tomáš Coufal}
+
+{start_of_verse}
+1. [Em7]Přišel Bůh a život za mě [C]dal,
+a[G]men, a[D]men.
+Svým [Em7]tělem, krví vítězem se [C]stal
+a[G]men, a[D]men.
+Na [Em7]kříži mřel, pak vzkříšen [C]byl
+a[G]men, a[D]men.
+Po [Em7]pravici Otce vládne [C]dál
+a[G]men, a[D]men.
+{end_of_verse}
+
+{start_of_chorus}
+R: [G]Sláva Ti [Am]patří, Ty jsi [G]Bůh vždy [C]mocný,
+[G]sláva Ti [Am]patří, Ty jsi [G]Pán. [C]
+Tobě [G]celým srdcem [Am]zpívám, že jsi [G]Bůh vždy [C]mocný,
+[C]velká je [D]sláva [G]Tvá.
+{end_of_chorus}
+
+{start_of_verse}
+2. [Em7]Krev rudá tekla z rukou bezhříš[C]ných
+a[G]men, a[D]men.
+Však [Em7]nezůstal tam viset na kří[C]ži
+a[G]men, a[D]men.
+[Em7]Boží lásky proud teď smáčí [C]nás
+a[G]men, a[D]men.
+[Em7]Haleluja, on se vrátí [C]zas
+a[G]men, a[D]men.
+{end_of_verse}
+
+{start_of_bridge}
+B: Ty jsi ten, který [G]byl,
+Ty jsi ten, který [D]je,
+Ty jsi ten, co se [Em]vrátí k [C]nám.
+{end_of_bridge}

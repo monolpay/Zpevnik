@@ -1,5 +1,5 @@
-{title: }
-{artist: }
+{title: Oceány}
+{artist: Hillsong, Vaňkovi}
 
 {start_of_verse}
 [Dm][C][F][C][B]

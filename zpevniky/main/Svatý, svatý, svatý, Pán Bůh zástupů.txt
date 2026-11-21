@@ -1,0 +1,16 @@
+{title: Svatý, svatý, svatý, Pán Bůh zástupů}
+{artist: Petr Scholtes}
+
+{start_of_verse}
+1. [C]Svatý, svatý, [D]svatý,
+[C]Pán Bůh zástu[D]pů,
+[C]plná jsou nebesa,
+[D]zem Tvojí [C]slá[D]vy.
+{end_of_verse}
+
+{start_of_chorus}
+R: Ho[D]sana, ho[C]sa[D]na,
+zní Bohu [C]na ne[D]bi.
+Ho[D]sana, ho[C]sa[D]na,
+zní Bohu [C]na ne[D]bi.
+{end_of_chorus}

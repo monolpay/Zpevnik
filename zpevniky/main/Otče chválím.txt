@@ -1,0 +1,14 @@
+{title: Otče chválím}
+{artist: Ladislav Štěpán}
+
+{start_of_verse}
+1. /: Otče, [G]chvá[D]lím [Em]jméno Tvé posvěce[C]né,
+[D]Tvé jméno [G]chvá[D]lím, ať je [Em]navěky vyvýše[C]né.[D] :/
+{end_of_verse}
+
+{start_of_chorus}
+R: [G]Hale[D]lu[Em]ja, jen [C]Tobě zní dík chvály [G]mé.
+Hale[D]lu[Em]ja, jen [C]Tobě zní dík chvály [G]mé.
+Hale[D]lu[Em]ja, jen [C]Tobě zní dík chvály [G]mé.
+Hale[D]lu[Em]ja, jen [C]Tobě zní dík chvály [G]mé. [D]
+{end_of_chorus}
