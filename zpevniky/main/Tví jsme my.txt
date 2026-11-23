@@ -1,0 +1,22 @@
+{title: Tví jsme my}
+{artist: Michal Otřísal}
+
+{start_of_verse}
+1. [G6]Tví jsme [G]my, [G6]nás shromáž[G]dila v jedno [D]láska [A]Tvá.[D][A]
+[G6]Náš hlas [G]zní, [G6]rodina Tvých [G]dětí zpívá, [D]Králi [A]náš.[D]
+{end_of_verse}
+
+{start_of_chorus}
+R: [F#]Volá: [Hm7]Abba, [F#m7]Otče, [Em7]velká [A]moc je [Dmaj7]Tvá.
+[Hm]Abba, [F#m7]Otče, [G#maj7]velká [A]moc je [D]Tvá.
+{end_of_chorus}
+
+{start_of_verse}
+2. [G6]Tví jsme [G]my, [G6]zpíváme, [G]vždyť nám vládne [D]láska [A]Tvá.[D][A]
+[G6]Náš hlas [G]zní, [G6]rodina Tvých [G]dětí zpívá, [D]Králi [A]náš.[D]
+{end_of_verse}
+
+{start_of_chorus}
+R: [F#]Zpívá: [Hm7]Abba, [F#m7]Otče, [Em7]svaté [A]jméno [Dmaj7]Tvé.
+[Hm]Abba, [F#m7]Otče, [G#maj7]svaté [A]jméno [D]Tvé.
+{end_of_chorus}

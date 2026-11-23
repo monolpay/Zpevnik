@@ -1,0 +1,17 @@
+{title: Tvoje jméno vyznávám}
+{artist: Karel Řežábek}
+
+{start_of_verse}
+1. [G]Tvoje [C]jméno vyzná[D]vám,[C]
+[G]rád Ti [C]zpívám svoji [D]chválu,[C]
+[G]jsem tak [C]vděčný, že Tě [D]znám,[C]
+[G]jsem tak [C]vděčný za Tvou [D]spásu.[C]
+{end_of_verse}
+
+{start_of_chorus}
+R: [G]Přišel jsi k [C]nám z nebe[D], [C]ukázat smě[G]r,
+dát v oběť [C]sám [D]sebe, jak [C]Bůh to [G]chtěl.
+Z kříže [C]byls do hrobu [D]dán,
+třetí [H]den jsi z mrtvých [Emi]vstal,
+Tvoje [Ami7]jméno [D]vyzná[G]vám.
+{end_of_chorus}

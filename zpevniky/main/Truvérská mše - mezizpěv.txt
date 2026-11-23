@@ -1,0 +1,28 @@
+{title: Truvérská mše - mezizpěv}
+{artist: Petr Eben}
+
+
+
+{start_of_verse}
+1. [Dm]Nám rados[Gm]tí jsi, [Am]Pane, [C]Ty,
+[Am]a já to [F]dlou[Gm]ho [C]nevě[Dm]děl,
+snad proto, [Gm]že jsem [B]nevi[C]děl,
+jak [Am]slza [Dm]v slun[C]ci [Dm]roztá[G]va[A]la.
+Nám [Dm]rados[Gm]tí jsi, [Am]Pane, [C]Ty, [Am]jsi, [F]P[B]a[C]ne, [Dm]Ty.
+{end_of_verse}
+
+{start_of_verse}
+2. [Dm]Nám rados[Gm]tí jsi, [Am]Pane, [C]Ty,
+[Am]a já to [F]dlou[Gm]ho [C]nevě[Dm]děl,
+snad proto, [Gm]že jsem [B]necí[C]til,
+že [Am]dětská [Dm]ru[C]ka [Dm]je tak [G]ma[A]lá.
+Nám [Dm]rados[Gm]tí jsi, [Am]Pane, [C]Ty, [Am]jsi, [F]P[B]a[C]ne, [Dm]Ty.
+{end_of_verse}
+
+{start_of_verse}
+3. [Dm]Nám rados[Gm]tí jsi, [Am]Pane, [C]Ty,
+[Am]a já to [F]dlou[Gm]ho [C]nevě[Dm]děl,
+to proto, [Gm]že jsem [B]nepři[C]jal
+[Am]slova, jež [Dm]po[C]koj [Dm]zname[G]na[A]la.
+Nám [Dm]rados[Gm]tí jsi, [Am]Pane, [C]Ty, [Am]jsi, [F]P[B]a[C]ne, [Dm]Ty.
+{end_of_verse}

@@ -1,0 +1,23 @@
+{title: Truvérská mše - závěr}
+{artist: Petr Eben}
+
+{start_of_verse}
+1. [D]Za to, že v stromech [Gbm]přečtu [Hm]život
+[F]a jaro [C]v pevné [Dm]závě[G]ji,
+[D]že potkal jsem tě [Gbm]dneska [Hm]ráno,
+[F]za to ti, [C]Pane, [Am]děku[D]ji.
+{end_of_verse}
+
+{start_of_verse}
+2. [D]Za to, že mnoho [Gbm]věno[Hm]vals mi,
+[F]chválit tě [C]mohu [Dm]vroucně[G]ji,
+[D]že vzal sis, co by [Gbm]tíži[Hm]lo mě,
+[F]za to ti, [C]Pane, [Am]děku[D]ji.
+{end_of_verse}
+
+{start_of_verse}
+3. [D]Za to, že doved [Gbm]jsi mě [Hm]blízko,
+[F]s bratry i [C]já tě [Dm]milu[G]ji,
+[D]že potkal jsem tě [Gbm]také [Hm]večer,
+[F]za to ti, [C]Pane, [Am]děku[D]ji.
+{end_of_verse}

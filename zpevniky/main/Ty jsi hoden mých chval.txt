@@ -1,0 +1,30 @@
+{title: Ty jsi hoden mých chval}
+{artist: Ladislav Štěpán}
+
+{start_of_verse}
+1. Každou [Dm]pýchu v duši své teď odklá[C]dám,
+každé [Dm]vyvýšení své jen Tobě [C]dávám.
+Není [Em]žádný nad Tebou, kdo by byl [D]výš,
+jen Ty jsi hoden [C]chvály,
+[A]Ty jsi hoden [C]chvály.
+{end_of_verse}
+
+{start_of_verse}
+2. Vola[Dm]jícím jméno Tvé Ty jsi vždy [C]blíž,
+milu[Dm]jící, stále stejný zůstá[C]váš jak dřív.
+Dals mi [Em]poznat lásku svou, Tvůj pokoj [D]mám,
+jen Tobě patří [C]sláva,
+[A]Tobě patří [C]sláva.
+{end_of_verse}
+
+{start_of_chorus}
+R: Ty jsi [Am]hoden mých [Em]chval, můj [G]Krá[D]li,
+Ty jsi [Am]hoden [Em]díků mých, vší [C]slá[D]vy.
+Ve Tvé [Am]náruči [Em]být,
+živo[G]tem svým Tebe [D]ctít.
+{end_of_chorus}
+
+{start_of_bridge}
+B: /: Ty jsi [C]Králem mým, [Em]máš můj dík,
+[Am]uctívám jen [D]jméno Tvé. :/
+{end_of_bridge}

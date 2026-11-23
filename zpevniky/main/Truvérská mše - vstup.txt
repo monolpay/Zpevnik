@@ -1,0 +1,42 @@
+{title: Truvérská mše - mezizpěv}
+{artist: Petr Eben}
+
+{start_of_chorus}
+R: [Dm]Čeká mne [Am]den, a [B]když tě potkám, [F]Pane,
+po[Gm]nesu lehčej [Dm]jeho [Am]žár,
+[Dm]čeká mne [Am]noc a [B]cokoliv se [F]stane,
+ne[Gm]stihne [Am]moji [B]du[C]ši [Dm]zmar.
+{end_of_chorus}
+
+{start_of_verse}
+1. Už [Dm]spojily se naše cesty,
+[B]tys nám dal [Gm]prohlé[Dm]dnout,
+už [Dm]spojily se naše cesty,
+[Gm]tys nám dal [A]prohlé[Dm]dnout.
+
+A [Gm]bratru platí [C7]odpuštění,
+[F]úsměv [B]můj a [F]pozdra[B]vení,
+[Am]k bratru [Dm]chci teď [Gm]use[C]dnout.
+{end_of_verse}
+
+{start_of_verse}
+2. Už [Dm]spojily se naše cesty,
+[B]tys nám dal [Gm]prohlé[Dm]dnout,
+už [Dm]spojily se naše cesty,
+[Gm]tys nám dal [A]prohlé[Dm]dnout.
+
+A [Gm]tobě platí [C7]naše prosby,
+[F]bychom [B]byli [F]spole[B]čenství,
+[Am]které[Dm]mu dáš [Gm]pomoc [C]svou.
+{end_of_verse}
+
+{start_of_verse}
+3. Už [Dm]spojily se naše cesty,
+[B]tys nám dal [Gm]prohlé[Dm]dnout,
+už [Dm]spojily se naše cesty,
+[Gm]tys nám dal [A]prohlé[Dm]dnout.
+
+A [Gm]upřímné jsou [C7]naše prosby,
+[F]abys [B]nám dal [F]odpu[B]štění,
+[Am]mysl [Dm]vždycky [Gm]pokor[C]nou.
+{end_of_verse}

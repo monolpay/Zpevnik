@@ -1,0 +1,14 @@
+{title: Tvůj plamen}
+{artist: Ladislav Štěpán}
+
+{start_of_verse}
+/: Tvůj [A]plamen osvě[G]cuje naši [D]tvář,
+Tvůj [A]plamen dává [G]oslnivou [D]zář,
+Tvůj [A]plamen, mocí [G]Ducha vyli[D]tý,
+Tvůj [A]plamen máme v [G]sobě ukry[D]tý. :/
+{end_of_verse}
+
+{start_of_chorus}
+/: [A]Dej nám, Otče [D]náš, ten [G]plamen vzní[D]tit v [C]žár.[G]
+[A]Dej nám, Otče [D]náš, být [G]světlem Tvým a [E]hřát. :/
+{end_of_chorus}

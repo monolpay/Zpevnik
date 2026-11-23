@@ -1,0 +1,28 @@
+{title: Truvérská mše - obětování}
+{artist: Petr Eben}
+
+{start_of_chorus}
+R: [Dm]Chleba [C]a [Dm]vín[C]o [Dm]ne[Gmi]se[A]me,
+[Dm]přij[C]mi ty [B]dary, [F]pro[Gm]sí[Am]-[Dm]me.
+{end_of_chorus}
+
+{start_of_verse}
+1. [Gm]Mám prázdné [C]ruce, [C7]Pane,
+[F]že skut[Dmi]kem [Gm]jsem[Ami] je[B]nena[C]plnil,
+[Gm]mám těžké [C]nohy, [C7]Pane,
+[F]bližní[Dmi]mu [Gmi]jsem [F]se [B]nepři[Gmi]blí[A]žil.
+{end_of_verse}
+
+{start_of_verse}
+2. [Gm]Mám němá [C]ústa, [C7]Pane,
+[F]vždyť sou[Dmi]cit [Gm]svůj [Ami]jsem [B]ode[C]přel,
+[Gm]jsem uza[C]vřený, [C7]Pane,
+[F]dej, a[Dmi]bych [Gmi]všem [F]se [B]o[Gmi]tev[A]řel.
+{end_of_verse}
+
+{start_of_verse}
+3. [Gm]Mám v sobě [C]bolest, [C7]Pane,
+[F]že to[Dmi]lik [Gm]vě[Ami]cí [B]zra[C]nilo,
+[Gm]mám také [C]touhu, [C7]Pane,
+[F]aby [Dmi]tě [Gmi]srd[F]ce [B]po[Gmi]zna[A]lo.
+{end_of_verse}

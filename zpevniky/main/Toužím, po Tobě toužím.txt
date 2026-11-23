@@ -1,0 +1,17 @@
+{title: Toužím, po Tobě toužím}
+{artist: Horákovi}
+
+{start_of_verse}
+1. /:[G]Toužím, po Tobě [C2]toužím,[Ami7] toužím Tě [D]poznávat,
+Tvou [G]láskou, věčnou [C2]láskou [Ami7]nechat se [D]objímat. :/[Dsus4][D]
+{end_of_verse}
+
+{start_of_chorus}
+R: /:[G]Bože, má [C]spáso, veď mě dál,[D] [Dsus4][D]
+[G]v nádvořích [C]Tvých chci být i [D]já.[Dsus4][D]:/
+{end_of_chorus}
+
+{start_of_verse}
+2. /:[G]Hledám, Tebe [C2]hledám,[Ami7] křídlaTvá jsou [D]skrýší mou,
+[G]chválím, Tebe [C2]chválím, [Ami7]objímáš mě [D]mocí svou. :/[Dsus4][D]
+{end_of_verse}

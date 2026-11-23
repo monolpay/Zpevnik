@@ -1,0 +1,26 @@
+{title: Ty jsi jediný Bůh}
+{artist: Michaela Romanská}
+
+{start_of_verse}
+1. [E]Ty jsi jediný Bůh,
+[A2]první a poslední,
+nikdy [A]nebyl a nebude více
+nikdo, [E]jako jsi ty.[A2]
+
+[E]Ty máš největší moc,
+ty jsi [A2]svrchovaný,
+nikdy [A]nebyl a nebude více
+nikdo, [E]jako jsi ty.
+{end_of_verse}
+
+{start_of_chorus}
+R: Jsi [E]největší ve své síle
+a [A2]největší ve své moci.
+[A]Hrozný jsi ve svém hněvu,
+[E]největší ve svém [A2]milování.
+
+[E]Svatý ve všech svých skutcích,
+[A2]moudrý a dokonalý.
+Nikdy [A]nebyl a nebude více
+nikdo, [E]jako jsi ty.
+{end_of_chorus}
