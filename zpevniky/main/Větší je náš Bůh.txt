@@ -1,0 +1,26 @@
+{title: Větší je náš Bůh}
+{artist: Chris Tomlin}
+
+{start_of_verse}
+1. [Em]Vodu ve [C]víno změnil[G]s,
+[Em]slepé o[C]či uzdravil[G].
+Není žá[Am]dný jako Ty, Bůh [D]náš.
+
+2. [Em]Do temno[C]ty záříš ná[G]m,
+[Em]z popela n[C]ás pozvedá[G]š.
+Není žád[Am]ný jako Ty, Bůh [D]náš.
+{end_of_verse}
+
+{start_of_chorus}
+R: [Em]Větší je náš Bůh, [C]nade vše silný,
+[G]větší jsi, náš Bože, než[D]-li kdo jiný.
+[Em]Uzdravitel náš [C]s obrovskou mocí,
+náš [G]Bůh, náš [D]Bůh.
+{end_of_chorus}
+
+{start_of_bridge}
+B: [Em]A když je náš Bůh s námi,
+[C]kdo nám pak může bránit?
+[G]A když je náš Bůh s námi,
+[D]co může proti být?
+{end_of_bridge}

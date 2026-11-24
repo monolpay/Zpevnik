@@ -1,0 +1,33 @@
+{title: Nádherný}
+{artist: Marek Čevela}
+
+{start_of_verse}
+1. Ve Tvém [Am]srdci je [F]soucit a [C]slitová[G]ní,
+prapor [Am]lásky [F]Tvé nade [G]mnou.
+S Tebou [Am]setkat se [F]toužím [G]tváří v [Am]tvář,
+navždy v [F]blízkosti [G]Tvé pak [Am]stát.
+Jak je [F]nádherné [G]víc Tě [C]znát.
+{end_of_verse}
+
+{start_of_chorus}
+R: Nádher[F]ný, pro mě [C]vším jsi [G]sám,
+nádher[F]ný svatý [Am]můj jsi [G]Pán.
+[F]Hoden jsi [C]slávy, jsi [G]králů [Am]Král.
+Jak je [F]nádherné [G]víc Tě [C]znát.
+{end_of_chorus}
+
+{start_of_verse}
+2. Ve Tvých [Am]rukou je [F]právo, jsi [C]spravedli[G]vý,
+jas Tvé [Am]tváře jak [F]úsvit nade [G]mnou.
+Ty jsi [Am]Stvořitel, [F]Bůh, mého [G]života [Am]Pán,
+Tobě [F]chválu a [G]díky [Am]vzdám.
+Jak je [F]nádherné [G]víc Tě [C]znát.
+{end_of_verse}
+
+{start_of_verse}
+3. Budem [Am]chválit Tvé [F]jméno, ať [C]svaté je v [G]nás,
+Tebe [Am]chválit a [F]vzývat budem [G]dál!
+Ve Tvé [Am]moci a [F]slávě chcem na [G]věky [Am]žít,
+v srdci [F]vděčnost a [G]lásku [Am]mít.
+Jak je [F]nádherné [G]blíž Ti [C]být.
+{end_of_verse}

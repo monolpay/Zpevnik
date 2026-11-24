@@ -1,0 +1,21 @@
+{title: Všechno, co mám}
+{artist: Arthur Heider}
+
+{start_of_verse}
+1. [Em]Na nebe[D]sích je Tvůj [G]trůn,
+[C]v moci a [D]slávě vládneš [G]nám.
+[Em]Zástupy [D]hvězd se Ti [G]klaní,
+[C]mohutné [D]hory Tvé jméno [G]ctí.
+[Em]Upřímnou [D]chválu chci Ti [G]dát,
+[C]vyznat, že [D]Ty jsi můj [G]Pán.
+{end_of_verse}
+
+{start_of_chorus}
+R: Všechno, co [C][G]mám,
+dal jsi mi, [Em]Pane, z lásky [D]své.
+Vzdávám Ti [C][G]dík
+za kříž, cos [Em]nesl kvůli [D]mně.
+Kvůli [C]mně. [G][Em] [D]
+
+[C] [G] [Em] [D]
+{end_of_chorus}

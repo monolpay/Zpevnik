@@ -1,0 +1,20 @@
+{title: Veď mě z vnějších nádvoří}
+{artist: Karel Řežábek}
+
+{start_of_verse}
+Veď mě [Hm]z vnějších nádvoří,
+[Gmaj7]dál až za oltář,
+[A2]tam na svaté místo,
+kde [Hm]zahlédnu Tvoji [A2]tvář.
+Kolem [Hm]těch, co v chrámu slouží,
+[Gmaj7]dál než k chválení,
+až [A2]tam, kde mlčí lidská moudrost
+a Tvůj [Em7]hlas tiše [A]zní.
+{end_of_verse}
+
+{start_of_chorus}
+R: Veď mě [Hm7]dál do ticha, Svatyně [A2]svatých,
+veď mě [Em7]dál skrze [F#m7]krev [A]Berán[Hm7]ka. [Gmaj7]
+Veď mě [Hm7]dál do ticha, Svatyně [A2]svatých,
+veď mě [Em]dál, tady [F#m7]jsem, veď mě [Gmaj7]dál.
+{end_of_chorus}

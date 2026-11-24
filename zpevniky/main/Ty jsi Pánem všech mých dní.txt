@@ -1,0 +1,25 @@
+{title: Ty jsi Pánem všech mých dní}
+{artist: Karel Řežábek}
+
+
+{start_of_chorus}
+R: Ty jsi [G]Pánem [C]všech mých [D]dní,
+plníš [Em]mé [C]srdce lás[D]kou.
+Ty jsi [G]Pánem [C]všech mých [D]dní,
+Tvou cestou [C]rád vést se [D]dám.
+
+Ty jsi [G]Pánem [C]všech mých [D]dní,
+když Tě [Em]volám, [C]vždy jsi [D]blízko.
+Ty jsi [G]Pánem [C]všech mých [D]dní,
+Tobě [C]patřím i [D]se vším co [G]mám.
+{end_of_chorus}
+
+{start_of_verse}
+1. [Am]Příliš dlouho [G]už jsem sloužil
+[Am]pánům [G]falešným,
+[Am]příliš dlouho [G]jsem byl spouta[D]ný,
+
+[Am]Ty jsi mi [G]pouta zlámal,
+[Am]Ty jsi mě [G]osvobodil,
+[Am]Ty mě [Hm]vyvádíš [F]do vítězných [H]dní.
+{end_of_verse}

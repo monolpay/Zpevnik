@@ -1,0 +1,28 @@
+{title: Ty jsi mi vším}
+{artist: Petr Chlouba}
+
+{start_of_verse}
+1. [F]Jsi silou [C]mou, když umdlé[Dm]vám,
+jsi poklad, [F]který nalé[B]zám.
+Ty jsi mi [F]vším, [C]co [F]mám.
+
+2. [F]Klenotem [C]vzácným ses mi [Dm]stal,
+Tebe jen [F]blázen by se [B]vzdal.
+Ty jsi mi [F]vším, [C]co [F]mám.
+{end_of_verse}
+
+{start_of_chorus}
+R: [F]Krá[C]li, [Dm]Berán[F]ku,
+[B]chválím [F]jmé[C]no [F]Tvé.[C]
+[F]Krá[C]li, [Dm]Berán[F]ku,
+[B]chválím [F]jmé[C]no [F]Tvé.
+{end_of_chorus}
+
+{start_of_verse}
+3. [F]Vzal jsi můj [C]hřích, můj kříž, můj [Dm]žal.
+Tobě vzdám [F]díky, že jsem [B]vstal.
+Ty jsi mi [F]vším [C]co [F]mám.
+4. [F]Když padám, [C]Ty mne pozve[Dm]dáš,
+v poušti mi [F]pohár dolé[B]váš.
+Ty jsi mi [F]vším, [C]co [F]mám.
+{end_of_verse}

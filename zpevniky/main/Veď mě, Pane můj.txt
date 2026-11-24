@@ -1,0 +1,19 @@
+{title: Veď mě, Pane můj}
+{artist: Petr Brůžek}
+
+{start_of_verse}
+1. [Em]Veď mne, Pane [Hm]můj[A], veď mne k sobě [Em7]blíž,[F#m7/E][Em9][A2/E]
+[Em]abych, Pane [Hm]můj[A], měl sílu nést svůj [Em7]kříž.[F#m7/E][Em9][A2/E]
+{end_of_verse}
+
+{start_of_chorus}
+R: [G]Toužím za Tebou [D]jít, svůj [C]život chci Ti [A]dát,
+jsi má [Em]láska, má [Hm]naděje, můj [A]Bůh.
+Je [G]radost pro Tebe [D]žít, jako [C]vítěz v boji [A]stát,
+jsi má [Em]láska, má [Hm]naděje, můj [A]Bůh
+{end_of_chorus}
+
+{start_of_verse}
+2. [Em]Veď mne, Pane [Hm]můj[A], po svých cestách [Em7]dál,[F#m7/E][Em9][A2/E]
+[Em]stále při mě [Hm]stůj[A], jen v Tobě sílu [Em7]mám.[F#m7/E][Em9][A2/E]
+{end_of_verse}

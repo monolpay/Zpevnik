@@ -1,0 +1,16 @@
+{title: Co může mí hříchy smýt}
+{artist: Boža Novák}
+
+{start_of_verse}
+[Am] Co může mí hří[G]chy [C]smýt?
+[F]Nic, to jenom [C]krev Je[G]ží[Am]še. [G][C]
+Co mě zcela ob[G]no[Am]ví?
+[F]Nic, to jenom [C]krev Je[G]ží[Am]še. [G][C]
+{end_of_verse}
+
+{start_of_chorus}
+Jak mocný je[G]jí [Am]proud, [F]
+Dává mi proci[C]tnout. [G][Am]
+Nic mě vin nez[G]ba[C]ví.
+[F]Nic, to jenom [C]krev Je[G]ží[Am]še. [G][C]
+{end_of_chorus}

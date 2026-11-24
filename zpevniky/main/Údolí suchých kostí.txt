@@ -1,4 +1,4 @@
-{title: Divné to věci dnes}
+{title: Údolí suchých kostí}
 {artist: ?}
 
 {start_of_chorus}
