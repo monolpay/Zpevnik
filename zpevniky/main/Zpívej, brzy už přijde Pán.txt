@@ -1,0 +1,14 @@
+{title: Zpívej, brzy už přijde Pán}
+{artist: Jiří Černý}
+
+{start_of_verse}
+[Hm]Zpí[F#m]vej, [Hm] brzyuž [A]přijde [D]Pán,
+[Hm]zpí[E]vej, [F#m]brzy už [E]přijde [A]Král.
+{end_of_verse}
+
+{start_of_chorus}
+Září [Hm]na nebi zname[E]ní,
+přichá[A]zí vykoupe[D]ní,
+modli se a [Hm]miluj, modli se a [E]služ,
+do konce vytr[F#]vej.
+{end_of_chorus}

@@ -1,0 +1,44 @@
+{title: Zemi pokryl šedej stín}
+{artist: Josed Hrubý}
+
+{start_of_verse}
+1. [F#m]Zemi pokryl šedej [D]stín
+(zemi pokryl šedej [E]stín),
+nad krajinou zjev se [F#m]stal
+(nad krajinou zjev se stal).
+Kdo se zbaví bídných [D]vin
+(kdo se zbaví bídných [E]vin)?
+Kdo má právo žít si [F#m]dál?
+{end_of_verse}
+
+{start_of_chorus}
+R1: Svět jenom [A]kříž, svět jenom [E]kříž
+ti [F#m]za tvou lásku dal.
+Svět jenom [A]kříž, svět jenom [E]kříž
+pro Tebe [F#m]měl.
+Teď hledá [A]skrýš, teď hledá [E]skrýš,
+před tím, [F#m]co kdy udě[D]lal,
+á___[Hm][E]aby zapo[F#m]mněl.
+Nánánánáná  [D][E][F#m][D][E][F#m]
+{end_of_chorus}
+
+{start_of_verse}
+2.[F#m] Z opony teď zůstal [D]cár,
+(z opony teď zůstal [E]cár,)
+duše má už k Otci [F#m]blíž
+(duše má už k Otci blíž),
+Věrných přátel zbylo [D]pár
+(věrných přátel zbylo [E]pár),
+spoutává je zemská [F#m]tíž.
+{end_of_verse}
+
+{start_of_chorus}
+R2:Bijem se [A]dál, bijem se [E]dál
+s láskou, [F#m]která krvácí,
+bijem se [A]dál, bijem se [E]dál
+za štěstí [F#m]v nás.
+Někdo to [A]vzdal, jiný se [E]smál,
+někdo se [F#m]domů nevra[D]cí,
+á___[Hm][E], bijem se [F#m]dál.
+Nánánánáná  [D][E][F#m][D][E][F#m]
+{end_of_chorus}

@@ -1,0 +1,34 @@
+{title: Zpívej haleluja, zpívej}
+{artist: Jindra Marvánová Toušková}
+
+{start_of_verse}
+1. [D]Zpívej haleluja, [A]zpívej haleluja,
+[G]zpívej spasení mé je [A]Ježíš.
+[D]Koupil mne svojí Krví, [A]drahou nevinou Krví,
+[G]koupil mne svojí Krví [A]Ježíš, Je - [Hmi]žíš.
+A - [Emi]- - - [Hmi]men.
+{end_of_verse}
+
+{start_of_verse}
+2. [D]Jásej halejuja, [A]jásej haleluja,
+[G]jásej, smíření dal mi [A]Ježíš.
+[D]Zmíral za moje víny, [A]on sám tolik nevinný,
+[G]zmíral za moje viny [A]Ježíš, Je - [Hmi]žíš.
+A - [Emi]- - - [Hmi]men.
+{end_of_verse}
+
+{start_of_verse}
+3. [D]Tančím halejuja, [A]tančím haleluja,
+[G]tančím, vzkříšení dal mi [A]Ježíš.
+[D]Přijde, on mi to slíbil, [A]příjde - vždyť mi to slíbil,
+[G]příjde s mocí a slávou [A]Ježíš, Je - [Hmi]žíš.
+A - [Emi]- - - [Hmi]men.
+{end_of_verse}
+
+{start_of_verse}
+4. [D]Hrajte na harfu, loutnu, [A]hrajte na buben, flétnu,
+[G]hrajte k oslavě jména [A]Ježíš.
+[D]Hrajte na housle, píšťalu, [A]hrajte na cimbál, kytaru,
+[G]hrajte, vítězem stal se [A]Ježíš, Je - [Hmi]žíš.
+A - [Emi]- - - [Hmi]men.
+{end_of_verse}

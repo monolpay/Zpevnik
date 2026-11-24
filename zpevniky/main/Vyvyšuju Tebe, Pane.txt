@@ -1,0 +1,14 @@
+{title: Vyvyšuju Tebe, Pane}
+{artist: Ota Pinker}
+
+{start_of_verse}
+[C]Vyvyšuju Tebe, Pane[G], nad tímto [F2]dnem.
+[C]Vyvyšuju Tebe, Pane[G], nad každým [F2]člověkem.
+[C]Vyvyšuju Tebe, Pane[G], nad vším, co [F2]stvořeno jest.
+[C]Vyvyšuju Tebe, Pane[G], i nad svým [F2]životem.
+[(Fmaj7/G)] [(F6/G)]
+{end_of_verse}
+
+{start_of_chorus}
+R: /: [C]Vyvyšuju Tvoje jmé[G]no nad každé [F]jméno [(Am)] [(G)] :/
+{end_of_chorus}

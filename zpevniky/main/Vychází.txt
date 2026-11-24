@@ -1,0 +1,38 @@
+{title: Vychází}
+{artist: Bob Flídr}
+
+{start_of_verse}
+1. Vychá[C]zí, vychá[Gm]zí, vychá[F]zí na le[C]sem,
+[G7]zlata[C]vej kama[Gm]rád papr[F]skem budí [C]zem
+a [Em]křičí: „[Am]Vzhůru, malej [F]spáči, [C]ťuk, ťuk na ví[G]čka,
+odmo[C]távám zlatý [Gm]nitky [Dm] zklubí[C]čka.“
+
+Vychá[C]zí, vychá[Gm]zí, vychá[F]zí lidem [C]vstříc,
+[G7]zlata[C]vej kama[Gm]rád vidět [F]je víc a [C]víc,
+a [Em]křičí: „[Am]Vzhůru, malej [F]spáči, [C]ťuk, ťuk na ví[G]čka,
+odmo[C]távám zlatý [G]nitky ze zla[F]týho klubí[C]čka.“
+{end_of_verse}
+
+{start_of_chorus}
+R: Jen se [Am]toč a jen [F]skákej, smích je [C]dobrej společ[G]ník.
+[Em]Pána [Am]chval za dar [F]světla, v písni [C]odešli svůj [Em7]dík.
+{end_of_chorus}
+
+{start_of_verse}
+2. Vychá[C]zí, vychá[Gm]zí, vychá[F]zí s přesno[C]stí,
+[G7]zlata[C]vej kama[Gm]rád, zlatem [F]kraj poho[C]stí
+a [Em]křičí: „[Am]Vzhůru malej [F]spáči, [C]ťuk, ťuk budí[G]ček,
+je čas [C]poodmykat [Gm]klíčem [Dm]zámky u ví[C]ček.“
+
+Vychá[C]zí, vychá[Gm]zí, vychá[F]zí bez ře[C]čí,
+[G7]zlata[C]vej kama[Gm]rád, ze tmy [F]zem vylé[C]čí
+a [Em]křičí: „[Am]Vzhůru malej [F]spáči, [C]ťuk, ťuk budí[G]ček,
+je čas [C]poodmykat [G]klíčem rána [F]zámky u ví[C]ček.“
+{end_of_verse}
+
+{start_of_verse}
+3. Vychá[C]zí, vychá[Gm]zí, vychá[F]zí lidem [C]vstříc,
+[G7]zlata[C]vej kama[Gm]rád vidět [F]je víc a [C]víc,
+a [Em]křičí: „[Am]Vzhůru, malej [F]spáči, [C]ťuk, ťuk na ví[G]čka,
+odmo[C]távám zlatý [G]nitky ze zla[F]týho klubí[C]čka.“
+{end_of_verse}

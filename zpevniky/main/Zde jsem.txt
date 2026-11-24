@@ -1,0 +1,38 @@
+{title: Zde jsem}
+{artist: Tim Hughes}
+
+{start_of_verse}
+1. [D]K nám když jsi [A]vstoupil,
+tvá [Em]zář ve tmě [G]vzplála,
+[D]tvůj čin mi [A]dal zahlé[G]dnout
+[D]krásu, co [A]dává
+mi [Em]touhu tě [G]chválit,
+[D]v blízkosti [A]tvé navždy [G]žít.
+{end_of_verse}
+
+{start_of_chorus}
+R: Zde jsem, chci tě [D]chválit,
+před tebou se [A/D]sklánět,
+zde jsem a chci [D/F#]říct,
+že jsi můj [G]Pán.
+Jsi nade všechno [D]krásný,
+hoden chval a [A/D]úcty,
+nade všechno [D/F#]nádherný
+ty [G]sám.
+{end_of_chorus}
+
+{start_of_verse}
+2. [D]Králi všech [A]dnů,
+který [Em]vládneš ve [G]slávě,
+[D]byls' v nebe[A]sích uctí[G]ván.
+[D]Zem, dílo [A]tvé,
+byla [Em]místem tvé [G]bídy,
+[D]z lásky když [A]snížil ses k [G]nám.
+{end_of_verse}
+
+{start_of_bridge}
+B: /: [A] Az lásky k [D/F#]nám
+jsi [G]snášel kříž,
+[A] costál můj [D/F#]hřích,
+ty [G]sám jen víš. :/
+{end_of_bridge}

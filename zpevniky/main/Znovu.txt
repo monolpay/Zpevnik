@@ -1,0 +1,27 @@
+{title: Znovu}
+{artist: Matt Redman}
+
+{start_of_verse}
+1. [D]Přemýš[A/D]lím nad [G/D]obětí tvou, [D]Ježíši,
+[G]k prachu ses [D/F#]snížil, [G]na smrt jsi [A]šel.
+[D]Koli[A/D]krát mě [G/D]údiv znovu [D]naplní,
+že [G]dík Tobě [A]můžu teď [D]žít, [G]dík Tobě [A]můžu teď [D]žít.
+{end_of_verse}
+
+{start_of_chorus}
+R: [D/F#]Znovu hledím [G]na kříž, kam jsi [D/F#]šel kvůli [A]nám,
+jsem [D/F#]pokořen tvou [G]láskou, srdce [D/F#]zlomené [A]mám.
+[Hm]Znovu díky [G]vzdávám, [D/F#]znovu Ti svůj [A]život chci [D]dát.
+{end_of_chorus}
+
+{start_of_verse}
+2. [D]Vyvý[A/D]šen teď [G/D]vládneš, Králi [D]v nebesích,
+[G]tam před tvým [D/F#]trůnem i [G]já budu [A]stát.
+[D]Radost [A/D]mám, že [G/D]získal jsi mi [D]spasení,
+a [G]znovu má [A]chvála Ti [D]zní, [G]znovu má [A]chvála Ti [D]zní.
+{end_of_verse}
+
+{start_of_bridge}
+B: /:[G]Díky za tvůj [A]kříž, [D]díky za tvůj kříž,
+[G]díky za tvé [A]přátel[D]ství. :/
+{end_of_bridge}

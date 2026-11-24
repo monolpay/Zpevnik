@@ -1,0 +1,44 @@
+{title: Víc než oko spatřit smí}
+{artist: ?}
+
+{start_of_chorus}
+R: Víc než oko spatřit smí,
+víc než slovo vypoví,
+víc než srdce toužit zná,
+Bůh ti dá, Bůh ti dá, Bůh ti dá.
+{end_of_chorus}
+
+{start_of_verse}
+1. Prémie a přesčasy,
+ukládáš si do kasy,
+peníze i s pokladnou
+zloději ti ukradnou.
+{end_of_verse}
+
+{start_of_verse}
+2. Ze tvých jistot leckteré,
+prachsprostej mol sežere,
+a co ten brouk nestráví,
+odprejská a zrezaví.
+{end_of_verse}
+
+{start_of_verse}
+3. Hledáš funkce, tituly,
+v garáži máš ferrari,
+zůstáváš dál žebrákem,
+před Bohem i v srdci svém.
+{end_of_verse}
+
+{start_of_verse}
+4. Na Velehrad jednou jdeš,
+pozor, ať tím nezpychneš,
+jenom pravý poutník zná,
+že od Pána všechno má.
+{end_of_verse}
+
+{start_of_verse}
+5. Něco víš a něco znáš,
+k tomu prý dost vyděláš,
+ve slovníku najít zkus,
+význam slova exitus.
+{end_of_verse}

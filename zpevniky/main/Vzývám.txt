@@ -1,0 +1,14 @@
+{title: Vzývám}
+{artist: Lydie Votrubcová}
+
+{start_of_verse}
+/: [G]Vzývám a slavím Tvé [D]jméno
+za Tvou velkou [C]lásku, již darovals [D]nám. :/
+{end_of_verse}
+
+{start_of_chorus}
+Ty [G]slíbils, že se k nám zas [Hm]vrátíš,
+přijď, Pane Je[C]žíši, přijď pro církev [D]svou.
+Ty [G]slíbils, že se k nám zas [Hm]vrátíš,
+přijď, Pane Je[C]žíši, [Am]přijď pro [D]církev [G]svou.
+{end_of_chorus}

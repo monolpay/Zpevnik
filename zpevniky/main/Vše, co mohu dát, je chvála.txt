@@ -1,0 +1,19 @@
+{title: Vše co mohu dát je chvála}
+{artist: ?}
+
+{start_of_chorus}
+R: [D]Vše, co mohu [A]dát, je chvála,
+[Hm]vše, co mohu [A]dát, je dík.
+[D] Vše,co mohu [F#m]dát, je zvednout
+[G]hlas ke [A]chvále [D]tvé.
+{end_of_chorus}
+
+{start_of_verse}
+1. [G]Cítím, že se [Em]mne tvá ruka
+[D] [(F#m)]dotý[Hm]ká,
+Duch [G]svatý [A]přichá[D]zí.
+[G]Před tvou tváří [Em]padá na mne
+[D] [(F#m)]sláva [Hm]tvá.
+[G]Po[(Em)]zve[A7]dám svůj [D]hlas,
+[D7] [G]Pozve[A7]dám svůj [D]hlas
+{end_of_verse}

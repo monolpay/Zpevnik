@@ -1,0 +1,40 @@
+{title: Víru mám}
+{artist: Marie Tesárková}
+
+{start_of_verse}
+1. [A]U Tvých nohou pokládám svůj sen,
+[F#m]ať je jen Tvůj, Tobě patří jen.
+[Hm7]Žádná chvíle mého tápání,
+[D]Tvoji lásce nebrání.
+{end_of_verse}
+
+{start_of_verse}
+2. Sám chtěl jsem zvítězit, přiznávám,
+Už nemám sílu, tak přijď Ty sám.
+Mocný vítěz a králů Král,
+vždyť Tebe po svém boku stále mám.
+{end_of_verse}
+
+{start_of_chorus}
+R: [A]Když nepřemístíš hory,
+[E]co příliš strmé jsou,
+[F#m]nedáš mi projít mořem,
+[D]nesplníš touhu mou,
+[A]i když mi neodpovíš,
+[E]jak bych si přál já sám,
+[F#m]víru mám, víru [D]mám, v Tebe víru [A]mám.
+{end_of_chorus}
+
+{start_of_verse}
+3. Ty sám jen víš, co mi zítřek dá,
+vždyť každý nový den znáš líp než já.
+Každý můj dech ať Ti chválu vzdá.
+Chci pouze, co chceš Ty, buď vůle Tvá.
+{end_of_verse}
+
+{start_of_bridge}
+B: [D]Útěchu i svou sílu [E]nacházím v dlani Tvé,
+[F#m]Ty jsi můj pevný základ, má skála v bouři zlé.
+[D]Tvé stezky jsou vždy lepší, [E]máš pro mně dobrý plán.
+[F#m]Tam kam mě stále vedeš, [E]Ty už jsi dávno stál.
+{end_of_bridge}

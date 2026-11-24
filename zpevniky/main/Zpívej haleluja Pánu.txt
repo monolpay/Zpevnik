@@ -1,0 +1,42 @@
+{title: Zpívej haleluja Pánu}
+{artist: Linda Stassen-Benjamin}
+
+{start_of_verse}
+1. [Am]Zpívej hale[Em]luja Pá[Am]nu,[Em][Am]
+zpívej hale[C]luja Pá[E]nu,[E7]
+[Am]zpívej hale[Em]luja,
+[F]zpívej hale[C]luja,
+[Am]zpívej hale[Em]luja Pá[Am]nu.
+{end_of_verse}
+
+{start_of_verse}
+2. [Am]Pán Ježíš [Em]slavně z hrobu [Am]vstal,[Em][Am]
+Pán Ježíš [C]slavně z hrobu [E]vstal,[E7]
+[Am]Pán Ježíš z [Em]hrobu vstal,
+[F]Pán Ježíš z [C]hrobu vstal,
+[Am]Pán Ježíš [Em]slavně z hrobu [Am]vstal.
+{end_of_verse}
+
+{start_of_verse}
+3. [Am]Ježíš je [Em]všeho světa [Am]Pán,[Em][Am]
+Ježíš je [C]všeho světa [E]Pán,[E7]
+[Am]Ježíš je [Em]světa Pán,
+[F]Ježíš je [C]světa Pán,
+[Am]Ježíš je [Em]všeho světa [Am]Pán.
+{end_of_verse}
+
+{start_of_verse}
+4. [Am]Ježíš se [Em]vrátí pro svůj [Am]lid,[Em][Am]
+Ježíš se [C]vrátí pro svůj [E]lid,[E7]
+J[Am]ežíš se [Em]vrátí,
+[F]Ježíš se [C]vrátí,
+[Am]Ježíš se [Em]vrátí pro svůj [Am]lid.
+{end_of_verse}
+
+{start_of_verse}
+5. [Am]Zvedněte k [Em]Pánu ruce [Am]své,[Em][Am]
+zvedněte k [C]Pánu ruce [E]své,[E7]
+[Am]zvedněte [Em]ruce své,
+[F]zvedněte [C]ruce své,
+[Am]zvedněte k [Em]Pánu ruce [Am]své.
+{end_of_verse}

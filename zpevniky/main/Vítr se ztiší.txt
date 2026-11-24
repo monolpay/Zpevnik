@@ -1,0 +1,25 @@
+{title: Vítr se ztiší}
+{artist: Jaro Křivohlavý}
+
+{start_of_chorus}
+R: [Bm]Vítr se ztiší,
+[D]přestane bouřit moře, [A]ať hluší slyší,
+[A]už končí jejich hoře. [Bm]Vítr se ztiší,
+přestane [A]moře dout,
+[A]ať hluší slyší,
+zbaveni [Gbm]těžkých [Bm]pout.
+{end_of_chorus}
+
+{start_of_verse}
+1. [Bm]Proč svět je šedý ve tváři, kdy [G]už k oslavě zazáří,
+proč to[A]ne ve tmě hlavní [Bm]sál?
+Proč nezřím průvod pochodní, snad [G]cítíte se nehodni
+jít [A]vítat, když jde králů [Bm]Král?
+{end_of_verse}
+
+{start_of_verse}
+2. Jen [Bm]moudří přišli ke Králi, a[G]by mu poctu vzdávali,
+jen [A]zlomek z těch, co měli [Bm]jít.
+Tak tiše, skromně přišel k vám Bůh – [G]člověk, vládce světa sám,
+a [A]nikdo nechce svědkem [Bm]být.
+{end_of_verse}

@@ -1,0 +1,44 @@
+{title: Vyhlížím Tvou tvář}
+{artist: Martin Smith}
+
+{start_of_verse}
+[C][Ami][G][C][Ami][G]
+
+1. Jestli [C]víra hýbe skálou,
+tak [Ami]ať se skály [G]hnou,
+my [C]přišli jsme sem s touhou
+[Ami]hledat blízkost [G]Tvou,[F]
+vyhlížím Tvou [C]tvář.[Ami][G]
+{end_of_verse}
+
+{start_of_verse}
+2. Všeho [C]stvoření jsi Pánem 
+a [Ami]znáš i srdce [G]mé,
+vždy [C]měl jsi o mě zájem, 
+Ty [Ami]hledáš ztrace[G]né.[F]
+{end_of_verse}
+
+{start_of_chorus}
+R: Vyhlížím Tvou [C]tvář, ruce [Dmi]své 
+zvedám k [Ami]chv[G]ále [F]Tvé.
+Ty jsi [C]tím, koho [Dmi]ctím, 
+když zpívám [Ami]ha[G]le[Ami]lu[G]ja.[C][Ami][G][C][Ami][G]
+{end_of_chorus}
+
+{start_of_verse}
+3. Ty jsi [C]vším co nám jsi slíbil, 
+Tvá [Ami]věrnost přetr[G]vá,
+Tvoje [C]přítomnost nám schází,
+naše [Ami]touha jsi Ty [G]sám.[F]
+{end_of_verse}
+
+{start_of_chorus}
+R: Vyhlížím Tvou [C]tvář, ruce [Dmi]své zvedám k [Ami]chv[G]ále [F]Tvé.
+Ty jsi [C]tím, koho [Dmi]ctím, když zpívám [Ami]ha[G]le[Ami]lu[G]ja.[F]
+{end_of_chorus}
+
+{start_of_bridge}
+[F][Ami][G][F][Ami][G]
+
+B: [F]Ale[Ami]lu[G]ja, [F]ale[Ami]lu[G]ja.
+{end_of_bridge}

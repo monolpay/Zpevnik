@@ -1,0 +1,28 @@
+{title: Víc lásky, víc moci}
+{artist: Karel Řežábek}
+
+{start_of_chorus}
+R: [Em]Víc lásky, [Cmaj7]víc moci,
+[Hm7]víc tě znát srdcem [Em]svým. [Am7][Hm7]
+{end_of_chorus}
+
+{start_of_verse}
+1. [Em]Toužím tě mít [Am7]rád [Hm7]celým svým [Em]srdcem,
+[Em]toužím tě mít [Am7]rád [Hm7]celou svou [Em]myslí,
+[Em]toužím tě mít [Am7]rád [Hm7]celou svou [Em]silou,
+[Em]ty jsi můj [Cmaj7]Pán. [Hm7]
+{end_of_verse}
+
+{start_of_verse}
+2. [Em]Vyhlížím tvou [Am7]tvář [Hm7]celým svým [Em]srdcem,
+[Em]vyhlížím tvou [Am7]tvář [Hm7]celou svou [Em]myslí,
+[Em]vyhlížím tvou [Am7]tvář [Hm7]celou svou [Em]silou,
+[Em]ty jsi můj [Cmaj7]Pán. [Hm7]
+{end_of_verse}
+
+{start_of_verse}
+3. [Em]Hledám slávu [Am7]tvou [Hm7]celým svým [Em]srdcem,
+[Em]hledám slávu [Am7]tvou [Hm7]celou svou [Em]myslí,
+[Em]hledám slávu [Am7]tvou [Hm7]celou svou [Em]silou,
+[Em]ty jsi můj [Cmaj7]Pán. [Hm7]
+{end_of_verse}

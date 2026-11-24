@@ -1,11 +1,23 @@
-{title: }
-{artist: }
-
-{start_of_verse}
-{end_of_verse}
+{title: Živý je Pán}
+{artist: ?}
 
 {start_of_chorus}
+R: Živý je Pán, živý je Pán,
+živý je Pán na věky věků.
+Živý je Pán, živý je Pán,
+živý je Pán na věky věků.
 {end_of_chorus}
 
-{start_of_bridge}
-{end_of_bridge}
+{start_of_verse}
+1. Neboť tak Bůh miloval svět, že Syna svého
+jednorozeného za nás dal,
+aby každý, kdo uvěří v něho, nezahynul
+ale měl s ním život věčný v nebi.
+{end_of_verse}
+
+{start_of_verse}
+2. Nenarodí-li se kdo z vody a z Ducha,
+nemůže vejít do království,
+neboť žádný nevstoupí v nebeské království,
+jestliže se znovu nenarodí.
+{end_of_verse}

@@ -1,0 +1,11 @@
+{title: Vzácný jsi}
+{artist: ?}
+
+{start_of_verse}
+1. /: [G]Vzácný [D]jsi pro [C]mě, Pane [D]můj.:/
+{end_of_verse}
+
+{start_of_chorus}
+R: /: Tebe [G]mám, Tebe mám [D]rád, Tebe [Em]mám [C]rád,
+Ty sáms' mě [D]dřív měl [G]rád.:/
+{end_of_chorus}
