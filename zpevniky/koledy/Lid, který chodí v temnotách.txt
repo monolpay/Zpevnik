@@ -1,0 +1,31 @@
+{title: Lid, který chodí v temnotách}
+{artist: Karel Řežábek}
+
+{start_of_verse}
+1. [Dmi]Lid, který chodí [C] vtemnotách
+[F]uvidí [Gmi]veliké [A]světlo,
+[Dmi]těm, kteří bydlí [F]ve stínu [C]smrti
+[Dmi]z Betléma [A]zazáří [Dmi]světlo.
+[Dmi]Neboť se nám Syn [C]narodí,
+[F]dítě [Gmi]bude nám [A] dáno,
+[Dmi]na Jeho rameni [F]spočine [C]vláda,
+[Dmi]bude mít [A]nádherné [Dmi]jméno.
+{end_of_verse}
+
+{start_of_chorus}
+R: [Dmi]Divuplný [B]Rádce, [F]Božský [C]Boha[Dmi]týr,
+[F]sám Pokoje [C]vlád[A]ce, [Dmi]Otec [B]věčnos[F]ti.  [A]
+[Dmi]Divuplný [B]Rádce, [F]Božský [C]Boha[Dmi]týr,
+[F]sám Pokoje [C]vlád[A]ce, [Dmi]Otec [A]věčnos[Dmi]ti.
+{end_of_chorus}
+
+{start_of_verse}
+2. [Dmi]Duch boží na něm [C]spočine
+[F]v Něm [Gmi]Bůh bude [A]zjeven,
+[Dmi]z Jákoba hvězda [F]zářivá [C]vzejde
+[Dmi]Mesiáš s [A]nádherným [Dmi]jménem.
+[Dmi]On bude světlem [C]v temnotách,
+[F]majákem, [Gmi]když zuří [A]bouře,
+[Dmi]před lidskou zlobou [F]bezpečnou [C]skrýší,
+[Dmi]pramenem [A]uprostřed [Dmi]pouště.
+{end_of_verse}

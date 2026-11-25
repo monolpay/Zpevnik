@@ -1,0 +1,21 @@
+{title: Hříchy tvý tě jedou doženou}
+{artist: Miroslav Esterle}
+
+{start_of_chorus}
+R: Hříchy [Am]tvý tě [F]jednou dože[Am]nou,
+zkoušíš [Am]spálit [G]mosty za se[C]bou.
+Všecko [Am]zlý v duši [Am7]dál si [G]vlá[F]číš [Am]tmou,
+hříchy [Am]tvý tě [F]jednou dože[Am]nou.
+{end_of_chorus}
+
+{start_of_verse}
+1. [Am]Váháš, jestli [G]má cenu se [C]prát, [Am]
+[Am]váháš, jestli [G]znova začít [C]hrát. [Am]
+Hříchů [Am]svých snad [F]začít lito[Am]vat.
+{end_of_verse}
+
+{start_of_verse}
+2. [Am]Troufám si ti [G]dát to, oč jsi [C]stál, [Am]
+[Am]troufám si tě v[G]ést zas o krok [C]dál. [Am]
+/: Hříchy [Am]tvý na [F]sebe jeden [Am]vzal. :/
+{end_of_verse}

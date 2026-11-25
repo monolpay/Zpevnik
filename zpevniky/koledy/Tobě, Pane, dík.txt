@@ -1,0 +1,24 @@
+{title: Tobě, Pane, dík}
+{artist: Jaro Křivohlavý}
+
+{start_of_chorus}
+R: [G]Tobě, [H]Pane, [Em]dík, 
+že [C]dal jsi [D]perlu [G]krásnou,
+tobě, [H]Pane, [Em]dík, že [C]květy [D]mohou [G]kvést,
+tobě, [H]Pane, [Em]dík, už [C]vidím [D]hvězdu [G]jasnou,
+tobě, [H]Pane, [Em]dík, chceš s[C] námi [D]tíhu [G]nést.
+{end_of_chorus}
+
+{start_of_verse}
+1. [Am]Do šera, [Em]do tmy[C] hvězda nám s[G]vítí[Am]
+do temna [Em]noci [C]jasný [D]cíl.[Am]
+V tom světle [A]člověk[C] naději cítí,[E]
+ze světla čerpáš [Am]nejvíc sil.
+{end_of_verse}
+
+{start_of_verse}
+2. [Am]Pozdvihni [Em]oči,[C] pro tebe [G]taky[Am]
+ta hvězda [Em]svítí [C]nejsi [D]sám.[Am]
+I když ji [A]někdy[C] zakryjí mraky,[E]
+ozve se znovu [Am]pokoj vám.
+{end_of_verse}

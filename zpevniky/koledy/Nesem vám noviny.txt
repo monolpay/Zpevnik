@@ -1,0 +1,66 @@
+{title: Nesem vám noviny}
+{artist: Tomáš Bečák}
+
+{start_of_verse}
+1. [D]Nesem [G]vám [D]novi[G]ny, [D]poslou[A]chej[D]te,
+z betléms[G]ké [D]kraji[G]ny, [D]pozor [A]dej[D]te.
+Slyšte je pilně [Hm]a neo[A7]mylně,
+[D]slyšte je pilně [Hm]a neo[A7]mylně, [D]rozjí[A7]mej[D]te!
+{end_of_verse}
+
+{start_of_verse}
+2.  [D]Syna [G]po[D]rodi[G]la [D]čistá [A]Pan[D]na,
+v jeslič[G]ky [D]vloži[G]la [D]Krista [A]Pá[D]na,
+jej ovinula [Hm]a zavi[A7]nula, 
+[D]jej ovinula [Hm]a zavi[A7]nula [D]plenči[A7]čka[D]ma.
+{end_of_verse}
+
+{start_of_verse}
+3.  [D]K němuž[G]to [D]andě[G]lé [D]z nebe [A]při[D]šli
+i ta[G]ké [D]pastý[G]ři [D]jsou se [A]seš[D]li,
+jeho vítali, [Hm]jeho chvá[A7]lili,
+[D]jeho vítali, [Hm]jeho chvá[A7]lili, [D]dary [A7]nes[D]li.
+{end_of_verse}
+
+{start_of_verse}
+4. [D]Anděl[G]é [D]v obla[G]cích [D]prozpě[A]vu[D]jí,
+naro[G]ze[D]ní Pá[G]ně [D]ohla[A]šu[D]jí,
+že jest narozen, [Hm]v jeslích po[A7]ložen
+[D]že jest narozen, [Hm]v jeslích po[A7]ložen, [D]ozna[A7]mu[D]jí.
+{end_of_verse}
+
+{start_of_verse}
+5.  [D]My ta[G]ké, [D]křesťa[G]né, [D]nemeš[A]kej[D]me,
+k těm sva[G]tým [D]jeslič[G]kám
+[D]pospí[A]chej[D]me,
+Ježíše svého, [Hm]Pána na[A7]šeho, 
+[D]Ježíše svého, [Hm]Pána na[A7]šeho, [D]přiví[A7]tej[D]me.
+{end_of_verse}
+
+{start_of_verse}
+6.  [D]Vítej [G]nám, [D]Ježíš[G]ku, [D]z nebe [A]da[D]ný,
+který [G]ses [D]naro[G]dil [D]z čisté [A]Pan[D]ny;
+pohlédni na nás [Hm]a přijmi [A7]od nás,
+[D]pohlédni na nás [Hm]a přijmi [A7]od nás [D]tyto [A7]da[D]ry.
+{end_of_verse}
+
+{start_of_verse}
+7.  [D]Z nebe [G]jsi [D]sestou[G]pil [D]z pouhé [A]lás[D]ky,
+krásné [G]Je[D]zulá[G]tko, [D]kvítku [A]rajs[D]ký;
+jak jsi spanilý [Hm]a ušlech[A7]tilý,
+[D]jak jsi spanilý [Hm]a ušlech[A7]tilý, [D]celý [A7]krás[D]ný.
+{end_of_verse}
+
+{start_of_verse}
+8.  [D]Přijmi [G]ty [D]nábo[G]žné [D]dary [A]od [D]nás,
+milo[G]sti[D]vý Krá[G]li [D]a Pa[A]ne [D]náš;
+svoje poddané, [Hm]tobě od[A7]dané,
+[D]svoje poddané, [Hm]tobě od[A7]dané, [D]ty do[A7]bře [D]znáš.
+{end_of_verse}
+
+{start_of_verse}
+9.  [D]Děku[G]jem [D]ti za [G]tvé [D]naro[A]ze[D]ní,
+které [G]nám [D]přine[G]slo [D]vykou[A]pe[D]ní,
+na které jistě [Hm]čekalo [A7]lidské,
+[D]na které jistě [Hm]čekalo [A7]lidské [D]poko[A7]le[D]ní
+{end_of_verse}

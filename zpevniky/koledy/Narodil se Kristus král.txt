@@ -1,0 +1,44 @@
+{title: Narodil se Kristus Pán}
+{artist: Jan Franus}
+
+{start_of_verse}
+1. [C]Narodil [D]se [G]Kristus Pán, [D]veselme [G]se,
+[C]z růže [F]kvítek [C]vykvet [G]nám, [C]ra[F]duj[C]m[G]e [C]se;
+[C]z ži[G]vo[C]ta [F]čis[C]tého, z ro[G]du [C]krá[F]lov[C]ského
+[F]nám, nám [C]na[F]ro[C]di[G]l [C]se.
+{end_of_verse}
+
+{start_of_verse}
+2. [C]Jenž proro[D]ko[G]ván jest, [D]veselme [G]se,
+[C]ten na [F]svět po[C]slán[G] jest,[C]ra[F]duj[C]m[G]e [C]se;
+[C]z ži[G]vo[C]ta [F]čis[C]tého, z ro[G]du [C]krá[F]lov[C]ského
+[F]nám, nám [C]na[F]ro[C]di[G]l [C]se.
+{end_of_verse}
+
+{start_of_verse}
+3. [C]Člověče[D]nství [G]naše, [D]veselme [G]se,
+[C]ráčil [F]vzíti [C]na [G]se, [C]ra[F]duj[C]m[G]e [C]se;
+[C]z ži[G]vo[C]ta [F]čis[C]tého, z ro[G]du [C]krá[F]lov[C]ského
+[F]nám, nám [C]na[F]ro[C]di[G]l [C]se.
+{end_of_verse}
+
+{start_of_verse}
+4. [C]Goliáš [D]o[G]loupen, [D]veselme [G]se,
+[C]člověk [F]jest vy[C]kou[G]pen, [C]ra[F]duj[C]m[G]e [C]se;
+[C]z ži[G]vo[C]ta [F]čis[C]tého, z ro[G]du [C]krá[F]lov[C]ského
+[F]nám, nám [C]na[F]ro[C]di[G]l [C]se.
+{end_of_verse}
+
+{start_of_verse}
+5. [C]Ó milo[D]sti [G]Božská, [D]budiž s ná[G]mi;
+[C]dejž, ať [F]zlost ďá[C]bel[G]ská [C]nás [F]ne[C]m[G]á[C]mí.
+[C]Pro [G]Sy[C]na [F]mi[C]lého, [G]nám [C]na[F]ro[C]ze[F]ného,
+[C]smi[F]luj [C]se [G]nad [C]námi!
+{end_of_verse}
+
+{start_of_verse}
+6. [C]Dejž dobré [D]skon[G]čení, [D]ó Ježí[G]ši,
+[C]věčné [F]utě[C]še[G]ní [C]věr[F]ných [C]d[G]u[C]ší!
+[C]Přijď [G]nám [C]k spo[F]mo[C]žení, [G]zbav [C]nás [F]za[C]tra[F]cení
+[C]pro své [F]na[C]ro[G]z[C]ení.
+{end_of_verse}

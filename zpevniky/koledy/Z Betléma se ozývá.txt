@@ -1,0 +1,42 @@
+{title: Z Betléma se ozývá}
+{artist: D. Vančura}
+
+{start_of_verse}
+[G]Jaké divné světlo [C]shůry na zem [G]slétlo
+– [Em]Nám na[D]ro[G]dil se [D]Pán!
+V [G]chlévě Panna čistá [C7]porodila [G]Krista.
+– [Em]Nám naro[D]dil se [G]Pán!
+Kopyta [G]koní písek víří, [C]jak se zpráva [G]šíří.
+– [Em]Nám na[D]ro[G]dil se [D]Pán!
+[G]Od Mrtvého moře zní k [C]Olivetské [C#dim]hoře:
+– [G/D]Nám naro[D]dil se [G]Pán! [C][D]
+{end_of_verse}
+
+{start_of_chorus}
+R: Z [G]Betléma se ozý[D]vá [C]halelu, [D]halelu,
+z [G]Betléma se ozý[D]vá
+– [Am7]Nám naro[D]dil se [G]Pán! [C][D]
+Z [G]Betléma se ozý[D]vá [C]halelu, [D]halelu,
+z [G]Betléma se ozý[D]vá
+– [Am7]Nám naro[D]dil se [G]Pán!
+{end_of_chorus}
+
+{start_of_verse}
+1. [G]Pastýři v olivovém háji na šalmaje hrají
+– [C]Nám narodil se [G]Pán!
+zatím co v [Em]Nazaretu městě [H7]vyhrávají [Em]žestě,
+[C]nám narodil se [Am7]nám všem naro[D]dil se!
+{end_of_verse}
+
+{start_of_verse}
+2. Z [G]Východu přebohatí páni dítěti se klaní.
+– [C]Nám narodil se [G]Pán!
+poutníci [Em]obutí i bosí k [H7]jeslím dary [Em]nosí.
+[C]nám narodil se [Am7]nám všem naro[D]dil se!
+{end_of_verse}
+
+{start_of_chorus}
+Outro: C: ...[Am7]nám naro[D]dil se
+– [Am7]Glory, hale[D]luja!
+[Am7]Nám naro[D]dil se [(C)]Pán. [G]
+{end_of_chorus}
